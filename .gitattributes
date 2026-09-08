@@ -1,0 +1,3 @@
+*.bat text eol=crlf
+# Preserve the upstream font license byte-for-byte, including its original CRLF and spaces.
+app/src/main/assets/licenses/DotGothic16-OFL.txt -text whitespace=-trailing-space

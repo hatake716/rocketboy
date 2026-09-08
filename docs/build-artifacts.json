@@ -1,0 +1,27 @@
+{
+  "versionName": "1.0.0",
+  "versionCode": 1,
+  "applicationId": "io.github.hatake716.rocketboy",
+  "minSdk": 26,
+  "targetSdk": 36,
+  "artifacts": [
+    {
+      "file": "app/build/outputs/apk/debug/app-debug.apk",
+      "size": 5673611,
+      "sha256": "cdc7fc9d2e4ed9c6aec8f4f027b32db4378ab4670e178bc7add7cb3eff049c40",
+      "signing": "debug"
+    },
+    {
+      "file": "app/build/outputs/apk/release/app-release-unsigned.apk",
+      "size": 3120950,
+      "sha256": "9d302e815655489fefeef1706b78bfd5e6fd0e756d03d2c75f04f0eb2856c7ab",
+      "signing": "unsigned"
+    },
+    {
+      "file": "app/build/outputs/bundle/release/app-release.aab",
+      "size": 2483032,
+      "sha256": "a2f23d55040e7222e2c73f62b01a924fd1730bf4d758729ac23d51e187580723",
+      "signing": "unsigned"
+    }
+  ]
+}
