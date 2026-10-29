@@ -1,0 +1,99 @@
+{
+  "versionName": "1.4.2",
+  "versionCode": 9,
+  "applicationId": "io.github.hatake716.rocketboy",
+  "unit": {
+    "tests": 41,
+    "failures": 0,
+    "errors": 0,
+    "skipped": 0
+  },
+  "lint": {
+    "error": 0,
+    "warning": 35,
+    "fatal": 0
+  },
+  "artifacts": [
+    {
+      "file": "artifacts/1.4.2/ROCKETBOY-1.4.2-debug.apk",
+      "bytes": 33566528,
+      "sha256": "b5c5aba2a8d0493748eceb10612fe960a3d9bbe30f8ebc4d2395a0d38f76f04b",
+      "audio_files_unchanged": 31,
+      "quote_resources_unchanged": true
+    },
+    {
+      "file": "artifacts/1.4.2/ROCKETBOY-1.4.2-release.apk",
+      "bytes": 31053796,
+      "sha256": "4465c9aeb5f3d245c5cbcaf6fbc281461796c9910474bdbe4ce37f2e8f7a5bf9",
+      "audio_files_unchanged": 31,
+      "quote_resources_unchanged": true
+    },
+    {
+      "file": "artifacts/1.4.2/ROCKETBOY-1.4.2-release.aab",
+      "bytes": 30215079,
+      "sha256": "71a7612e32046c9c25a73c51e05ab7071e1cd27cf48a001101d88a7f0def084f",
+      "audio_files_unchanged": 31,
+      "quote_resources_unchanged": true
+    }
+  ],
+  "date": "2026-09-09",
+  "verified_at": "2026-09-09T14:06:24.255213+00:00",
+  "scope": "折り返した単語の2行目以降の入力済み下線",
+  "android": {
+    "distinct_tests": 5,
+    "passed": 5,
+    "unresolved_failures": 0,
+    "regression_reproduced_before_fix": true,
+    "emulator": "Android 15 / API 35 / emulator-5556 / read-only AVD",
+    "screens": [
+      "1080x2400 / 420dpi",
+      "720x1280 / 320dpi"
+    ],
+    "logical_canvas_sizes": [
+      "320x400",
+      "320x220"
+    ],
+    "tests": [
+      "TypingUnderlineTest#singleLineUnderlineStillTracksInput",
+      "TypingUnderlineTest#wrappedWordsUnderlineEveryRowAndClearWhenEditing",
+      "GameFlowTest#composingWrappedWordShowsProgressAndStillIntercepts",
+      "GameFlowTest#longestQuoteScoresReadingLengthTimes300AndCollectionSurvivesRecreationAndNewMission",
+      "ReleaseStoreCaptureTest#wrappedWordProgressAndInterception"
+    ],
+    "release_apk_ui_verified": true,
+    "aab_derived_apk_ui_verified": false
+  },
+  "artifacts_manifest": "build-artifacts.json",
+  "physical": {
+    "serial": "62251JEA315065",
+    "device": "Pixel 10a",
+    "previous_version": "1.4.0",
+    "previous_version_code": 7,
+    "new_version": "1.4.2",
+    "new_version_code": 9,
+    "certificate_sha256": "2c53b411c1193758289715cc230989564a571259b2eb4f5702b774c07a515e87",
+    "signing_matches": true,
+    "apk_sha256": "b5c5aba2a8d0493748eceb10612fe960a3d9bbe30f8ebc4d2395a0d38f76f04b",
+    "preferences_sha256_before": "3b9c1ea0ff29411fd3c6f19b8784a74659d5f4e21bee2c00a308449adcf651c8",
+    "preferences_sha256_after": "3b9c1ea0ff29411fd3c6f19b8784a74659d5f4e21bee2c00a308449adcf651c8",
+    "saved_preferences_byte_identical_after_update": true,
+    "installed_apk_sha256": "b5c5aba2a8d0493748eceb10612fe960a3d9bbe30f8ebc4d2395a0d38f76f04b",
+    "installed": true,
+    "launch_status": "ok",
+    "physical_input_injected": false,
+    "timestamp": "2026-09-09T14:08:48.891897+00:00",
+    "foreground_activity_verified": true
+  },
+  "github_pushed": false,
+  "google_play_uploaded": false,
+  "preserved": {
+    "audio_files": 31,
+    "audio_bytes_unchanged": true,
+    "quote_resources_unchanged": true,
+    "previous_1_4_1_play_package_unchanged": true
+  },
+  "notes": [
+    "エミュレーターの検証用配置とIME入力接続・UiAutomatorによる入力を使用。実際のアプリ描画を確認。",
+    "releaseテスト初回は空のEditTextのヒントを空文字と比較して失敗。テスト側を修正し再実行で成功。"
+  ]
+}

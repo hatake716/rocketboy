@@ -1,0 +1,114 @@
+{
+  "versionName": "1.4.0",
+  "versionCode": 7,
+  "date": "2026-09-09",
+  "scope": "名言撃破演出の強化・競技モード・スコアPNGと#rocketboyの共有",
+  "unit": {
+    "tests": 41,
+    "failures": 0,
+    "errors": 0,
+    "skipped": 0
+  },
+  "lint": {
+    "errors": 0,
+    "warnings": 35,
+    "fatal": 0
+  },
+  "android": {
+    "distinct_tests": 5,
+    "passed": 5,
+    "unresolved_failures": 0,
+    "tests": [
+      "quoteBurstOneHitGameOverImageShareAndResultRecreation",
+      "competitivePauseRestoreAndSwitchingModesKeepTheirOwnRules",
+      "thirdImpactShowsGameOverAndRetryResetsMission",
+      "gameQuoteInterceptionUnlocksOnlyAfterHitAndSurvivesRestart",
+      "rankMusicFollowsInterceptionJumpPauseRestoreAndNewMission"
+    ],
+    "screen": "1080x2400 / 420dpi"
+  },
+  "android_compact": {
+    "tests": 1,
+    "passed": 1,
+    "failures": 0,
+    "screen": "720x1280 / 320dpi",
+    "screen_restored": true
+  },
+  "competitive_rules": {
+    "start_wave": 1,
+    "start_score": 0,
+    "lives": 1,
+    "fall_speed_multiplier": 1.5,
+    "multiplier_includes_quotes": true,
+    "bonus_percent": 1,
+    "normal_spawn_rules": true
+  },
+  "sharing": {
+    "png_size": [
+      960,
+      1080
+    ],
+    "caption_hashtag": "#rocketboy",
+    "displayed_and_shared_panel_identical": true,
+    "temporary_read_grant_checked_from_separate_uid": true,
+    "result_recreation_checked": true,
+    "android_sharesheet_with_image_and_text_checked": true,
+    "physical_x_image_handlers_queried": [
+      "com.x.android.lib.XChatShareActivity",
+      "com.twitter.composer.ComposerActivity"
+    ],
+    "x_composer_ui_manually_tested": false,
+    "posted_to_x": false
+  },
+  "apk": {
+    "versionName": "1.4.0",
+    "versionCode": 7,
+    "applicationId": "io.github.hatake716.rocketboy",
+    "file": "artifacts/1.4.0/ROCKETBOY-1.4.0-debug.apk",
+    "bytes": 33689832,
+    "sha256": "8e972cacc35a8ccd57aba90222acf96752e5a32e98a02d7f3c29d3db051432f8",
+    "signing": "Android debug / APK Signature Scheme v2",
+    "audio_files_unchanged": 31,
+    "quote_resources_unchanged": true
+  },
+  "emulator": {
+    "serial": "emulator-5554",
+    "device": "Android 15 emulator",
+    "versionName": "1.4.0",
+    "versionCode": 7,
+    "installed_apk_matches": true,
+    "sha256": "8e972cacc35a8ccd57aba90222acf96752e5a32e98a02d7f3c29d3db051432f8",
+    "saved_preferences_byte_identical_after_update": true,
+    "launch_status": "ok",
+    "physical_input_injected": false,
+    "timestamp": "2026-09-09T02:06:00.481662+00:00"
+  },
+  "physical": {
+    "serial": "62251JEA315065",
+    "device": "Pixel 10a",
+    "versionName": "1.4.0",
+    "versionCode": 7,
+    "installed_apk_matches": true,
+    "sha256": "8e972cacc35a8ccd57aba90222acf96752e5a32e98a02d7f3c29d3db051432f8",
+    "saved_preferences_byte_identical_after_update": true,
+    "launch_status": "ok",
+    "physical_input_injected": false,
+    "timestamp": "2026-09-09T02:06:00.915977+00:00"
+  },
+  "preserved": {
+    "music_tracks": 26,
+    "sound_effects": 5,
+    "audio_bytes_unchanged": true,
+    "quote_resources_unchanged": true
+  },
+  "media": {
+    "recording": "artifacts/1.4.0/ROCKETBOY-1.4.0-quote-effect.mp4",
+    "audio_in_recording": false,
+    "fixture_note": "エミュレーターの実レンダラーを録画。名言と着弾位置を検証用に配置し、IME commitTextで迎撃。"
+  },
+  "notes": [
+    "最初の画像受信テストの別プロセスでKotlinランタイム参照に失敗。テスト用受信ActivityをJavaに変更し、別UIDからPNGを読み取れることを確認。",
+    "画面遷移直後のテストタップが届かなかったため、フォーカスと座標の安定を待って操作するよう修正。最終5項目と小型画面1項目は成功。",
+    "X未インストールのエミュレーターでAndroid共有画面と別アプリへの受け渡しを確認。実機上のX投稿画面の操作・投稿は未実施。"
+  ]
+}

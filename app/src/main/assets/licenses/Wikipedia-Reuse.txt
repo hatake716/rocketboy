@@ -1,0 +1,13 @@
+Wikipediaを出典とする名言について
+
+名言の出典はWikipediaの記事本文です。各名言の「出典・表記」とリンクに、記事名と確認した版を表示します。記事のリンクから編集履歴・寄稿者一覧をたどれます。
+
+Wikipediaの記事本文の利用条件：Creative Commons Attribution-ShareAlike 4.0 International（CC BY-SA 4.0）。本アプリで利用したWikipedia由来の表記についても同条件を適用します。利用した版は各名言の出典リンクで確認できます。
+https://creativecommons.org/licenses/by-sa/4.0/
+https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ja
+
+Wikipedia内で第三者の発言・作品から引用されている文章に、Wikipediaの記事と同じ許諾が自動的に及ぶわけではありません。作品の台詞等の原著作物の権利は、それぞれの権利者に帰属します。古典和歌の原文はパブリックドメインです。
+
+名言本文の表記変更、句読点・空白・改行の整理や、入力用のひらがなへの変換は各名言の表記説明に記載します。読みと解説はアプリ用に編集・執筆しています。記事本文の掲載確認と、発言・著作の原典そのものの検証は区別しています。
+
+同梱するKotowaza-MIT.txtとHyakunin-Unlicense.txtは、以前から使用している入力用の読み等の参照データに関する表示です。現在の名言の出典リンクは、すべてWikipediaに統一しています。

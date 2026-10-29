@@ -1,0 +1,55 @@
+{
+  "date": "2026-09-09 JST",
+  "versionName": "1.1.0",
+  "unitTests": 21,
+  "androidTests": 16,
+  "suites": [
+    {
+      "name": "io.github.hatake716.rocketboy.GameEngineTest",
+      "tests": "17",
+      "failures": "0",
+      "errors": "0",
+      "skipped": "0",
+      "time": "0.23",
+      "timestamp": "2026-09-08T22:10:16.718Z"
+    },
+    {
+      "name": "io.github.hatake716.rocketboy.RanksTest",
+      "tests": "4",
+      "failures": "0",
+      "errors": "0",
+      "skipped": "0",
+      "time": "0.019",
+      "timestamp": "2026-09-08T22:10:16.956Z"
+    },
+    {
+      "name": "io.github.hatake716.rocketboy.GameFlowTest",
+      "tests": "16",
+      "failures": "0",
+      "errors": "0",
+      "skipped": "0",
+      "time": "67.888",
+      "timestamp": "2026-09-08T22:07:55"
+    }
+  ],
+  "physicalDeviceTested": false,
+  "compactTests": {
+    "tests": "1",
+    "failures": "0",
+    "errors": "0",
+    "skipped": "0",
+    "time": "7.305",
+    "display": "720x1280 / 320 dpi"
+  },
+  "finalRegressionTests": {
+    "tests": "2",
+    "failures": "0",
+    "errors": "0",
+    "skipped": "0",
+    "time": "15.337"
+  },
+  "emulatorInstalledApkSha256": "e3175d2458517cda1c1e127f78f139812789bbea8a85a96728e3afedf09cb50a",
+  "processRestartCollectionVerified": [
+    "confucius-reciprocity"
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "release": "1.5.0 (10)",
+  "source": "Signed AAB-generated universal APK; Android 15 API 35 disposable emulator; 1080x1920 / 360dpi",
+  "captureTool": "tools/play/release-checks",
+  "fixtures": "Saved scores and fixed meteor words/positions demonstrate ranks. Real input and Fire: normal 12000->12090, quote 16000->19636, competitive 19980->20000. No score or UI overlays; only lossless opaque RGB conversion. System UI demo mode hides notifications.",
+  "screenshots": [
+    {
+      "file": "01-earth.png",
+      "title": "地球の青緑",
+      "alt": "地球ランクの通常モード。ひらがなの隕石と、2行目までの入力済み下線。",
+      "size": [
+        1080,
+        1920
+      ],
+      "mode": "RGB",
+      "sha256": "319a46fd83eced0f4c8f17571d272805ce3357b70ed5828d5af20bfbc056b1aa"
+    },
+    {
+      "file": "02-mars.png",
+      "title": "火星の赤銅色",
+      "alt": "火星ランクの通常モード。赤銅色の宇宙で隕石を迎撃。",
+      "size": [
+        1080,
+        1920
+      ],
+      "mode": "RGB",
+      "sha256": "351234dc76b65fa7b90e7df083c371f541060310ec618a775b5dea1b7c309b8c"
+    },
+    {
+      "file": "03-pluto.png",
+      "title": "冥王星の紫",
+      "alt": "100000点の冥王星ランク。紫のゲーム画面と日本語キーボード。",
+      "size": [
+        1080,
+        1920
+      ],
+      "mode": "RGB",
+      "sha256": "b1fb06e22016ab3eca776be40441dc96c2b20ff9a612f3f4fdd380b947e6f5de"
+    },
+    {
+      "file": "04-quote-moon.png",
+      "title": "名言モード",
+      "alt": "月の配色で名言モード。デカルトの言葉の読みを入力。",
+      "size": [
+        1080,
+        1920
+      ],
+      "mode": "RGB",
+      "sha256": "10ff765c6e9188052015ab08f74e145bb45d193db87fa332864b29194952a533"
+    },
+    {
+      "file": "05-competitive-result.png",
+      "title": "競技結果を共有",
+      "alt": "20000点・火星ランクの競技結果と、画像と #rocketboy を共有するボタン。",
+      "size": [
+        1080,
+        1920
+      ],
+      "mode": "RGB",
+      "sha256": "1fe962c755b3941eca33771199e7a028d9a5e016337338fa7fcd894f5be38fd7"
+    },
+    {
+      "file": "06-collection.png",
+      "title": "6カテゴリの名言集",
+      "alt": "全228件。歴史上の人物、企業経営者、アニメ・漫画、ゲーム、ことわざ、百人一首。",
+      "size": [
+        1080,
+        1920
+      ],
+      "mode": "RGB",
+      "sha256": "524716ceb3cbf35b1939df3dd9252dd7b8e911d6a9d28a2414859ddb4bf03a41"
+    },
+    {
+      "file": "07-music.png",
+      "title": "26曲のBGM試聴室",
+      "alt": "BGM試聴室で地球の曲を再生。全26曲を自由に選択。",
+      "size": [
+        1080,
+        1920
+      ],
+      "mode": "RGB",
+      "sha256": "20158a651b59d37a46fc64aa8844d545ff9ec31eaf43595d54da6a10a66f7ee8"
+    },
+    {
+      "file": "08-title.png",
+      "title": "最高記録が彩るタイトル",
+      "alt": "自己ベスト100000点・冥王星に合わせた紫のROCKETBOYタイトル。",
+      "size": [
+        1080,
+        1920
+      ],
+      "mode": "RGB",
+      "sha256": "c0cf7033fbc04219a4130aa188434623576458523fded9022a250c52d323191c"
+    }
+  ],
+  "iconAlt": "緑のドット絵のロケット。",
+  "featureGraphicAlt": "ROCKETBOY。ひらがなの隕石に向かうロケットと地球。",
+  "branding": "Icon and feature graphic reused unchanged from 1.4.1.",
+  "video": null
+}

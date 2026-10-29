@@ -1,0 +1,23 @@
+{
+  "verifiedAt": "2026-09-16T07:37:42.003993+00:00",
+  "pages": [
+    {
+      "url": "https://hatake716.github.io/rocketboy/privacy/",
+      "status": 200,
+      "sha256": "0d30295acf7d1f287271073d76c5b0b814652598834ee9d86d36ea61a43cb96f",
+      "matchesLocal": true
+    },
+    {
+      "url": "https://hatake716.github.io/rocketboy/support/",
+      "status": 200,
+      "sha256": "32d3fe8daa792dafba47149d5d2fadf8541f120a4f91005906f56d276e764cc7",
+      "matchesLocal": true
+    },
+    {
+      "url": "https://hatake716.github.io/rocketboy/",
+      "status": 200,
+      "sha256": "38148ef142f2e9d08f83eed59a0f3757ff1a92b89114ff8009d28446f16c5194",
+      "matchesLocal": true
+    }
+  ]
+}

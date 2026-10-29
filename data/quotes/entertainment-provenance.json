@@ -1,0 +1,181 @@
+{
+  "checkedOn": "2026-09-09",
+  "selectionUrls": [
+    "https://entertainment3150.com/archives/18305432.html",
+    "https://entertainment3150.com/archives/18517656.html",
+    "https://entertainment3150.com/archives/18963855.html",
+    "https://entertainment3150.com/archives/19460221.html",
+    "https://entertainment3150.com/archives/20732575.html"
+  ],
+  "originalSourceVerification": "紹介記事の番号付き項目と照合。ゲーム原典は未照合。",
+  "characterNameReference": {
+    "entame-akiho": "https://roboticsnotes.jp/"
+  },
+  "entries": [
+    {
+      "quoteId": "entame-18305432-06",
+      "sourceUrl": "https://entertainment3150.com/archives/18305432.html",
+      "articleVolume": 1,
+      "articleItem": 6,
+      "kind": "台詞",
+      "partialExcerpt": false,
+      "sourceHtmlSha256": "97e1a023815a770252b4d19b4a57073fb4ac9a88cc75b83178ea3057a78247f4",
+      "excerptMatchesNumberedArticleItem": true,
+      "originalSourceChecked": false
+    },
+    {
+      "quoteId": "entame-18305432-07",
+      "sourceUrl": "https://entertainment3150.com/archives/18305432.html",
+      "articleVolume": 1,
+      "articleItem": 7,
+      "kind": "台詞",
+      "partialExcerpt": false,
+      "sourceHtmlSha256": "97e1a023815a770252b4d19b4a57073fb4ac9a88cc75b83178ea3057a78247f4",
+      "excerptMatchesNumberedArticleItem": true,
+      "originalSourceChecked": false
+    },
+    {
+      "quoteId": "entame-18305432-09",
+      "sourceUrl": "https://entertainment3150.com/archives/18305432.html",
+      "articleVolume": 1,
+      "articleItem": 9,
+      "kind": "キャッチコピー",
+      "partialExcerpt": false,
+      "sourceHtmlSha256": "97e1a023815a770252b4d19b4a57073fb4ac9a88cc75b83178ea3057a78247f4",
+      "excerptMatchesNumberedArticleItem": true,
+      "originalSourceChecked": false
+    },
+    {
+      "quoteId": "entame-18517656-01",
+      "sourceUrl": "https://entertainment3150.com/archives/18517656.html",
+      "articleVolume": 2,
+      "articleItem": 1,
+      "kind": "台詞",
+      "partialExcerpt": true,
+      "sourceHtmlSha256": "318637cd6b48b3f920207dcc5fc580bd1e388aa463eb1ca5df1d687e72640930",
+      "excerptMatchesNumberedArticleItem": true,
+      "originalSourceChecked": false
+    },
+    {
+      "quoteId": "entame-18517656-02",
+      "sourceUrl": "https://entertainment3150.com/archives/18517656.html",
+      "articleVolume": 2,
+      "articleItem": 2,
+      "kind": "台詞",
+      "partialExcerpt": false,
+      "sourceHtmlSha256": "318637cd6b48b3f920207dcc5fc580bd1e388aa463eb1ca5df1d687e72640930",
+      "excerptMatchesNumberedArticleItem": true,
+      "originalSourceChecked": false
+    },
+    {
+      "quoteId": "entame-18517656-14",
+      "sourceUrl": "https://entertainment3150.com/archives/18517656.html",
+      "articleVolume": 2,
+      "articleItem": 14,
+      "kind": "台詞",
+      "partialExcerpt": false,
+      "sourceHtmlSha256": "318637cd6b48b3f920207dcc5fc580bd1e388aa463eb1ca5df1d687e72640930",
+      "excerptMatchesNumberedArticleItem": true,
+      "originalSourceChecked": false
+    },
+    {
+      "quoteId": "entame-18963855-08",
+      "sourceUrl": "https://entertainment3150.com/archives/18963855.html",
+      "articleVolume": 3,
+      "articleItem": 8,
+      "kind": "台詞",
+      "partialExcerpt": false,
+      "sourceHtmlSha256": "dba288e998d2f4e94644f08f1d51151b5356d19fe24bf4bf3ba25164c7163170",
+      "excerptMatchesNumberedArticleItem": true,
+      "originalSourceChecked": false
+    },
+    {
+      "quoteId": "entame-18963855-13",
+      "sourceUrl": "https://entertainment3150.com/archives/18963855.html",
+      "articleVolume": 3,
+      "articleItem": 13,
+      "kind": "台詞",
+      "partialExcerpt": false,
+      "sourceHtmlSha256": "dba288e998d2f4e94644f08f1d51151b5356d19fe24bf4bf3ba25164c7163170",
+      "excerptMatchesNumberedArticleItem": true,
+      "originalSourceChecked": false
+    },
+    {
+      "quoteId": "entame-18963855-15",
+      "sourceUrl": "https://entertainment3150.com/archives/18963855.html",
+      "articleVolume": 3,
+      "articleItem": 15,
+      "kind": "台詞",
+      "partialExcerpt": false,
+      "sourceHtmlSha256": "dba288e998d2f4e94644f08f1d51151b5356d19fe24bf4bf3ba25164c7163170",
+      "excerptMatchesNumberedArticleItem": true,
+      "originalSourceChecked": false
+    },
+    {
+      "quoteId": "entame-19460221-01",
+      "sourceUrl": "https://entertainment3150.com/archives/19460221.html",
+      "articleVolume": 4,
+      "articleItem": 1,
+      "kind": "メッセージ",
+      "partialExcerpt": false,
+      "sourceHtmlSha256": "a00e7af4e3a8858e2da4329c732fbbd03d146506f974b91868f9cbf9a2716b13",
+      "excerptMatchesNumberedArticleItem": true,
+      "originalSourceChecked": false
+    },
+    {
+      "quoteId": "entame-19460221-04",
+      "sourceUrl": "https://entertainment3150.com/archives/19460221.html",
+      "articleVolume": 4,
+      "articleItem": 4,
+      "kind": "掛け声",
+      "partialExcerpt": false,
+      "sourceHtmlSha256": "a00e7af4e3a8858e2da4329c732fbbd03d146506f974b91868f9cbf9a2716b13",
+      "excerptMatchesNumberedArticleItem": true,
+      "originalSourceChecked": false
+    },
+    {
+      "quoteId": "entame-19460221-13",
+      "sourceUrl": "https://entertainment3150.com/archives/19460221.html",
+      "articleVolume": 4,
+      "articleItem": 13,
+      "kind": "フレーズ",
+      "partialExcerpt": false,
+      "sourceHtmlSha256": "a00e7af4e3a8858e2da4329c732fbbd03d146506f974b91868f9cbf9a2716b13",
+      "excerptMatchesNumberedArticleItem": true,
+      "originalSourceChecked": false
+    },
+    {
+      "quoteId": "entame-20732575-03",
+      "sourceUrl": "https://entertainment3150.com/archives/20732575.html",
+      "articleVolume": 5,
+      "articleItem": 3,
+      "kind": "台詞",
+      "partialExcerpt": false,
+      "sourceHtmlSha256": "74b0c51d690da9ac8687fe883f5fc00977fe658e64c76f721c93d3b573ed2164",
+      "excerptMatchesNumberedArticleItem": true,
+      "originalSourceChecked": false
+    },
+    {
+      "quoteId": "entame-20732575-07",
+      "sourceUrl": "https://entertainment3150.com/archives/20732575.html",
+      "articleVolume": 5,
+      "articleItem": 7,
+      "kind": "台詞",
+      "partialExcerpt": false,
+      "sourceHtmlSha256": "74b0c51d690da9ac8687fe883f5fc00977fe658e64c76f721c93d3b573ed2164",
+      "excerptMatchesNumberedArticleItem": true,
+      "originalSourceChecked": false
+    },
+    {
+      "quoteId": "entame-20732575-09",
+      "sourceUrl": "https://entertainment3150.com/archives/20732575.html",
+      "articleVolume": 5,
+      "articleItem": 9,
+      "kind": "台詞",
+      "partialExcerpt": false,
+      "sourceHtmlSha256": "74b0c51d690da9ac8687fe883f5fc00977fe658e64c76f721c93d3b573ed2164",
+      "excerptMatchesNumberedArticleItem": true,
+      "originalSourceChecked": false
+    }
+  ]
+}

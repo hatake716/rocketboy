@@ -1,0 +1,85 @@
+{
+  "date": "2026-09-09",
+  "status": "15_game_quotes_added_total_catalog_incomplete",
+  "catalog": {
+    "requested_total": 3000,
+    "included_total": 361,
+    "remaining": 2639,
+    "complete": false,
+    "categories": {
+      "history": 95,
+      "business": 29,
+      "fiction": 58,
+      "game": 25,
+      "proverb": 54,
+      "hyakunin": 100
+    },
+    "hyakunin_count": 100
+  },
+  "entertainment_selection": {
+    "added": 15,
+    "source_articles": 5,
+    "quotes_per_article": 3,
+    "partial_excerpts": 1,
+    "work_profiles": 7,
+    "game_total": 25,
+    "all_article_hashes_matched": true,
+    "all_excerpts_matched_numbered_items": true,
+    "original_sources_verified": false
+  },
+  "unit_tests": {
+    "tests": 28,
+    "failures": 0,
+    "errors": 0,
+    "skipped": 0
+  },
+  "ui_tests_full": {
+    "tests": 23,
+    "failures": 0,
+    "errors": 0,
+    "skipped": 0
+  },
+  "ui_tests_compact": {
+    "tests": 1,
+    "failures": 0,
+    "errors": 0,
+    "skipped": 0
+  },
+  "initial_ui_run": {
+    "completed": false,
+    "reason": "Run stalled during startup of an existing test after 9 tests completed. Stopped the target test app and reran the full suite; no application or test code changes were made for the retry."
+  },
+  "debug_build": true,
+  "debug_lint": {
+    "errors": 0,
+    "warnings": 24
+  },
+  "existing_catalog_and_author_records_preserved": true,
+  "packaged_catalog_matches_source": true,
+  "packaged_tsv_records": 353,
+  "legacy_code_records": 8,
+  "emulator": {
+    "serial": "emulator-5554",
+    "api": 35,
+    "full": "1080x2400 / 420dpi",
+    "compact": "720x1280 / 320dpi",
+    "original_display_restored": true
+  },
+  "physical_device_tested": false,
+  "apk": {
+    "path": "artifacts/entertainment-quotes-preview/ROCKETBOY-entertainment-quotes-preview.apk",
+    "bytes": 5780880,
+    "sha256": "25687f8cd57fa4d959d3877fae67ddfa7592e0f059503c2d69aeb31c5be90995",
+    "signature": "Android debug / APK Signature Scheme v2",
+    "installed_apk_sha256_matches": true,
+    "versionName": "1.1.0",
+    "versionCode": 2
+  },
+  "target_count_check": {
+    "exit_code": 1,
+    "included": 361,
+    "missing": 2639
+  },
+  "screenshots": "docs/screenshots/entertainment-quotes-preview/",
+  "screenshots_use_prepared_collection": true
+}

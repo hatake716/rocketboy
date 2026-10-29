@@ -1,0 +1,1142 @@
+{
+  "selectionUrl": "https://meigen.keiziban-jp.com/",
+  "checkedOn": "2026-09-09",
+  "authors": [
+    {
+      "id": "keiziban-richter",
+      "name": "リヒター・アーベント",
+      "period": "『テイルズ オブ シンフォニア -ラタトスクの騎士-』",
+      "biography": "『テイルズ』シリーズの登場人物。勇気についての言葉が、主人公エミルとの関わりを印象づける。"
+    },
+    {
+      "id": "keiziban-venom-snake",
+      "name": "ヴェノム・スネーク",
+      "period": "『メタルギア ソリッド V』",
+      "biography": "兵士たちを率いる人物。自分の正体や仲間との関係が物語の重要な要素となる。"
+    },
+    {
+      "id": "keiziban-kurono",
+      "name": "玄野計",
+      "period": "『GANTZ』",
+      "biography": "謎の戦いに巻き込まれる高校生。極限の状況で、他者と関わる姿勢や生き方が問われていく。"
+    },
+    {
+      "id": "keiziban-yuri-lowell",
+      "name": "ユーリ・ローウェル",
+      "period": "『テイルズ オブ ヴェスペリア』",
+      "biography": "帝都の下町で暮らしていた青年。旅の中で仲間と出会い、自分の考える正義と向き合う。"
+    },
+    {
+      "id": "keiziban-vaan",
+      "name": "ヴァン",
+      "period": "『ファイナルファンタジーXII』",
+      "biography": "自由な空賊に憧れる青年。戦乱に巻き込まれながら、仲間とともに旅を続ける。"
+    },
+    {
+      "id": "keiziban-meta-knight-tv",
+      "name": "メタナイト",
+      "period": "アニメ『星のカービィ』",
+      "biography": "剣を使う仮面の戦士。この項目はゲーム内の台詞ではなく、テレビアニメの登場人物として分類している。"
+    },
+    {
+      "id": "keiziban-kurugaya",
+      "name": "来ヶ谷唯湖",
+      "period": "『リトルバスターズ！』",
+      "biography": "仲間たちと学園生活を送る少女。落ち着いた態度で周囲を見守りながら、自分もその輪に加わっていく。"
+    },
+    {
+      "id": "keiziban-tsumui",
+      "name": "詰井理人",
+      "period": "『パワプロクンポケット』シリーズ",
+      "biography": "野球をめぐる物語に登場する人物。仲間や後に続く人へ向けた言葉が紹介されている。"
+    },
+    {
+      "id": "keiziban-ocelot",
+      "name": "リボルバー・オセロット",
+      "period": "『メタルギア』シリーズ",
+      "biography": "銃の扱いに長けた人物。複数の作品で、主人公たちと複雑な関係を結んでいく。"
+    },
+    {
+      "id": "keiziban-tomoya",
+      "name": "岡崎朋也",
+      "period": "『CLANNAD』",
+      "biography": "学校での出会いから、人とのつながりや家族の意味に向き合っていく主人公。原作はアドベンチャーゲーム。"
+    },
+    {
+      "id": "keiziban-zack",
+      "name": "ザックス・フェア",
+      "period": "『クライシス コア -ファイナルファンタジーVII-』",
+      "biography": "ソルジャーとして戦う青年。夢や誇り、クラウドとのつながりが物語の中心となる。"
+    },
+    {
+      "id": "keiziban-soseki",
+      "name": "夏目漱石",
+      "period": "19〜20世紀・日本",
+      "biography": "『吾輩は猫である』『こころ』などで知られる作家。近代社会に生きる人の心や関係を描いた。"
+    },
+    {
+      "id": "keiziban-kenji",
+      "name": "宮沢賢治",
+      "period": "19〜20世紀・日本",
+      "biography": "岩手に生まれた詩人・童話作家。自然への関心や人々の暮らしへの思いが、詩や物語に表れている。"
+    },
+    {
+      "id": "keiziban-akutagawa",
+      "name": "芥川龍之介",
+      "period": "19〜20世紀・日本",
+      "biography": "『羅生門』『鼻』などを著した作家。歴史や伝承を題材としながら、人間の心理を描いた。"
+    },
+    {
+      "id": "keiziban-terada",
+      "name": "寺田寅彦",
+      "period": "19〜20世紀・日本",
+      "biography": "物理学者・随筆家。身近な自然や日常の現象に問いを立て、科学の視点を文章でも伝えた。"
+    },
+    {
+      "id": "keiziban-okamoto",
+      "name": "岡本太郎",
+      "period": "20世紀・日本",
+      "biography": "絵画や彫刻などで活動した芸術家。「太陽の塔」をはじめ、強い色彩や形による表現で知られる。"
+    },
+    {
+      "id": "keiziban-yukawa",
+      "name": "湯川秀樹",
+      "period": "20世紀・日本",
+      "biography": "素粒子の研究に取り組んだ物理学者。中間子の理論で知られ、科学や平和についての文章も残した。"
+    },
+    {
+      "id": "keiziban-nitobe",
+      "name": "新渡戸稲造",
+      "period": "19〜20世紀・日本",
+      "biography": "教育者・国際的な活動に携わった人物。『武士道』を英語で著し、日本と海外の相互理解に関わった。"
+    },
+    {
+      "id": "keiziban-shoin",
+      "name": "吉田松陰",
+      "period": "19世紀・日本",
+      "biography": "幕末の思想家・教育者。松下村塾で人々を教え、学問と実践を結びつける姿勢を重んじた。"
+    },
+    {
+      "id": "keiziban-takasugi",
+      "name": "高杉晋作",
+      "period": "19世紀・日本",
+      "biography": "幕末の長州藩士。奇兵隊の結成などに関わり、急速に変化する政治状況の中で活動した。"
+    },
+    {
+      "id": "keiziban-ino",
+      "name": "伊能忠敬",
+      "period": "18〜19世紀・日本",
+      "biography": "各地を歩いて測量した人物。長年の調査と記録は、日本の沿岸を詳しく示す地図の作成につながった。"
+    },
+    {
+      "id": "keiziban-kukai",
+      "name": "空海",
+      "period": "8〜9世紀・日本",
+      "biography": "平安時代の僧。唐で学び、真言密教を伝えた。書や文章の分野でも知られる。"
+    },
+    {
+      "id": "keiziban-kitasato",
+      "name": "北里柴三郎",
+      "period": "19〜20世紀・日本",
+      "biography": "細菌学者。感染症の研究や医学教育に取り組み、研究を支える組織づくりにも関わった。"
+    },
+    {
+      "id": "keiziban-fukuzawa",
+      "name": "福沢諭吉",
+      "period": "19〜20世紀・日本",
+      "biography": "教育者・著述家。慶應義塾を創設し、『学問のすゝめ』などで学びと自立について論じた。"
+    },
+    {
+      "id": "keiziban-ninomiya",
+      "name": "二宮尊徳",
+      "period": "18〜19世紀・日本",
+      "biography": "農村の再建などに取り組んだ人物。勤労と工夫、小さな積み重ねを重んじる報徳の考え方で知られる。"
+    },
+    {
+      "id": "keiziban-noguchi",
+      "name": "野口英世",
+      "period": "19〜20世紀・日本",
+      "biography": "感染症の研究に取り組んだ医学者。日本からアメリカへ渡り、研究のため各地で活動した。"
+    },
+    {
+      "id": "keiziban-minakata",
+      "name": "南方熊楠",
+      "period": "19〜20世紀・日本",
+      "biography": "博物学者・民俗学者。生物や文化に広く関心を持ち、地域の自然環境の保全にも関わった。"
+    },
+    {
+      "id": "keiziban-nakaya",
+      "name": "中谷宇吉郎",
+      "period": "20世紀・日本",
+      "biography": "雪の結晶を研究した物理学者。人工雪の研究や随筆を通じて、自然を観察する面白さを伝えた。"
+    },
+    {
+      "id": "keiziban-ogai",
+      "name": "森鴎外",
+      "period": "19〜20世紀・日本",
+      "biography": "作家・医師。軍医として働く一方、小説や翻訳、史伝など多様な文章を残した。"
+    },
+    {
+      "id": "keiziban-akiko",
+      "name": "与謝野晶子",
+      "period": "19〜20世紀・日本",
+      "biography": "歌人・作家。歌集『みだれ髪』で知られ、教育や社会についても積極的に発言した。"
+    },
+    {
+      "id": "keiziban-inamori",
+      "name": "稲盛和夫",
+      "period": "20〜21世紀・日本",
+      "biography": "京セラを創業した経営者。企業経営の経験から、働き方や判断の基準について多く語った。"
+    },
+    {
+      "id": "keiziban-ibuka",
+      "name": "井深大",
+      "period": "20世紀・日本",
+      "biography": "東京通信工業を共同創業した技術者・経営者。後のソニーにつながる製品開発や事業づくりを担った。"
+    },
+    {
+      "id": "keiziban-morita",
+      "name": "盛田昭夫",
+      "period": "20世紀・日本",
+      "biography": "ソニーの共同創業者。技術を製品として届けることや、海外へ事業を広げることに取り組んだ。"
+    },
+    {
+      "id": "keiziban-son",
+      "name": "孫正義",
+      "period": "20〜21世紀・日本",
+      "biography": "ソフトバンクを創業した経営者。情報技術や通信に関わる事業、投資などを手がけてきた。"
+    },
+    {
+      "id": "keiziban-yanai",
+      "name": "柳井正",
+      "period": "20〜21世紀・日本",
+      "biography": "ユニクロの事業拡大を進めた経営者。衣料品の企画から販売までを結びつける事業づくりに関わった。"
+    },
+    {
+      "id": "keiziban-mikitani",
+      "name": "三木谷浩史",
+      "period": "20〜21世紀・日本",
+      "biography": "楽天を創業した経営者。インターネットを使った商取引や、その周辺のサービスを展開してきた。"
+    },
+    {
+      "id": "keiziban-nitori",
+      "name": "似鳥昭雄",
+      "period": "20〜21世紀・日本",
+      "biography": "ニトリを創業した経営者。家具や生活用品の企画、調達、販売の仕組みづくりを進めた。"
+    },
+    {
+      "id": "keiziban-toyoda-akio",
+      "name": "豊田章男",
+      "period": "20〜21世紀・日本",
+      "biography": "トヨタ自動車の経営を担ってきた人物。自動車づくりや組織の判断、現場との関わりについて発言している。"
+    },
+    {
+      "id": "keiziban-suzuki-toshifumi",
+      "name": "鈴木敏文",
+      "period": "20〜21世紀・日本",
+      "biography": "セブン‐イレブンの日本での事業に深く関わった経営者。利用者の行動を考えた販売の仕組みで知られる。"
+    },
+    {
+      "id": "keiziban-iwata",
+      "name": "岩田聡",
+      "period": "20〜21世紀・日本",
+      "biography": "ゲーム開発者であり、任天堂の社長を務めた人物。開発の知識を持ちながら、遊びを届ける事業を担った。"
+    },
+    {
+      "id": "keiziban-ando",
+      "name": "安藤百福",
+      "period": "20〜21世紀・日本",
+      "biography": "日清食品を創業した人物。即席めんの開発を通じて、手軽に食事を用意する方法を広げた。"
+    },
+    {
+      "id": "keiziban-ogura",
+      "name": "小倉昌男",
+      "period": "20〜21世紀・日本",
+      "biography": "ヤマト運輸で宅急便の事業を育てた経営者。荷物を個人の暮らしへ届けるサービスの仕組みを築いた。"
+    },
+    {
+      "id": "keiziban-kobayashi",
+      "name": "小林一三",
+      "period": "19〜20世紀・日本",
+      "biography": "阪急の事業を築いた経営者。鉄道と沿線の住宅、商業、娯楽を結びつける事業を進めた。"
+    },
+    {
+      "id": "keiziban-doko",
+      "name": "土光敏夫",
+      "period": "19〜20世紀・日本",
+      "biography": "製造業の経営や行政改革に携わった人物。組織の責任、仕事の進め方についての言葉で知られる。"
+    },
+    {
+      "id": "keiziban-idemitsu",
+      "name": "出光佐三",
+      "period": "19〜20世紀・日本",
+      "biography": "出光商会を創業した経営者。石油の事業を進める中で、人を重んじる経営の考え方を語った。"
+    },
+    {
+      "id": "keiziban-torii",
+      "name": "鳥井信治郎",
+      "period": "19〜20世紀・日本",
+      "biography": "サントリーの創業者。洋酒の事業に取り組み、日本でのウイスキーづくりを進めた。"
+    },
+    {
+      "id": "keiziban-hiroshi",
+      "name": "野原ひろし",
+      "period": "『クレヨンしんちゃん』",
+      "biography": "しんのすけの父親。会社勤めと家庭生活を送りながら、家族とともにさまざまな出来事に向き合う。"
+    },
+    {
+      "id": "keiziban-snufkin",
+      "name": "スナフキン",
+      "period": "『ムーミン』",
+      "biography": "旅と音楽を好む登場人物。独りの時間や友人との距離を大切にする姿が描かれる。紹介サイトの原作・映像版の別は未照合。"
+    },
+    {
+      "id": "keiziban-lupin",
+      "name": "ルパン三世",
+      "period": "『ルパン三世』",
+      "biography": "仲間たちと行動する大泥棒。機転や大胆な計画を使いながら、宝物や自分なりの自由を追いかける。"
+    },
+    {
+      "id": "keiziban-fio",
+      "name": "フィオ・ピッコロ",
+      "period": "『紅の豚』",
+      "biography": "飛行艇の設計に取り組む若い技術者。ポルコとの出会いを通じて、仕事への誇りや信頼を示す。"
+    },
+    {
+      "id": "keiziban-toki",
+      "name": "オトキ",
+      "period": "『もののけ姫』",
+      "biography": "タタラ場で暮らす女性。厳しい状況の中でも率直にものを言い、人々と生活を支えている。"
+    },
+    {
+      "id": "keiziban-muska",
+      "name": "ムスカ",
+      "period": "『天空の城ラピュタ』",
+      "biography": "ラピュタの力を求める人物。目的のために主人公たちと対立する、物語の敵役として登場する。"
+    },
+    {
+      "id": "keiziban-saigo",
+      "name": "西郷隆盛",
+      "period": "19世紀・日本",
+      "biography": "幕末から明治初期に活動した薩摩出身の人物。維新や新政府に関わり、後に政府と対立した。"
+    },
+    {
+      "id": "keiziban-katsu",
+      "name": "勝海舟",
+      "period": "19世紀・日本",
+      "biography": "幕末の幕臣。海軍の整備や交渉に関わり、江戸の戦火を避けるための折衝でも知られる。"
+    },
+    {
+      "id": "keiziban-yozan",
+      "name": "上杉鷹山",
+      "period": "18〜19世紀・日本",
+      "biography": "米沢藩の藩主として財政や産業の改革を進めた人物。人を育て、生活を立て直す取り組みで知られる。"
+    },
+    {
+      "id": "keiziban-ieyasu",
+      "name": "徳川家康",
+      "period": "16〜17世紀・日本",
+      "biography": "江戸幕府を開いた武将。戦国時代の戦いや交渉を経て、長く続く政治体制の基礎を築いた。"
+    },
+    {
+      "id": "keiziban-nobunaga",
+      "name": "織田信長",
+      "period": "16世紀・日本",
+      "biography": "戦国時代の武将。勢力を広げて天下統一を目指したが、本能寺の変で生涯を終えた。"
+    },
+    {
+      "id": "keiziban-shingen",
+      "name": "武田信玄",
+      "period": "16世紀・日本",
+      "biography": "甲斐を拠点にした戦国大名。軍事や領国経営に関わる言葉が、後の時代にも伝えられている。"
+    },
+    {
+      "id": "keiziban-sugihara",
+      "name": "杉原千畝",
+      "period": "20世紀・日本",
+      "biography": "外交官。第二次世界大戦中、リトアニアで多くの避難民に通過査証を発給したことで知られる。"
+    },
+    {
+      "id": "keiziban-ryoma",
+      "name": "坂本龍馬",
+      "period": "19世紀・日本",
+      "biography": "幕末に活動した土佐出身の人物。海運や交易、薩摩と長州を結ぶ動きなどに関わった。"
+    },
+    {
+      "id": "keiziban-yamamoto",
+      "name": "山本五十六",
+      "period": "19〜20世紀・日本",
+      "biography": "日本海軍の軍人。連合艦隊司令長官を務めた。指揮や人との関わりに関する言葉も紹介されている。"
+    }
+  ],
+  "quotes": [
+    {
+      "id": "keiziban-43940",
+      "text": "勇気は夢を叶える魔法",
+      "reading": "ゆうきはゆめをかなえるまほう",
+      "authorId": "keiziban-richter",
+      "category": "game",
+      "explanation": "夢を現実に近づける力を、魔法という言葉で表している。ここで注目したいのは勇気であり、不安があっても自分で一歩踏み出すことが変化のきっかけになる、と読むことができる。",
+      "source": "名言集・格言集（meigen.keiziban-jp.com）の「テイルズの名言」、掲載ID 43940。リヒター・アーベントに帰属する掲載表記。原典は未照合。解説・入力用の読みは本アプリで作成。",
+      "sourceUrl": "https://meigen.keiziban-jp.com/%e3%83%86%e3%82%a4%e3%83%ab%e3%82%ba#hreview-43940",
+      "wording": "紹介サイト掲載の短い引用",
+      "license": "引用元の文章・作品に本リポジトリのMITライセンスは適用されません。"
+    },
+    {
+      "id": "keiziban-133744",
+      "text": "お前たちはダイヤモンドだ",
+      "reading": "おまえたちはだいやもんどだ",
+      "authorId": "keiziban-venom-snake",
+      "category": "game",
+      "explanation": "仲間の価値を、硬く輝く宝石に重ねた言葉。人を交換できる道具のように扱わず、一人ひとりが残した存在の重みを受け止める表現として読める。",
+      "source": "名言集・格言集（meigen.keiziban-jp.com）の「メタルギアの名言」、掲載ID 133744。ヴェノム・スネークに帰属する掲載表記。原典は未照合。解説・入力用の読みは本アプリで作成。",
+      "sourceUrl": "https://meigen.keiziban-jp.com/%e3%83%a1%e3%82%bf%e3%83%ab%e3%82%ae%e3%82%a2#hreview-133744",
+      "wording": "紹介サイト掲載の短い引用",
+      "license": "引用元の文章・作品に本リポジトリのMITライセンスは適用されません。"
+    },
+    {
+      "id": "keiziban-127043",
+      "text": "関係ない………守りたいから守るん…だ…",
+      "reading": "かんけいないまもりたいからまもるんだ",
+      "authorId": "keiziban-kurono",
+      "category": "fiction",
+      "explanation": "理由を並べる前に、相手を守りたいという気持ちを示している。途切れる言葉からは、うまく説明しきれなくても自分の選択を貫こうとする強い意思が伝わる。",
+      "source": "名言集・格言集（meigen.keiziban-jp.com）の「GANTZの名言」、掲載ID 127043。玄野計に帰属する掲載表記。原典は未照合。解説・入力用の読みは本アプリで作成。",
+      "sourceUrl": "https://meigen.keiziban-jp.com/gantz#hreview-127043",
+      "wording": "紹介サイト掲載の短い引用",
+      "license": "引用元の文章・作品に本リポジトリのMITライセンスは適用されません。"
+    },
+    {
+      "id": "keiziban-110525",
+      "text": "生きてる限りは、なんとかするさ",
+      "reading": "いきてるかぎりはなんとかするさ",
+      "authorId": "keiziban-yuri-lowell",
+      "category": "game",
+      "explanation": "先の見通しが立たなくても、行動できる限り工夫を続けるという姿勢。必ず成功すると保証する言葉ではなく、その都度できることを探す覚悟として受け止められる。",
+      "source": "名言集・格言集（meigen.keiziban-jp.com）の「ユーリ・ローウェルの名言集」、掲載ID 110525。ユーリ・ローウェルに帰属する掲載表記。原典は未照合。解説・入力用の読みは本アプリで作成。",
+      "sourceUrl": "https://meigen.keiziban-jp.com/lowell#hreview-110525",
+      "wording": "紹介サイト掲載の短い引用",
+      "license": "引用元の文章・作品に本リポジトリのMITライセンスは適用されません。"
+    },
+    {
+      "id": "keiziban-89391",
+      "text": "別に強くなくたってさ、一緒に来たし 一緒に行くんだ",
+      "reading": "べつにつよくなくたってさいっしょにきたしいっしょにいくんだ",
+      "authorId": "keiziban-vaan",
+      "category": "game",
+      "explanation": "一緒に歩む理由を、相手の強さや役立ち方だけに求めていない。これまで共に過ごした時間を大切にし、この先も仲間として進むという信頼を表している。",
+      "source": "名言集・格言集（meigen.keiziban-jp.com）の「ファイナルファンタジーの名言」、掲載ID 89391。ヴァンに帰属する掲載表記。原典は未照合。解説・入力用の読みは本アプリで作成。",
+      "sourceUrl": "https://meigen.keiziban-jp.com/%e3%83%95%e3%82%a1%e3%82%a4%e3%83%8a%e3%83%ab%e3%83%95%e3%82%a1%e3%83%b3%e3%82%bf%e3%82%b8%e3%83%bc#hreview-89391",
+      "wording": "紹介サイト掲載の短い引用",
+      "license": "引用元の文章・作品に本リポジトリのMITライセンスは適用されません。"
+    },
+    {
+      "id": "keiziban-123308",
+      "text": "皆、自分の目よりもテレビを信じる",
+      "reading": "みなじぶんのめよりもてれびをしんじる",
+      "authorId": "keiziban-meta-knight-tv",
+      "category": "fiction",
+      "explanation": "身近で確かめたことより、画面から流れる情報を優先してしまう人々への皮肉。情報を受け取るときに、自分の観察や根拠の確認を手放していないか考えるきっかけになる。",
+      "source": "名言集・格言集（meigen.keiziban-jp.com）の「星のカービィの名言」、掲載ID 123308。メタナイトに帰属する掲載表記。原典は未照合。解説・入力用の読みは本アプリで作成。",
+      "sourceUrl": "https://meigen.keiziban-jp.com/%e6%98%9f%e3%81%ae%e3%82%ab%e3%83%bc%e3%83%93%e3%82%a3#hreview-123308",
+      "wording": "紹介サイト掲載の短い引用",
+      "license": "引用元の文章・作品に本リポジトリのMITライセンスは適用されません。"
+    },
+    {
+      "id": "keiziban-72115",
+      "text": "自分ひとりでは自分すら見えない",
+      "reading": "じぶんひとりではじぶんすらみえない",
+      "authorId": "keiziban-kurugaya",
+      "category": "game",
+      "explanation": "自分についての理解も、人とのやり取りを通じて深まるという見方。友人の反応や異なる意見に触れることで、自分だけでは気づけなかった長所や思い込みが見えてくる。",
+      "source": "名言集・格言集（meigen.keiziban-jp.com）の「リトバスの名言」、掲載ID 72115。来ヶ谷唯湖に帰属する掲載表記。原典は未照合。解説・入力用の読みは本アプリで作成。",
+      "sourceUrl": "https://meigen.keiziban-jp.com/%e3%83%aa%e3%83%88%e3%83%90%e3%82%b9#hreview-72115",
+      "wording": "紹介サイト掲載の短い引用",
+      "license": "引用元の文章・作品に本リポジトリのMITライセンスは適用されません。"
+    },
+    {
+      "id": "keiziban-71220",
+      "text": "みんなの希望になるようなヤツでいてくれ。",
+      "reading": "みんなのきぼうになるようなやつでいてくれ",
+      "authorId": "keiziban-tsumui",
+      "category": "game",
+      "explanation": "力を伸ばす人に、周りの人が未来を思い描ける存在であってほしいと願う言葉。成果を独り占めするより、その姿や行動が誰かを励ますことに価値を見いだしている。",
+      "source": "名言集・格言集（meigen.keiziban-jp.com）の「パワポケの名言」、掲載ID 71220。詰井理人に帰属する掲載表記。原典は未照合。解説・入力用の読みは本アプリで作成。",
+      "sourceUrl": "https://meigen.keiziban-jp.com/%e3%83%91%e3%83%af%e3%83%9d%e3%82%b1#hreview-71220",
+      "wording": "紹介サイトの一部抜粋",
+      "license": "引用元の文章・作品に本リポジトリのMITライセンスは適用されません。"
+    },
+    {
+      "id": "keiziban-68327",
+      "text": "いいセンスだ。",
+      "reading": "いいせんすだ",
+      "authorId": "keiziban-ocelot",
+      "category": "game",
+      "explanation": "相手の判断や動きに感じた良さを、短い一言で認める表現。力量を見抜いて伝えることは、立場が違う相手への評価にもなる。紹介サイトの長い台詞から冒頭を収録している。",
+      "source": "名言集・格言集（meigen.keiziban-jp.com）の「リボルバー・オセロットの名言」、掲載ID 68327。リボルバー・オセロットに帰属する掲載表記。原典は未照合。解説・入力用の読みは本アプリで作成。",
+      "sourceUrl": "https://meigen.keiziban-jp.com/%e3%83%aa%e3%83%9c%e3%83%ab%e3%83%90%e3%83%bc%e3%82%aa%e3%82%bb%e3%83%ad%e3%83%83%e3%83%88#hreview-68327",
+      "wording": "紹介サイトの一部抜粋",
+      "license": "引用元の文章・作品に本リポジトリのMITライセンスは適用されません。"
+    },
+    {
+      "id": "keiziban-59354",
+      "text": "俺たちは、登り始める。長い、長い坂道を",
+      "reading": "おれたちはのぼりはじめるながいながいさかみちを",
+      "authorId": "keiziban-tomoya",
+      "category": "game",
+      "explanation": "これから始まる時間を、長い坂を登る動きに重ねた表現。先の道のりの長さと、それでも歩き出す瞬間が並び、出会いや変化へ向かう物語の感触を伝えている。",
+      "source": "名言集・格言集（meigen.keiziban-jp.com）の「クラナドの名言」、掲載ID 59354。岡崎朋也に帰属する掲載表記。原典は未照合。解説・入力用の読みは本アプリで作成。",
+      "sourceUrl": "https://meigen.keiziban-jp.com/%e3%82%af%e3%83%a9%e3%83%8a%e3%83%89#hreview-59354",
+      "wording": "紹介サイト掲載の短い引用",
+      "license": "引用元の文章・作品に本リポジトリのMITライセンスは適用されません。"
+    },
+    {
+      "id": "keiziban-56359",
+      "text": "お前がオレの生きた証",
+      "reading": "おまえがおれのいきたあかし",
+      "authorId": "keiziban-zack",
+      "category": "game",
+      "explanation": "自分の生きた意味を、思いを受け継ぐ相手の存在に託した言葉。残るものは目に見える成果だけでなく、人と人のつながりや、相手の中に残る記憶でもあると読める。",
+      "source": "名言集・格言集（meigen.keiziban-jp.com）の「ザックスの名言集」、掲載ID 56359。ザックス・フェアに帰属する掲載表記。原典は未照合。解説・入力用の読みは本アプリで作成。",
+      "sourceUrl": "https://meigen.keiziban-jp.com/%e3%82%b6%e3%83%83%e3%82%af%e3%82%b9#hreview-56359",
+      "wording": "紹介サイト掲載の短い引用",
+      "license": "引用元の文章・作品に本リポジトリのMITライセンスは適用されません。"
+    },
+    {
+      "id": "keiziban-2102",
+      "text": "前後を切断せよ",
+      "reading": "ぜんごをせつだんせよ",
+      "authorId": "keiziban-soseki",
+      "category": "history",
+      "explanation": "過去への後悔や先の不安に引きずられず、いまの時間へ意識を向けるよう促す表現。経験を忘れることではなく、今日取り組めることに力を集める考え方として読める。",
+      "source": "名言集・格言集（meigen.keiziban-jp.com）の「夏目漱石」、掲載ID 2102。夏目漱石に帰属する掲載表記。原典は未照合。解説・入力用の読みは本アプリで作成。",
+      "sourceUrl": "https://meigen.keiziban-jp.com/%e5%a4%8f%e7%9b%ae%e6%bc%b1%e7%9f%b3#hreview-2102",
+      "wording": "紹介サイト掲載の短い引用",
+      "license": "引用元の文章・作品に本リポジトリのMITライセンスは適用されません。"
+    },
+    {
+      "id": "keiziban-96069",
+      "text": "求道　すでに道である",
+      "reading": "きゅうどうすでにみちである",
+      "authorId": "keiziban-kenji",
+      "category": "history",
+      "explanation": "道を求める営みそのものが、すでに歩む道になっているという表現。答えを得た時だけに意味を置かず、問いを持って学び、試す過程にも価値を認めている。",
+      "source": "名言集・格言集（meigen.keiziban-jp.com）の「宮沢賢治」、掲載ID 96069。宮沢賢治に帰属する掲載表記。原典は未照合。解説・入力用の読みは本アプリで作成。",
+      "sourceUrl": "https://meigen.keiziban-jp.com/%e5%ae%ae%e6%b2%a2%e8%b3%a2%e6%b2%bb#hreview-96069",
+      "wording": "紹介サイト掲載の短い引用",
+      "license": "引用元の文章・作品に本リポジトリのMITライセンスは適用されません。"
+    },
+    {
+      "id": "keiziban-62801",
+      "text": "創作は常に冒険である。",
+      "reading": "そうさくはつねにぼうけんである",
+      "authorId": "keiziban-akutagawa",
+      "category": "history",
+      "explanation": "作品を生み出すことには、結果をあらかじめ決めきれない部分がある。慣れた形を繰り返すだけでは届かない表現を探す、その不確かさと面白さを冒険にたとえている。",
+      "source": "名言集・格言集（meigen.keiziban-jp.com）の「芥川龍之介」、掲載ID 62801。芥川龍之介に帰属する掲載表記。原典は未照合。解説・入力用の読みは本アプリで作成。",
+      "sourceUrl": "https://meigen.keiziban-jp.com/%e8%8a%a5%e5%b7%9d%e9%be%8d%e4%b9%8b%e4%bb%8b#hreview-62801",
+      "wording": "紹介サイトの一部抜粋",
+      "license": "引用元の文章・作品に本リポジトリのMITライセンスは適用されません。"
+    },
+    {
+      "id": "keiziban-177609",
+      "text": "物理学の対象は客観的実在である",
+      "reading": "ぶつりがくのたいしょうはきゃっかんてきじつざいである",
+      "authorId": "keiziban-terada",
+      "category": "history",
+      "explanation": "物理学が向き合う対象を、個人の好みとは別に存在する世界として述べている。説明の美しさだけで満足せず、観察や実験と照らして考える態度につながる言葉。",
+      "source": "名言集・格言集（meigen.keiziban-jp.com）の「寺田寅彦」、掲載ID 177609。寺田寅彦に帰属する掲載表記。原典は未照合。解説・入力用の読みは本アプリで作成。",
+      "sourceUrl": "https://meigen.keiziban-jp.com/terada_t#hreview-177609",
+      "wording": "紹介サイト掲載の短い引用",
+      "license": "引用元の文章・作品に本リポジトリのMITライセンスは適用されません。"
+    },
+    {
+      "id": "keiziban-117714",
+      "text": "壁は自分自身だ",
+      "reading": "かべはじぶんじしんだ",
+      "authorId": "keiziban-okamoto",
+      "category": "history",
+      "explanation": "外にある障害だけでなく、自分の中のためらいや決めつけにも目を向ける表現。変えられる判断や行動を探す助けになるが、現実の困難をすべて本人の責任とする意味ではない。",
+      "source": "名言集・格言集（meigen.keiziban-jp.com）の「岡本太郎」、掲載ID 117714。岡本太郎に帰属する掲載表記。原典は未照合。解説・入力用の読みは本アプリで作成。",
+      "sourceUrl": "https://meigen.keiziban-jp.com/okamoto_t#hreview-117714",
+      "wording": "紹介サイト掲載の短い引用",
+      "license": "引用元の文章・作品に本リポジトリのMITライセンスは適用されません。"
+    },
+    {
+      "id": "keiziban-89407",
+      "text": "アイデアの秘訣は、執念である",
+      "reading": "あいであのひけつはしゅうねんである",
+      "authorId": "keiziban-yukawa",
+      "category": "history",
+      "explanation": "ひらめきの背後に、問いを持ち続ける粘り強さを見る言葉。思いつきを待つだけでなく、違う角度から考え直し、手がかりを集める積み重ねが発想を支えると読める。",
+      "source": "名言集・格言集（meigen.keiziban-jp.com）の「湯川秀樹」、掲載ID 89407。湯川秀樹に帰属する掲載表記。原典は未照合。解説・入力用の読みは本アプリで作成。",
+      "sourceUrl": "https://meigen.keiziban-jp.com/%e6%b9%af%e5%b7%9d%e7%a7%80%e6%a8%b9#hreview-89407",
+      "wording": "紹介サイト掲載の短い引用",
+      "license": "引用元の文章・作品に本リポジトリのMITライセンスは適用されません。"
+    },
+    {
+      "id": "keiziban-96012",
+      "text": "富の道が名誉の道ではない",
+      "reading": "とみのみちがめいよのみちではない",
+      "authorId": "keiziban-nitobe",
+      "category": "history",
+      "explanation": "財産を増やすことと、人として尊敬されることを区別している。得た金額だけで行動を評価せず、どのような方法で得て、周囲とどう関わったかを問う表現。",
+      "source": "名言集・格言集（meigen.keiziban-jp.com）の「新渡戸稲造」、掲載ID 96012。新渡戸稲造に帰属する掲載表記。原典は未照合。解説・入力用の読みは本アプリで作成。",
+      "sourceUrl": "https://meigen.keiziban-jp.com/%e6%96%b0%e6%b8%a1%e6%88%b8%e7%a8%b2%e9%80%a0#hreview-96012",
+      "wording": "紹介サイト掲載の短い引用",
+      "license": "引用元の文章・作品に本リポジトリのMITライセンスは適用されません。"
+    },
+    {
+      "id": "keiziban-20742",
+      "text": "事をなすは誠にあり",
+      "reading": "ことをなすはまことにあり",
+      "authorId": "keiziban-shoin",
+      "category": "history",
+      "explanation": "何かを成し遂げる土台を、誠実さに求める言葉。巧みな説明だけでは信頼は続かず、約束を守り、相手や課題に真剣に向き合う行動が必要だと受け止められる。",
+      "source": "名言集・格言集（meigen.keiziban-jp.com）の「吉田松陰」、掲載ID 20742。吉田松陰に帰属する掲載表記。原典は未照合。解説・入力用の読みは本アプリで作成。",
+      "sourceUrl": "https://meigen.keiziban-jp.com/%e5%90%89%e7%94%b0%e6%9d%be%e9%99%b0#hreview-20742",
+      "wording": "紹介サイト掲載の短い引用",
+      "license": "引用元の文章・作品に本リポジトリのMITライセンスは適用されません。"
+    },
+    {
+      "id": "keiziban-66812",
+      "text": "過ちを改めれば、それは過ちではないのだ",
+      "reading": "あやまちをあらためればそれはあやまちではないのだ",
+      "authorId": "keiziban-takasugi",
+      "category": "history",
+      "explanation": "失敗を固定した評価にせず、そこから修正できることに目を向けている。起きたことを消すという意味ではなく、間違いを認めて行動を変える余地を強調する言葉。",
+      "source": "名言集・格言集（meigen.keiziban-jp.com）の「高杉晋作」、掲載ID 66812。高杉晋作に帰属する掲載表記。原典は未照合。解説・入力用の読みは本アプリで作成。",
+      "sourceUrl": "https://meigen.keiziban-jp.com/%e9%ab%98%e6%9d%89%e6%99%8b%e4%bd%9c#hreview-66812",
+      "wording": "紹介サイト掲載の短い引用",
+      "license": "引用元の文章・作品に本リポジトリのMITライセンスは適用されません。"
+    },
+    {
+      "id": "keiziban-121872",
+      "text": "後世の役に立つような、しっかりとした仕事がしたい",
+      "reading": "こうせいのやくにたつようなしっかりとしたしごとがしたい",
+      "authorId": "keiziban-ino",
+      "category": "history",
+      "explanation": "目の前の評判だけでなく、後の時代に使う人まで思い浮かべた願い。記録の正確さや仕事の確かさを大切にすることが、自分の生きる時間を越えた貢献につながる。",
+      "source": "名言集・格言集（meigen.keiziban-jp.com）の「伊能忠敬」、掲載ID 121872。伊能忠敬に帰属する掲載表記。原典は未照合。解説・入力用の読みは本アプリで作成。",
+      "sourceUrl": "https://meigen.keiziban-jp.com/inou#hreview-121872",
+      "wording": "紹介サイト掲載の短い引用",
+      "license": "引用元の文章・作品に本リポジトリのMITライセンスは適用されません。"
+    },
+    {
+      "id": "keiziban-110774",
+      "text": "能書は必ず好筆を用う",
+      "reading": "のうしょはかならずこうひつをもちう",
+      "authorId": "keiziban-kukai",
+      "category": "history",
+      "explanation": "優れた書き手と道具の関係を述べた言葉。技能があるから道具は不要なのではなく、表現に合う道具を選び、その性質を理解して使うことも技能の一部と読める。",
+      "source": "名言集・格言集（meigen.keiziban-jp.com）の「空海」、掲載ID 110774。空海に帰属する掲載表記。原典は未照合。解説・入力用の読みは本アプリで作成。",
+      "sourceUrl": "https://meigen.keiziban-jp.com/kuukai#hreview-110774",
+      "wording": "紹介サイト掲載の短い引用",
+      "license": "引用元の文章・作品に本リポジトリのMITライセンスは適用されません。"
+    },
+    {
+      "id": "keiziban-145672",
+      "text": "基礎とは生涯を通じての勉強",
+      "reading": "きそとはしょうがいをつうじてのべんきょう",
+      "authorId": "keiziban-kitasato",
+      "category": "history",
+      "explanation": "基礎を、最初に一度覚えれば終わるものとは捉えていない。経験が増えてからも基本に立ち返って学ぶことで、知識の抜けや思い込みに気づけるという見方。",
+      "source": "名言集・格言集（meigen.keiziban-jp.com）の「北里柴三郎」、掲載ID 145672。北里柴三郎に帰属する掲載表記。原典は未照合。解説・入力用の読みは本アプリで作成。",
+      "sourceUrl": "https://meigen.keiziban-jp.com/k_shi#hreview-145672",
+      "wording": "紹介サイト掲載の短い引用",
+      "license": "引用元の文章・作品に本リポジトリのMITライセンスは適用されません。"
+    },
+    {
+      "id": "keiziban-3101",
+      "text": "今日も生涯の一日なり",
+      "reading": "きょうもしょうがいのいちにちなり",
+      "authorId": "keiziban-fukuzawa",
+      "category": "history",
+      "explanation": "何気なく過ぎる今日も、一生を形づくる一日であると捉える言葉。特別な出来事だけに価値を求めず、学ぶことや休むことを含め、日々の時間の使い方を見直すきっかけになる。",
+      "source": "名言集・格言集（meigen.keiziban-jp.com）の「福沢諭吉」、掲載ID 3101。福沢諭吉に帰属する掲載表記。原典は未照合。解説・入力用の読みは本アプリで作成。",
+      "sourceUrl": "https://meigen.keiziban-jp.com/%e7%a6%8f%e6%b2%a2%e8%ab%ad%e5%90%89#hreview-3101",
+      "wording": "紹介サイト掲載の短い引用",
+      "license": "引用元の文章・作品に本リポジトリのMITライセンスは適用されません。"
+    },
+    {
+      "id": "keiziban-96946",
+      "text": "積小為大",
+      "reading": "せきしょういだい",
+      "authorId": "keiziban-ninomiya",
+      "category": "history",
+      "explanation": "小さな働きを積み重ねて大きな成果へつなげる、という考えを四字で表す。わずかな改善や練習を軽んじず、続けられる単位で取り組むことの意味を示している。",
+      "source": "名言集・格言集（meigen.keiziban-jp.com）の「二宮尊徳」、掲載ID 96946。二宮尊徳に帰属する掲載表記。原典は未照合。解説・入力用の読みは本アプリで作成。",
+      "sourceUrl": "https://meigen.keiziban-jp.com/%e4%ba%8c%e5%ae%ae%e5%b0%8a%e5%be%b3#hreview-96946",
+      "wording": "紹介サイトの一部抜粋",
+      "license": "引用元の文章・作品に本リポジトリのMITライセンスは適用されません。"
+    },
+    {
+      "id": "keiziban-2535",
+      "text": "教えに来たのではありません。習いに来たのです",
+      "reading": "おしえにきたのではありませんならいにきたのです",
+      "authorId": "keiziban-noguchi",
+      "category": "history",
+      "explanation": "知識のある立場でも、相手から学ぶ余地を持つという姿勢を表す言葉。自分の方法を伝える前に現場を見て、知らないことを認める態度が、新たな理解につながる。",
+      "source": "名言集・格言集（meigen.keiziban-jp.com）の「野口英世」、掲載ID 2535。野口英世に帰属する掲載表記。原典は未照合。解説・入力用の読みは本アプリで作成。",
+      "sourceUrl": "https://meigen.keiziban-jp.com/%e9%87%8e%e5%8f%a3%e8%8b%b1%e4%b8%96#hreview-2535",
+      "wording": "紹介サイト掲載の短い引用",
+      "license": "引用元の文章・作品に本リポジトリのMITライセンスは適用されません。"
+    },
+    {
+      "id": "keiziban-122094",
+      "text": "世界に不要のものなし",
+      "reading": "せかいにふようのものなし",
+      "authorId": "keiziban-minakata",
+      "category": "history",
+      "explanation": "身近な価値判断だけで、存在の意味を切り捨てないという見方。目立たない生物や知られていない事柄にも関係や役割があり、まず観察して知ろうとする姿勢を促す。",
+      "source": "名言集・格言集（meigen.keiziban-jp.com）の「南方熊楠」、掲載ID 122094。南方熊楠に帰属する掲載表記。原典は未照合。解説・入力用の読みは本アプリで作成。",
+      "sourceUrl": "https://meigen.keiziban-jp.com/kumagusu#hreview-122094",
+      "wording": "紹介サイト掲載の短い引用",
+      "license": "引用元の文章・作品に本リポジトリのMITライセンスは適用されません。"
+    },
+    {
+      "id": "keiziban-114908",
+      "text": "雪は天から送られた手紙である",
+      "reading": "ゆきはてんからおくられたてがみである",
+      "authorId": "keiziban-nakaya",
+      "category": "history",
+      "explanation": "雪の結晶を、空の状態を伝える手紙にたとえた表現。自然の美しさを味わう感性と、形から条件を読み取る科学の視点が結びついている。",
+      "source": "名言集・格言集（meigen.keiziban-jp.com）の「中谷宇吉郎」、掲載ID 114908。中谷宇吉郎に帰属する掲載表記。原典は未照合。解説・入力用の読みは本アプリで作成。",
+      "sourceUrl": "https://meigen.keiziban-jp.com/ukichirou#hreview-114908",
+      "wording": "紹介サイト掲載の短い引用",
+      "license": "引用元の文章・作品に本リポジトリのMITライセンスは適用されません。"
+    },
+    {
+      "id": "keiziban-114377",
+      "text": "人の光を藉りて我が光を増さんと欲するなかれ",
+      "reading": "ひとのひかりをかりてわがひかりをまさんとほっするなかれ",
+      "authorId": "keiziban-ogai",
+      "category": "history",
+      "explanation": "他人の名声を借りて自分を大きく見せようとする態度への戒め。人から学ぶことと、相手の評価を自分の実力のように見せることを区別し、自分の仕事を積み上げるよう促す。",
+      "source": "名言集・格言集（meigen.keiziban-jp.com）の「森鴎外」、掲載ID 114377。森鴎外に帰属する掲載表記。原典は未照合。解説・入力用の読みは本アプリで作成。",
+      "sourceUrl": "https://meigen.keiziban-jp.com/ougai#hreview-114377",
+      "wording": "紹介サイト掲載の短い引用",
+      "license": "引用元の文章・作品に本リポジトリのMITライセンスは適用されません。"
+    },
+    {
+      "id": "keiziban-97074",
+      "text": "人は刹那に生きると共に永遠にも生きる",
+      "reading": "ひとはせつなにいきるとともにえいえんにもいきる",
+      "authorId": "keiziban-akiko",
+      "category": "history",
+      "explanation": "一瞬を生きる個人と、長く残る影響を同時に見つめた表現。その時の思いや行動が、人の記憶や作品を通じて後へ続くという、時間の広がりを感じさせる。",
+      "source": "名言集・格言集（meigen.keiziban-jp.com）の「与謝野晶子」、掲載ID 97074。与謝野晶子に帰属する掲載表記。原典は未照合。解説・入力用の読みは本アプリで作成。",
+      "sourceUrl": "https://meigen.keiziban-jp.com/%e4%b8%8e%e8%ac%9d%e9%87%8e%e6%99%b6%e5%ad%90#hreview-97074",
+      "wording": "紹介サイト掲載の短い引用",
+      "license": "引用元の文章・作品に本リポジトリのMITライセンスは適用されません。"
+    },
+    {
+      "id": "keiziban-36726",
+      "text": "成功に至る近道などあり得ない。",
+      "reading": "せいこうにいたるちかみちなどありえない",
+      "authorId": "keiziban-inamori",
+      "category": "business",
+      "explanation": "成果だけを早く得る方法に目を奪われず、必要な過程を引き受けるよう促す言葉。基礎を身につけ、試し、修正する時間を省きすぎないことの大切さが読み取れる。",
+      "source": "名言集・格言集（meigen.keiziban-jp.com）の「稲盛和夫」、掲載ID 36726。稲盛和夫に帰属する掲載表記。原典は未照合。解説・入力用の読みは本アプリで作成。",
+      "sourceUrl": "https://meigen.keiziban-jp.com/%e7%a8%b2%e7%9b%9b%e5%92%8c%e5%a4%ab#hreview-36726",
+      "wording": "紹介サイトの一部抜粋",
+      "license": "引用元の文章・作品に本リポジトリのMITライセンスは適用されません。"
+    },
+    {
+      "id": "keiziban-50517",
+      "text": "人真似をしない。",
+      "reading": "ひとまねをしない",
+      "authorId": "keiziban-ibuka",
+      "category": "business",
+      "explanation": "既にある製品や方法をそのまま繰り返すより、自分たちで考える姿勢を示す。先例から学びながらも、何を新しく届けたいかを自分の問いとして持つことにつながる。",
+      "source": "名言集・格言集（meigen.keiziban-jp.com）の「井深大」、掲載ID 50517。井深大に帰属する掲載表記。原典は未照合。解説・入力用の読みは本アプリで作成。",
+      "sourceUrl": "https://meigen.keiziban-jp.com/%e4%ba%95%e6%b7%b1%e5%a4%a7#hreview-50517",
+      "wording": "紹介サイトの一部抜粋",
+      "license": "引用元の文章・作品に本リポジトリのMITライセンスは適用されません。"
+    },
+    {
+      "id": "keiziban-44551",
+      "text": "本質を見失ってはいけない。",
+      "reading": "ほんしつをみうしなってはいけない",
+      "authorId": "keiziban-morita",
+      "category": "business",
+      "explanation": "目先の数字や手順に追われると、仕事が何のためにあるのか忘れやすい。判断に迷う時に目的へ立ち返り、手段と目的が入れ替わっていないかを確かめる言葉。",
+      "source": "名言集・格言集（meigen.keiziban-jp.com）の「盛田昭夫」、掲載ID 44551。盛田昭夫に帰属する掲載表記。原典は未照合。解説・入力用の読みは本アプリで作成。",
+      "sourceUrl": "https://meigen.keiziban-jp.com/%e7%9b%9b%e7%94%b0%e6%98%ad%e5%a4%ab#hreview-44551",
+      "wording": "紹介サイトの一部抜粋",
+      "license": "引用元の文章・作品に本リポジトリのMITライセンスは適用されません。"
+    },
+    {
+      "id": "keiziban-163875",
+      "text": "反省するが萎縮しない",
+      "reading": "はんせいするがいしゅくしない",
+      "authorId": "keiziban-son",
+      "category": "business",
+      "explanation": "失敗を振り返ることと、次の行動を恐れて縮こまることを分けている。原因や改善点を受け止めたうえで、挑戦する余地を自分に残すという姿勢が表れている。",
+      "source": "名言集・格言集（meigen.keiziban-jp.com）の「孫正義」、掲載ID 163875。孫正義に帰属する掲載表記。原典は未照合。解説・入力用の読みは本アプリで作成。",
+      "sourceUrl": "https://meigen.keiziban-jp.com/%e5%ad%ab%e6%ad%a3%e7%be%a9#hreview-163875",
+      "wording": "紹介サイト掲載の短い引用",
+      "license": "引用元の文章・作品に本リポジトリのMITライセンスは適用されません。"
+    },
+    {
+      "id": "keiziban-34255",
+      "text": "お客様はシビアです。",
+      "reading": "おきゃくさまはしびあです",
+      "authorId": "keiziban-yanai",
+      "category": "business",
+      "explanation": "作り手の都合だけでは、利用する人の支持を得られないという認識。説明の巧さより、実際の品質や使いやすさがどう受け止められるかを確かめる必要がある。",
+      "source": "名言集・格言集（meigen.keiziban-jp.com）の「柳井正」、掲載ID 34255。柳井正に帰属する掲載表記。原典は未照合。解説・入力用の読みは本アプリで作成。",
+      "sourceUrl": "https://meigen.keiziban-jp.com/%e6%9f%b3%e4%ba%95%e6%ad%a3#hreview-34255",
+      "wording": "紹介サイトの一部抜粋",
+      "license": "引用元の文章・作品に本リポジトリのMITライセンスは適用されません。"
+    },
+    {
+      "id": "keiziban-53438",
+      "text": "様々な角度から分析せよ",
+      "reading": "さまざまなかくどからぶんせきせよ",
+      "authorId": "keiziban-mikitani",
+      "category": "business",
+      "explanation": "一つの数字や一人の意見だけで結論を急がず、見方を増やすよう促す言葉。利用者、働く人、費用、時間など異なる条件を並べると、見落としていた原因や選択肢が見えてくる。",
+      "source": "名言集・格言集（meigen.keiziban-jp.com）の「三木谷浩史」、掲載ID 53438。三木谷浩史に帰属する掲載表記。原典は未照合。解説・入力用の読みは本アプリで作成。",
+      "sourceUrl": "https://meigen.keiziban-jp.com/%e4%b8%89%e6%9c%a8%e8%b0%b7%e6%b5%a9%e5%8f%b2#hreview-53438",
+      "wording": "紹介サイト掲載の短い引用",
+      "license": "引用元の文章・作品に本リポジトリのMITライセンスは適用されません。"
+    },
+    {
+      "id": "keiziban-183386",
+      "text": "変化はチャンス",
+      "reading": "へんかはちゃんす",
+      "authorId": "keiziban-nitori",
+      "category": "business",
+      "explanation": "環境が変わる時には、困りごととともに新しい需要も生まれる。変化を歓迎するだけで終わらず、何が必要になったのか観察して行動する機会として捉える言葉。",
+      "source": "名言集・格言集（meigen.keiziban-jp.com）の「似鳥昭雄」、掲載ID 183386。似鳥昭雄に帰属する掲載表記。原典は未照合。解説・入力用の読みは本アプリで作成。",
+      "sourceUrl": "https://meigen.keiziban-jp.com/%e4%bc%bc%e9%b3%a5%e6%98%ad%e9%9b%84#hreview-183386",
+      "wording": "紹介サイト掲載の短い引用",
+      "license": "引用元の文章・作品に本リポジトリのMITライセンスは適用されません。"
+    },
+    {
+      "id": "keiziban-133771",
+      "text": "トップというのは決める事と責任を取る事",
+      "reading": "とっぷというのはきめることとせきにんをとること",
+      "authorId": "keiziban-toyoda-akio",
+      "category": "business",
+      "explanation": "組織の先頭に立つ役割を、判断とその結果を引き受けることの二つで述べている。権限を持つだけでなく、決定の影響を説明し、必要な修正にも向き合う姿勢を問う言葉。",
+      "source": "名言集・格言集（meigen.keiziban-jp.com）の「豊田章男」、掲載ID 133771。豊田章男に帰属する掲載表記。原典は未照合。解説・入力用の読みは本アプリで作成。",
+      "sourceUrl": "https://meigen.keiziban-jp.com/t_akio#hreview-133771",
+      "wording": "紹介サイト掲載の短い引用",
+      "license": "引用元の文章・作品に本リポジトリのMITライセンスは適用されません。"
+    },
+    {
+      "id": "keiziban-49746",
+      "text": "挑戦と無謀は違います。",
+      "reading": "ちょうせんとむぼうはちがいます",
+      "authorId": "keiziban-suzuki-toshifumi",
+      "category": "business",
+      "explanation": "新しいことに取り組む姿勢と、条件を考えずに飛び込むことを区別する言葉。挑戦する際にも、目的や手がかり、失敗した場合の対応を考える余地があると示している。",
+      "source": "名言集・格言集（meigen.keiziban-jp.com）の「鈴木敏文」、掲載ID 49746。鈴木敏文に帰属する掲載表記。原典は未照合。解説・入力用の読みは本アプリで作成。",
+      "sourceUrl": "https://meigen.keiziban-jp.com/%e9%88%b4%e6%9c%a8%e6%95%8f%e6%96%87#hreview-49746",
+      "wording": "紹介サイトの一部抜粋",
+      "license": "引用元の文章・作品に本リポジトリのMITライセンスは適用されません。"
+    },
+    {
+      "id": "keiziban-85364",
+      "text": "問題があると、解決せずにはいられない。",
+      "reading": "もんだいがあるとかいけつせずにはいられない",
+      "authorId": "keiziban-iwata",
+      "category": "business",
+      "explanation": "不具合や不便を見つけると、その仕組みを考えて直したくなる気持ちを表す。肩書だけで仕事を捉えず、目の前の課題そのものに関心を向ける姿勢として読める。",
+      "source": "名言集・格言集（meigen.keiziban-jp.com）の「岩田聡」、掲載ID 85364。岩田聡に帰属する掲載表記。原典は未照合。解説・入力用の読みは本アプリで作成。",
+      "sourceUrl": "https://meigen.keiziban-jp.com/%e5%b2%a9%e7%94%b0%e8%81%a1#hreview-85364",
+      "wording": "紹介サイトの一部抜粋",
+      "license": "引用元の文章・作品に本リポジトリのMITライセンスは適用されません。"
+    },
+    {
+      "id": "keiziban-42438",
+      "text": "企業は人なり",
+      "reading": "きぎょうはひとなり",
+      "authorId": "matsushita",
+      "category": "business",
+      "explanation": "設備や資金があっても、それを生かすのは人の判断や協力であるという見方。事業を育てることには、働く人が学び、力を発揮できる関係や環境を整えることも含まれる。",
+      "source": "名言集・格言集（meigen.keiziban-jp.com）の「松下幸之助」、掲載ID 42438。松下幸之助に帰属する掲載表記。原典は未照合。解説・入力用の読みは本アプリで作成。",
+      "sourceUrl": "https://meigen.keiziban-jp.com/%e6%9d%be%e4%b8%8b%e5%b9%b8%e4%b9%8b%e5%8a%a9#hreview-42438",
+      "wording": "紹介サイト掲載の短い引用",
+      "license": "引用元の文章・作品に本リポジトリのMITライセンスは適用されません。"
+    },
+    {
+      "id": "keiziban-131735",
+      "text": "金を稼ぐよりも時間を稼げ",
+      "reading": "かねをかせぐよりもじかんをかせげ",
+      "authorId": "honda",
+      "category": "business",
+      "explanation": "取り戻しにくい時間の価値を強調する言葉。作業を効率よく進めたり判断の遅れを減らしたりして、試す時間や考える時間を確保する視点として受け止められる。",
+      "source": "名言集・格言集（meigen.keiziban-jp.com）の「本田宗一郎」、掲載ID 131735。本田宗一郎に帰属する掲載表記。原典は未照合。解説・入力用の読みは本アプリで作成。",
+      "sourceUrl": "https://meigen.keiziban-jp.com/souichiro#hreview-131735",
+      "wording": "紹介サイト掲載の短い引用",
+      "license": "引用元の文章・作品に本リポジトリのMITライセンスは適用されません。"
+    },
+    {
+      "id": "keiziban-140276",
+      "text": "事業には信用が第一である。",
+      "reading": "じぎょうにはしんようがだいいちである",
+      "authorId": "shibusawa",
+      "category": "business",
+      "explanation": "取引や協力の基礎に、相手が安心して任せられる関係を置く言葉。目先の利益を得ても約束を破れば関係は続かず、誠実な対応の積み重ねが事業を支えると読める。",
+      "source": "名言集・格言集（meigen.keiziban-jp.com）の「渋沢栄一」、掲載ID 140276。渋沢栄一に帰属する掲載表記。原典は未照合。解説・入力用の読みは本アプリで作成。",
+      "sourceUrl": "https://meigen.keiziban-jp.com/shibusawa#hreview-140276",
+      "wording": "紹介サイトの一部抜粋",
+      "license": "引用元の文章・作品に本リポジトリのMITライセンスは適用されません。"
+    },
+    {
+      "id": "keiziban-43167",
+      "text": "事業を複雑にするな。",
+      "reading": "じぎょうをふくざつにするな",
+      "authorId": "keiziban-ando",
+      "category": "business",
+      "explanation": "仕組みが入り組みすぎると、何を提供し、どこで問題が起きているか見えにくくなる。目的や仕事の流れを明確にして、関わる人が理解できる形を保つよう促す言葉。",
+      "source": "名言集・格言集（meigen.keiziban-jp.com）の「安藤百福」、掲載ID 43167。安藤百福に帰属する掲載表記。原典は未照合。解説・入力用の読みは本アプリで作成。",
+      "sourceUrl": "https://meigen.keiziban-jp.com/%e5%ae%89%e8%97%a4%e7%99%be%e7%a6%8f#hreview-43167",
+      "wording": "紹介サイトの一部抜粋",
+      "license": "引用元の文章・作品に本リポジトリのMITライセンスは適用されません。"
+    },
+    {
+      "id": "keiziban-134396",
+      "text": "なんでだろうから仕事は始まる",
+      "reading": "なんでだろうからしごとははじまる",
+      "authorId": "keiziban-ogura",
+      "category": "business",
+      "explanation": "当たり前に見える手順や不便に疑問を持つことを、仕事の出発点と捉えている。小さな違和感を放置せず、理由を尋ねて確かめることで改善の課題を見つけられる。",
+      "source": "名言集・格言集（meigen.keiziban-jp.com）の「小倉昌男」、掲載ID 134396。小倉昌男に帰属する掲載表記。原典は未照合。解説・入力用の読みは本アプリで作成。",
+      "sourceUrl": "https://meigen.keiziban-jp.com/ogura_m#hreview-134396",
+      "wording": "紹介サイト掲載の短い引用",
+      "license": "引用元の文章・作品に本リポジトリのMITライセンスは適用されません。"
+    },
+    {
+      "id": "keiziban-44739",
+      "text": "乗客は電車が創造する",
+      "reading": "じょうきゃくはでんしゃがそうぞうする",
+      "authorId": "keiziban-kobayashi",
+      "category": "business",
+      "explanation": "既にいる利用者を運ぶだけでなく、交通が人の移動や街の暮らしを変えるという発想。サービスを用意することで、それまでなかった使い方や需要が育つ可能性を示している。",
+      "source": "名言集・格言集（meigen.keiziban-jp.com）の「小林一三」、掲載ID 44739。小林一三に帰属する掲載表記。原典は未照合。解説・入力用の読みは本アプリで作成。",
+      "sourceUrl": "https://meigen.keiziban-jp.com/%e5%b0%8f%e6%9e%97%e4%b8%80%e4%b8%89#hreview-44739",
+      "wording": "紹介サイト掲載の短い引用",
+      "license": "引用元の文章・作品に本リポジトリのMITライセンスは適用されません。"
+    },
+    {
+      "id": "keiziban-48428",
+      "text": "意思決定は多数決ではない。",
+      "reading": "いしけっていはたすうけつではない",
+      "authorId": "keiziban-doko",
+      "category": "business",
+      "explanation": "賛成人数を数えることだけで、仕事上の判断を済ませないという表現。意見を聞いたうえで、根拠や結果への責任を考える必要がある。あらゆる場面で多数決を否定する意味に広げない。",
+      "source": "名言集・格言集（meigen.keiziban-jp.com）の「土光敏夫」、掲載ID 48428。土光敏夫に帰属する掲載表記。原典は未照合。解説・入力用の読みは本アプリで作成。",
+      "sourceUrl": "https://meigen.keiziban-jp.com/%e5%9c%9f%e5%85%89%e6%95%8f%e5%a4%ab#hreview-48428",
+      "wording": "紹介サイトの一部抜粋",
+      "license": "引用元の文章・作品に本リポジトリのMITライセンスは適用されません。"
+    },
+    {
+      "id": "keiziban-108020",
+      "text": "主義の奴隷になるな",
+      "reading": "しゅぎのどれいになるな",
+      "authorId": "keiziban-idemitsu",
+      "category": "business",
+      "explanation": "大切にしてきた考え方にも、現実に合わない部分が生じることがある。原則を持ちながらも、それに従うこと自体を目的にせず、人や状況を見て判断し直すよう促す言葉。",
+      "source": "名言集・格言集（meigen.keiziban-jp.com）の「出光佐三」、掲載ID 108020。出光佐三に帰属する掲載表記。原典は未照合。解説・入力用の読みは本アプリで作成。",
+      "sourceUrl": "https://meigen.keiziban-jp.com/idemitsu#hreview-108020",
+      "wording": "紹介サイト掲載の短い引用",
+      "license": "引用元の文章・作品に本リポジトリのMITライセンスは適用されません。"
+    },
+    {
+      "id": "keiziban-161935",
+      "text": "やってみなはれ。やらなわからしまへんで",
+      "reading": "やってみなはれやらなわからしまへんで",
+      "authorId": "keiziban-torii",
+      "category": "business",
+      "explanation": "考えるだけでは分からないことを、実際に試して確かめるよう背中を押す言葉。小さく試して反応を見ることも含め、経験から学ぶ入口としての行動を大切にしている。",
+      "source": "名言集・格言集（meigen.keiziban-jp.com）の「鳥井信治郎」、掲載ID 161935。鳥井信治郎に帰属する掲載表記。原典は未照合。解説・入力用の読みは本アプリで作成。",
+      "sourceUrl": "https://meigen.keiziban-jp.com/t_shinjiro#hreview-161935",
+      "wording": "紹介サイト掲載の短い引用",
+      "license": "引用元の文章・作品に本リポジトリのMITライセンスは適用されません。"
+    },
+    {
+      "id": "keiziban-35560",
+      "text": "花にストレスを与えてどうする。花は愛でてやるもんだ",
+      "reading": "はなにすとれすをあたえてどうするはなはめでてやるもんだ",
+      "authorId": "keiziban-hiroshi",
+      "category": "fiction",
+      "explanation": "花を何かに追い立てる対象にせず、その美しさを味わおうという呼びかけ。成果や効率ばかりを求めがちな日常で、ただ眺めて大切にする時間の意味を考えさせる。",
+      "source": "名言集・格言集（meigen.keiziban-jp.com）の「野原ひろし」、掲載ID 35560。野原ひろしに帰属する掲載表記。原典は未照合。解説・入力用の読みは本アプリで作成。",
+      "sourceUrl": "https://meigen.keiziban-jp.com/%e9%87%8e%e5%8e%9f%e3%81%b2%e3%82%8d%e3%81%97#hreview-35560",
+      "wording": "紹介サイト掲載の短い引用",
+      "license": "引用元の文章・作品に本リポジトリのMITライセンスは適用されません。"
+    },
+    {
+      "id": "keiziban-1589",
+      "text": "自由が幸せだとは限らない",
+      "reading": "じゆうがしあわせだとはかぎらない",
+      "authorId": "keiziban-snufkin",
+      "category": "fiction",
+      "explanation": "自由であることと、心が満たされることを単純に結びつけない言葉。選べる余地があっても、何を大切にしてどう生きるかは別に考える必要がある、と読むことができる。",
+      "source": "名言集・格言集（meigen.keiziban-jp.com）の「スナフキン」、掲載ID 1589。スナフキンに帰属する掲載表記。原典は未照合。解説・入力用の読みは本アプリで作成。",
+      "sourceUrl": "https://meigen.keiziban-jp.com/%e3%82%b9%e3%83%8a%e3%83%95%e3%82%ad%e3%83%b3#hreview-1589",
+      "wording": "紹介サイト掲載の短い引用",
+      "license": "引用元の文章・作品に本リポジトリのMITライセンスは適用されません。"
+    },
+    {
+      "id": "keiziban-141808",
+      "text": "俺は俺に期待したいんだよ",
+      "reading": "おれはおれにきたいしたいんだよ",
+      "authorId": "keiziban-lupin",
+      "category": "fiction",
+      "explanation": "他人の評価を待つだけでなく、自分の可能性に自分で期待をかける言葉。現状を過大評価するのではなく、まだ試せることがあると信じて行動する姿勢を感じさせる。",
+      "source": "名言集・格言集（meigen.keiziban-jp.com）の「ルパン三世」、掲載ID 141808。ルパン三世に帰属する掲載表記。原典は未照合。解説・入力用の読みは本アプリで作成。",
+      "sourceUrl": "https://meigen.keiziban-jp.com/%e3%83%ab%e3%83%91%e3%83%b3#hreview-141808",
+      "wording": "紹介サイト掲載の短い引用",
+      "license": "引用元の文章・作品に本リポジトリのMITライセンスは適用されません。"
+    },
+    {
+      "id": "keiziban-159988",
+      "text": "きれい…、世界って本当にきれい",
+      "reading": "きれいせかいってほんとうにきれい",
+      "authorId": "keiziban-fio",
+      "category": "fiction",
+      "explanation": "目の前の世界を見て心が動く瞬間を、飾らない言葉で表している。忙しさや争いだけで世界を捉えず、景色の美しさに気づく感覚を大切にしたくなる台詞。",
+      "source": "名言集・格言集（meigen.keiziban-jp.com）の「紅の豚」、掲載ID 159988。フィオ・ピッコロに帰属する掲載表記。原典は未照合。解説・入力用の読みは本アプリで作成。",
+      "sourceUrl": "https://meigen.keiziban-jp.com/k_buta#hreview-159988",
+      "wording": "紹介サイト掲載の短い引用",
+      "license": "引用元の文章・作品に本リポジトリのMITライセンスは適用されません。"
+    },
+    {
+      "id": "keiziban-43007",
+      "text": "生きてりゃなんとかなる",
+      "reading": "いきてりゃなんとかなる",
+      "authorId": "keiziban-toki",
+      "category": "fiction",
+      "explanation": "困難のただ中でも、生きていれば次にできることが残るという力強い言葉。先の不安を一度に解決しようとするより、今日を生き延び、支え合うことに目を向けさせる。",
+      "source": "名言集・格言集（meigen.keiziban-jp.com）の「もののけ姫」、掲載ID 43007。オトキに帰属する掲載表記。原典は未照合。解説・入力用の読みは本アプリで作成。",
+      "sourceUrl": "https://meigen.keiziban-jp.com/%e3%82%82%e3%81%ae%e3%81%ae%e3%81%91%e5%a7%ab#hreview-43007",
+      "wording": "紹介サイト掲載の短い引用",
+      "license": "引用元の文章・作品に本リポジトリのMITライセンスは適用されません。"
+    },
+    {
+      "id": "keiziban-144952",
+      "text": "３分間待ってやる",
+      "reading": "さんぷんかんまってやる",
+      "authorId": "keiziban-muska",
+      "category": "fiction",
+      "explanation": "短い期限を切って相手に選択を迫る、敵役の印象的な台詞。人生の手本というより、時間制限によって緊張が高まる物語上の表現として楽しむ言葉。",
+      "source": "名言集・格言集（meigen.keiziban-jp.com）の「ムスカ」、掲載ID 144952。ムスカに帰属する掲載表記。原典は未照合。解説・入力用の読みは本アプリで作成。",
+      "sourceUrl": "https://meigen.keiziban-jp.com/%e3%83%a0%e3%82%b9%e3%82%ab#hreview-144952",
+      "wording": "紹介サイト掲載の短い引用",
+      "license": "引用元の文章・作品に本リポジトリのMITライセンスは適用されません。"
+    },
+    {
+      "id": "keiziban-88278",
+      "text": "己を尽くして人を咎めず。",
+      "reading": "おのれをつくしてひとをとがめず",
+      "authorId": "keiziban-saigo",
+      "category": "history",
+      "explanation": "人を責める前に、自分ができることを十分にしたかを問う姿勢。問題を黙って引き受け続けることではなく、まず自分の行動を省みてから相手と向き合う自戒として読める。",
+      "source": "名言集・格言集（meigen.keiziban-jp.com）の「西郷隆盛」、掲載ID 88278。西郷隆盛に帰属する掲載表記。原典は未照合。解説・入力用の読みは本アプリで作成。",
+      "sourceUrl": "https://meigen.keiziban-jp.com/%e8%a5%bf%e9%83%b7%e9%9a%86%e7%9b%9b#hreview-88278",
+      "wording": "紹介サイトの一部抜粋",
+      "license": "引用元の文章・作品に本リポジトリのMITライセンスは適用されません。"
+    },
+    {
+      "id": "keiziban-96235",
+      "text": "外交の極意は、誠心誠意にある。",
+      "reading": "がいこうのごくいはせいしんせいいにある",
+      "authorId": "keiziban-katsu",
+      "category": "history",
+      "explanation": "立場の異なる相手との交渉にも、誠実に向き合う態度が必要だという見方。技巧だけに頼らず、言葉と行動を一致させることが信頼の土台になると読める。",
+      "source": "名言集・格言集（meigen.keiziban-jp.com）の「勝海舟」、掲載ID 96235。勝海舟に帰属する掲載表記。原典は未照合。解説・入力用の読みは本アプリで作成。",
+      "sourceUrl": "https://meigen.keiziban-jp.com/%e5%8b%9d%e6%b5%b7%e8%88%9f#hreview-96235",
+      "wording": "紹介サイトの一部抜粋",
+      "license": "引用元の文章・作品に本リポジトリのMITライセンスは適用されません。"
+    },
+    {
+      "id": "keiziban-95757",
+      "text": "物を贈るには、薄くして誠あるを要す。",
+      "reading": "ものをおくるにはうすくしてまことあるをようす",
+      "authorId": "keiziban-yozan",
+      "category": "history",
+      "explanation": "贈り物の価値を豪華さだけで測らず、相手を思う真心に重心を置く言葉。「薄く」は控えめな品として読み、見栄のために無理をするより気持ちの伝わる贈り方を考えさせる。",
+      "source": "名言集・格言集（meigen.keiziban-jp.com）の「上杉鷹山」、掲載ID 95757。上杉鷹山に帰属する掲載表記。原典は未照合。解説・入力用の読みは本アプリで作成。",
+      "sourceUrl": "https://meigen.keiziban-jp.com/%e4%b8%8a%e6%9d%89%e9%b7%b9%e5%b1%b1#hreview-95757",
+      "wording": "紹介サイトの一部抜粋",
+      "license": "引用元の文章・作品に本リポジトリのMITライセンスは適用されません。"
+    },
+    {
+      "id": "keiziban-72060",
+      "text": "何事にも注意深くあれ",
+      "reading": "なにごとにもちゅういぶかくあれ",
+      "authorId": "keiziban-ieyasu",
+      "category": "history",
+      "explanation": "大きな判断だけでなく、普段の小さな変化にも気を配るよう促す言葉。思い込みで進めず、状況を観察して確かめる習慣が、見落としを減らす助けになる。",
+      "source": "名言集・格言集（meigen.keiziban-jp.com）の「徳川家康」、掲載ID 72060。徳川家康に帰属する掲載表記。原典は未照合。解説・入力用の読みは本アプリで作成。",
+      "sourceUrl": "https://meigen.keiziban-jp.com/%e5%be%b3%e5%b7%9d%e5%ae%b6%e5%ba%b7#hreview-72060",
+      "wording": "紹介サイト掲載の短い引用",
+      "license": "引用元の文章・作品に本リポジトリのMITライセンスは適用されません。"
+    },
+    {
+      "id": "keiziban-2542",
+      "text": "是非に及ばず",
+      "reading": "ぜひにおよばず",
+      "authorId": "keiziban-nobunaga",
+      "category": "history",
+      "explanation": "よい悪いを論じる段階を越えた、という受け止めを表す短い言葉。信長の言葉として伝えられる表現で、避けられない現実を前にした判断の切り替えを感じさせる。",
+      "source": "名言集・格言集（meigen.keiziban-jp.com）の「織田信長」、掲載ID 2542。織田信長に帰属する掲載表記。原典は未照合。解説・入力用の読みは本アプリで作成。",
+      "sourceUrl": "https://meigen.keiziban-jp.com/%e7%b9%94%e7%94%b0%e4%bf%a1%e9%95%b7#hreview-2542",
+      "wording": "紹介サイト掲載の短い引用",
+      "license": "引用元の文章・作品に本リポジトリのMITライセンスは適用されません。"
+    },
+    {
+      "id": "keiziban-65916",
+      "text": "もう一押しこそ慎重になれ",
+      "reading": "もうひとおしこそしんちょうになれ",
+      "authorId": "keiziban-shingen",
+      "category": "history",
+      "explanation": "あと少しで達成できそうな時ほど、勢いだけで進めないよう戒めている。終わりが見えると確認を省きやすいからこそ、条件や周囲への影響を最後まで確かめる姿勢が役立つ。",
+      "source": "名言集・格言集（meigen.keiziban-jp.com）の「武田信玄」、掲載ID 65916。武田信玄に帰属する掲載表記。原典は未照合。解説・入力用の読みは本アプリで作成。",
+      "sourceUrl": "https://meigen.keiziban-jp.com/%e6%ad%a6%e7%94%b0%e4%bf%a1%e7%8e%84#hreview-65916",
+      "wording": "紹介サイト掲載の短い引用",
+      "license": "引用元の文章・作品に本リポジトリのMITライセンスは適用されません。"
+    },
+    {
+      "id": "keiziban-98693",
+      "text": "私に頼ってくる人々を見捨てるわけにはいかない。",
+      "reading": "わたしにたよってくるひとびとをみすてるわけにはいかない",
+      "authorId": "keiziban-sugihara",
+      "category": "history",
+      "explanation": "助けを求めて来た人を、自分と無関係な存在として扱わないという決意。規則や立場を考えるだけでは済まない場面で、目の前にいる人の生命や尊厳に向き合う姿勢を表している。",
+      "source": "名言集・格言集（meigen.keiziban-jp.com）の「杉原千畝」、掲載ID 98693。杉原千畝に帰属する掲載表記。原典は未照合。解説・入力用の読みは本アプリで作成。",
+      "sourceUrl": "https://meigen.keiziban-jp.com/%e6%9d%89%e5%8e%9f%e5%8d%83%e7%95%9d#hreview-98693",
+      "wording": "紹介サイトの一部抜粋",
+      "license": "引用元の文章・作品に本リポジトリのMITライセンスは適用されません。"
+    },
+    {
+      "id": "keiziban-1130",
+      "text": "万事、見にゃわからん",
+      "reading": "ばんじみにゃわからん",
+      "authorId": "keiziban-ryoma",
+      "category": "history",
+      "explanation": "人から聞いた説明だけで判断を済ませず、自分でも確かめることを促す言葉。現場を見ると、予想と違う事情や具体的な課題に気づき、考えを更新する手がかりを得られる。",
+      "source": "名言集・格言集（meigen.keiziban-jp.com）の「坂本龍馬」、掲載ID 1130。坂本龍馬に帰属する掲載表記。原典は未照合。解説・入力用の読みは本アプリで作成。",
+      "sourceUrl": "https://meigen.keiziban-jp.com/%e5%9d%82%e6%9c%ac%e9%be%8d%e9%a6%ac#hreview-1130",
+      "wording": "紹介サイト掲載の短い引用",
+      "license": "引用元の文章・作品に本リポジトリのMITライセンスは適用されません。"
+    },
+    {
+      "id": "keiziban-19932",
+      "text": "人は神ではない。誤りをするというところに人間味がある",
+      "reading": "ひとはかみではないあやまりをするというところににんげんみがある",
+      "authorId": "keiziban-yamamoto",
+      "category": "history",
+      "explanation": "人に完全さを求めすぎず、間違える存在として受け止める見方。誤りを放置してよいという意味ではなく、失敗を認めて学び直せる余地を持つことにつながる。",
+      "source": "名言集・格言集（meigen.keiziban-jp.com）の「山本五十六」、掲載ID 19932。山本五十六に帰属する掲載表記。原典は未照合。解説・入力用の読みは本アプリで作成。",
+      "sourceUrl": "https://meigen.keiziban-jp.com/%e5%b1%b1%e6%9c%ac%e4%ba%94%e5%8d%81%e5%85%ad#hreview-19932",
+      "wording": "紹介サイト掲載の短い引用",
+      "license": "引用元の文章・作品に本リポジトリのMITライセンスは適用されません。"
+    }
+  ]
+}

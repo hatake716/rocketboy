@@ -1,0 +1,20 @@
+{
+  "included_total": 228,
+  "categories": {
+    "history": 37,
+    "business": 14,
+    "fiction": 18,
+    "game": 22,
+    "proverb": 37,
+    "hyakunin": 100
+  },
+  "hyakunin_count": 100,
+  "source_policy": "Wikipedia本文と帰属を確認できる名言のみ",
+  "source_review_complete": true,
+  "previous_count": 361,
+  "removed_count": 189,
+  "added_count": 56,
+  "exhaustive_wikipedia_coverage": false,
+  "historical_requested_total": 3000,
+  "target_note": "Wikipedia本文と帰属を個別確認して追加する。未確認の言葉で3000件に水増しせず、全Wikipediaの網羅は主張しない。"
+}

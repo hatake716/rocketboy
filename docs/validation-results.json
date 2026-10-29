@@ -1,36 +1,108 @@
 {
-  "date": "2026-09-09 JST",
-  "unitTests": 16,
-  "androidTests": 12,
-  "suites": [
+  "versionName": "1.5.0",
+  "versionCode": 10,
+  "applicationId": "io.github.hatake716.rocketboy",
+  "minSdk": 26,
+  "targetSdk": 36,
+  "unit": {
+    "tests": 44,
+    "failures": 0,
+    "errors": 0,
+    "skipped": 0
+  },
+  "lint": {
+    "error": 0,
+    "warning": 35,
+    "fatal": 0
+  },
+  "debug_update_certificate_matches_1_4_2": true,
+  "artifacts": [
     {
-      "name": "io.github.hatake716.rocketboy.GameEngineTest",
-      "tests": "12",
-      "failures": "0",
-      "errors": "0",
-      "skipped": "0",
-      "time": "0.116",
-      "timestamp": "2026-09-08T16:56:51.253Z"
+      "file": "artifacts/1.5.0/ROCKETBOY-1.5.0-debug.apk",
+      "bytes": 33573516,
+      "sha256": "93c8d628208169ff0aaf7af46ac7db2478863d77d58355bba0289f9f6eb9306d",
+      "audio_files_unchanged": 31,
+      "quote_resources_unchanged": true,
+      "signing": "Android debug / APK v2"
     },
     {
-      "name": "io.github.hatake716.rocketboy.RanksTest",
-      "tests": "4",
-      "failures": "0",
-      "errors": "0",
-      "skipped": "0",
-      "time": "0.013",
-      "timestamp": "2026-09-08T16:56:51.372Z"
+      "file": "artifacts/1.5.0/ROCKETBOY-1.5.0-release.apk",
+      "bytes": 31057104,
+      "sha256": "9b97f93e652db05c10cbc44e5a781b5ef9095db26e0d6b9db8bfd0b8919a5530",
+      "audio_files_unchanged": 31,
+      "quote_resources_unchanged": true,
+      "signing": "upload / APK v2"
     },
     {
-      "name": "io.github.hatake716.rocketboy.GameFlowTest",
-      "tests": "12",
-      "failures": "0",
-      "errors": "0",
-      "skipped": "0",
-      "time": "57.935",
-      "timestamp": "2026-09-08T17:03:52"
+      "file": "artifacts/1.5.0/ROCKETBOY-1.5.0-release.aab",
+      "bytes": 30224641,
+      "sha256": "69ffe98c818e64df6094ee189f6d6eda342444ce0e17d8f544bf696e575669b4",
+      "audio_files_unchanged": 31,
+      "quote_resources_unchanged": true,
+      "signing": "upload / signed AAB"
     }
   ],
-  "emulatorInstalledApkSha256": "cdc7fc9d2e4ed9c6aec8f4f027b32db4378ab4670e178bc7add7cb3eff049c40",
-  "physicalDeviceTested": false
+  "date": "2026-09-16",
+  "verified_at": "2026-09-16T07:29:58.461854+00:00",
+  "scope": "到達ランク別の26配色と既存UIを維持した動的切り替え",
+  "android": {
+    "distinct_tests": 7,
+    "executions": 8,
+    "passed": 8,
+    "unresolved_failures": 0,
+    "palettes_checked": 26,
+    "emulator": "Android 15 / API 35 / emulator-5556 / read-only AVD",
+    "screens": [
+      "1080x2400 / 420dpi",
+      "720x1280 / 320dpi"
+    ],
+    "checks": [
+      "palette-render",
+      "palette-live",
+      "palette-flow",
+      "palette-competitive",
+      "underline-regression",
+      "palette-compact",
+      "release-palette"
+    ],
+    "release_apk_ui_verified": true,
+    "aab_derived_apk_ui_verified": true
+  },
+  "physical": {
+    "installed": true,
+    "model": "Pixel 10a",
+    "android_version": "17",
+    "version_name": "1.5.0",
+    "version_code": 10,
+    "input_injected": false,
+    "preferences_preserved": true,
+    "launch_verified": true,
+    "gameplay_tested": false,
+    "record": "artifacts/play-1.5.0/verification/physical-update.json"
+  },
+  "github_pushed": false,
+  "google_play_uploaded": false,
+  "palette_rules": {
+    "game": "current mission score",
+    "home_and_menu": "best score",
+    "competitive_share": "immutable result score",
+    "new_mission": "cadet",
+    "resume": "saved mission score"
+  },
+  "preserved": {
+    "audio_files": 31,
+    "audio_bytes_unchanged": true,
+    "quote_resources_unchanged": true
+  },
+  "preview": "docs/screenshots/1.5.0/palette-preview.png",
+  "play_update": {
+    "date": "2026-09-16",
+    "additional_tests": 1,
+    "passed": 1,
+    "screenshots": 8,
+    "aab_universal_ui_verified": true,
+    "cold_launch_best_score_verified": 100000,
+    "log": "artifacts/play-1.5.0/verification/aab-store-capture.log",
+    "physical_install_status": "installed_and_launched"
+  }
 }

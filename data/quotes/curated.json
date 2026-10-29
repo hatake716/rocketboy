@@ -1,0 +1,137 @@
+{
+  "authors": [
+    {
+      "id": "shibusawa",
+      "name": "渋沢栄一",
+      "period": "1840–1931・日本",
+      "biography": "多くの企業や社会事業の設立・運営に関わった実業家。『論語と算盤』では、利益を得る活動と社会に対する道徳を結びつけて論じている。"
+    },
+    {
+      "id": "matsushita",
+      "name": "松下幸之助",
+      "period": "1894–1989・日本",
+      "biography": "松下電器の創業者。ここではパナソニックミュージアムの展示で紹介される短い表現を、その表記方法を明示して収録する。"
+    },
+    {
+      "id": "honda",
+      "name": "本田宗一郎",
+      "period": "1906–1991・日本",
+      "biography": "本田技研工業の創業者。技術開発での試行錯誤を重んじた人物として、Hondaの公式資料にも言葉が引き継がれている。"
+    },
+    {
+      "id": "toyoda-precepts",
+      "name": "豊田佐吉の遺訓・豊田綱領",
+      "period": "1935年制定・日本",
+      "biography": "豊田佐吉の考えを、豊田利三郎・豊田喜一郎らが整理して成文化した指針。佐吉本人の逐語的な発言記録としてではなく、後にまとめられた綱領として読む。",
+      "isWork": true
+    },
+    {
+      "id": "luffy",
+      "name": "モンキー・D・ルフィ",
+      "period": "『ONE PIECE』・尾田栄一郎",
+      "biography": "海賊王を目指す物語の主人公。実在の歴史的人物ではなく、尾田栄一郎の漫画『ONE PIECE』およびそのアニメに登場する人物。"
+    },
+    {
+      "id": "naruto",
+      "name": "うずまきナルト",
+      "period": "『NARUTO』・岸本斉史",
+      "biography": "忍者たちの世界を舞台にした物語の主人公。実在の人物ではなく、岸本斉史の漫画『NARUTO』およびそのアニメに登場する人物。"
+    },
+    {
+      "id": "rengoku",
+      "name": "煉獄杏寿郎",
+      "period": "『鬼滅の刃』・吾峠呼世晴",
+      "biography": "鬼殺隊の炎柱として描かれる人物。実在の人物ではなく、吾峠呼世晴の漫画『鬼滅の刃』およびそのアニメに登場する人物。"
+    }
+  ],
+  "quotes": [
+    {
+      "id": "shibusawa-analects-abacus",
+      "text": "論語と算盤は、甚だ遠くして甚だ近いものである。",
+      "reading": "ろんごとそろばんははなはだとおくしてはなはだちかいものである",
+      "authorId": "shibusawa",
+      "category": "business",
+      "explanation": "学問・道徳を象徴する論語と、経済を象徴する算盤は別物に見えるが、切り離せないと述べる。利益を否定するのでも利益だけを追うのでもなく、道理にかなった事業を続ける必要を語った一節。",
+      "source": "『論語と算盤』「処世と信条」の一節。渋沢栄一記念財団の翻刻で照合。",
+      "sourceUrl": "https://eiichi.shibusawa.or.jp/features/rongotosoroban/part1.html",
+      "wording": "原文の一節"
+    },
+    {
+      "id": "shibusawa-social-benefit",
+      "text": "多く社会を益することでなくては正径な事業とは言はれない。",
+      "reading": "おおくしゃかいをえきすることでなくてはせいけいなじぎょうとはいわれない",
+      "authorId": "shibusawa",
+      "category": "business",
+      "explanation": "一人だけが富み、多くの人が貧しくなるような事業のあり方を疑問視した文脈にある。事業が社会へ役立ち、堅固に発展することを、個人の利益とともに考えるよう求めている。",
+      "source": "『論語と算盤』「合理的の経営」の一節。「言はれない」は原文表記、入力は「いわれない」。",
+      "sourceUrl": "https://eiichi.shibusawa.or.jp/features/rongotosoroban/chapter7-5.html",
+      "wording": "原文の一節"
+    },
+    {
+      "id": "matsushita-continue",
+      "text": "成功するまで続ける",
+      "reading": "せいこうするまでつづける",
+      "authorId": "matsushita",
+      "category": "business",
+      "explanation": "途中の失敗だけで結論を出さず、改善を重ねて取り組む姿勢を示す表現。公式ミュージアムの展示見出しであり、発言全文ではない。続ける目的や方法を考え直す余地を含めて読む。",
+      "source": "パナソニックミュージアム「松下幸之助 30のことば」の展示見出し。",
+      "sourceUrl": "https://holdings.panasonic/jp/corporate/about/history/panasonic-museum/konosuke-museum/words.html",
+      "wording": "公式展示の短い表現"
+    },
+    {
+      "id": "honda-trials",
+      "text": "成功は99%の失敗に支えられた1%",
+      "reading": "せいこうはきゅうじゅうきゅうぱーせんとのしっぱいにささえられたいちぱーせんと",
+      "authorId": "honda",
+      "category": "business",
+      "explanation": "成果の背後には多数の試行錯誤があることを強調する。数字は統計としての成功率ではなく、実験や失敗から学ぶ過程の大きさを示す比喩として読む。",
+      "source": "Honda Report 2025、創業者の言葉を紹介する箇所。百分率の表記は同資料に沿う。",
+      "sourceUrl": "https://global.honda/jp/sustainability/integratedreport/pdf/Honda_Report_2025-jp-all.pdf",
+      "wording": "公式資料掲載の短い引用"
+    },
+    {
+      "id": "toyoda-research",
+      "text": "研究と創造に心を致し、常に時流に先んずべし",
+      "reading": "けんきゅうとそうぞうにこころをいたしつねにじりゅうにさきんずべし",
+      "authorId": "toyoda-precepts",
+      "category": "business",
+      "explanation": "研究と新しいものを生む活動に心を向け、時代の変化を先取りするよう促す。豊田佐吉の考えが死後に綱領として整理されたもので、本人がこの一文をそのまま話したとは扱わない。",
+      "source": "トヨタ自動車75年史「豊田綱領」第二条。",
+      "sourceUrl": "https://www.toyota.co.jp/jpn/company/history/75years/data/conditions/precepts/",
+      "wording": "遺訓を成文化した綱領"
+    },
+    {
+      "id": "luffy-pirate-king",
+      "text": "海賊王におれはなる!!!!",
+      "reading": "かいぞくおうにおれはなる",
+      "authorId": "luffy",
+      "category": "fiction",
+      "explanation": "ルフィが自分の目標を言葉にして掲げる宣言。大きな目標を口にし、その実現に向けて冒険へ踏み出す決意が表れている。出会う仲間や困難の中でも、目指すものを見失わない主人公の姿勢を象徴する台詞。",
+      "source": "『ONE PIECE』。公式サイト「東の海編」で掲出される台詞。原作：尾田栄一郎。",
+      "sourceUrl": "https://one-piece.com/story/east_blue/index.html",
+      "wording": "作品の短い引用"
+    },
+    {
+      "id": "naruto-ninja-way",
+      "text": "まっすぐ自分の言葉は曲げねェ",
+      "reading": "まっすぐじぶんのことばはまげねえ",
+      "authorId": "naruto",
+      "category": "fiction",
+      "explanation": "サスケを助けると決めたナルトが、自分の忍道を貫こうとする言葉。約束を引き受ける責任や、仲間への思いが表れている。困難があっても自分の口にした決意を行動で示そうとする姿勢を読み取れる。",
+      "source": "『NARUTO』。公式「忍道回顧 第3回」で紹介される台詞。原作：岸本斉史。",
+      "sourceUrl": "https://naruto-official.com/news/01_1296",
+      "wording": "作品の短い引用"
+    },
+    {
+      "id": "rengoku-heart",
+      "text": "心を燃やせ!!!",
+      "reading": "こころをもやせ",
+      "authorId": "rengoku",
+      "category": "fiction",
+      "explanation": "煉獄杏寿郎の言葉として公式サイトでも紹介される短い台詞。困難の中で自分を奮い立たせ、受け継いだ思いを行動へつなぐ励ましとして読める。",
+      "source": "『鬼滅の刃』。公式「大正名語録」で掲載。原作：吾峠呼世晴。",
+      "sourceUrl": "https://kimetsu.com/anime/special/jumpfesta2025/01.html",
+      "wording": "作品の短い引用"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "date": "2026-09-09",
+  "status": "content_incomplete",
+  "catalog": {
+    "requested_total": 3000,
+    "included_total": 170,
+    "remaining": 2830,
+    "complete": false,
+    "categories": {
+      "history": 8,
+      "business": 5,
+      "fiction": 3,
+      "proverb": 54,
+      "hyakunin": 100
+    },
+    "hyakunin_count": 100
+  },
+  "unit_tests": {
+    "tests": 23,
+    "failures": 0,
+    "errors": 0,
+    "skipped": 0
+  },
+  "ui_tests_full": {
+    "tests": 18,
+    "failures": 0,
+    "errors": 0,
+    "skipped": 0
+  },
+  "ui_tests_compact": {
+    "tests": 1,
+    "failures": 0,
+    "errors": 0,
+    "skipped": 0
+  },
+  "emulator": {
+    "serial": "emulator-5554",
+    "api": 35,
+    "full": "1080x2400 / 420dpi",
+    "compact": "720x1280 / 320dpi",
+    "original_display_restored": true
+  },
+  "debug_lint": {
+    "errors": 0,
+    "warnings": 24
+  },
+  "debug_build": true,
+  "release_build_unsigned": true,
+  "packaged_catalog_matches_source": true,
+  "physical_device_tested": false,
+  "apk": {
+    "path": "artifacts/quote-categories-preview/ROCKETBOY-quotes-preview.apk",
+    "bytes": 5722397,
+    "sha256": "5f408e07db5371fcbde1acfd8110d67c7b698f282ae3f2091ab255d421dc796f",
+    "signature": "Android debug / APK Signature Scheme v2",
+    "installed_apk_sha256_matches": true,
+    "versionName": "1.1.0",
+    "versionCode": 2
+  },
+  "target_count_check": {
+    "command": "python3 tools/quotes/build_catalog.py --require-target",
+    "exit_code": 1,
+    "reason": "170 entries included; 2830 missing"
+  },
+  "screenshots": "docs/screenshots/quote-categories-preview/",
+  "screenshots_use_prepared_collection_and_meteor_states": true
+}
