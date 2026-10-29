@@ -1,0 +1,455 @@
+{
+  "checkedOn": "2026-09-09",
+  "selectionUrl": "https://tomo8language.com/quotes-list/",
+  "originalSourceVerification": "未実施。紹介記事に帰属付きで掲載された日本語表記を採録。",
+  "entries": [
+    {
+      "quoteId": "tomo8-einstein",
+      "sourceUrl": "https://tomo8language.com/einstein/",
+      "sourceHtmlSha256": "d1e7ff11c8cc106e1a4511baa6cb64f8dbab1020629eda1fea3fddc6eb457333",
+      "excerptMatchesArticleAfterWhitespaceNormalization": true,
+      "originalSourceChecked": false
+    },
+    {
+      "quoteId": "tomo8-adam-smith",
+      "sourceUrl": "https://tomo8language.com/adam-smith/",
+      "sourceHtmlSha256": "29ddc1132616597e86fb05edefae69bf25474e687217f5c381347866769db581",
+      "excerptMatchesArticleAfterWhitespaceNormalization": true,
+      "originalSourceChecked": false
+    },
+    {
+      "quoteId": "tomo8-aristotle",
+      "sourceUrl": "https://tomo8language.com/aristotle/",
+      "sourceHtmlSha256": "66aa699a2f423d821f1e44d1029008e97dd695c2a4df067fad3f8b68033194f8",
+      "excerptMatchesArticleAfterWhitespaceNormalization": true,
+      "originalSourceChecked": false
+    },
+    {
+      "quoteId": "tomo8-andy-warhol",
+      "sourceUrl": "https://tomo8language.com/andy-warhol/",
+      "sourceHtmlSha256": "c129a9c30b2ff5339d34fbb9ac0cef0cabe1de3192bf79e326c1b2ac48cfaf20",
+      "excerptMatchesArticleAfterWhitespaceNormalization": true,
+      "originalSourceChecked": false
+    },
+    {
+      "quoteId": "tomo8-andersen",
+      "sourceUrl": "https://tomo8language.com/andersen/",
+      "sourceHtmlSha256": "99346a9888f97d67991111928f8fafc38ebf8c0706ec77fe8982655cf08a1ab5",
+      "excerptMatchesArticleAfterWhitespaceNormalization": true,
+      "originalSourceChecked": false
+    },
+    {
+      "quoteId": "tomo8-andrew-carnegie",
+      "sourceUrl": "https://tomo8language.com/andrew-carnegie/",
+      "sourceHtmlSha256": "f5694720fefc6afdc3e056b4b9ef27e99c533bc51a39db15d25f463f7385cff2",
+      "excerptMatchesArticleAfterWhitespaceNormalization": true,
+      "originalSourceChecked": false
+    },
+    {
+      "quoteId": "tomo8-anne-frank",
+      "sourceUrl": "https://tomo8language.com/anne-frank/",
+      "sourceHtmlSha256": "01f865c9b0800b540861ab588107047e38515daf8e88c07dbc6543256cf1eec2",
+      "excerptMatchesArticleAfterWhitespaceNormalization": true,
+      "originalSourceChecked": false
+    },
+    {
+      "quoteId": "tomo8-walt-disney",
+      "sourceUrl": "https://tomo8language.com/walt-disney/",
+      "sourceHtmlSha256": "e8e3eaf6d6dae0b7796192ae1f53a75fb6a4b1b7e7297b98413ed3b4fa8309f2",
+      "excerptMatchesArticleAfterWhitespaceNormalization": true,
+      "originalSourceChecked": false
+    },
+    {
+      "quoteId": "tomo8-victorhugo",
+      "sourceUrl": "https://tomo8language.com/victorhugo/",
+      "sourceHtmlSha256": "d1946e35b713e8ae46f83d3d8bd8174fe94ec2d4139a4c8ec3bdf2666cb9fd4c",
+      "excerptMatchesArticleAfterWhitespaceNormalization": true,
+      "originalSourceChecked": false
+    },
+    {
+      "quoteId": "tomo8-viktor-frankl",
+      "sourceUrl": "https://tomo8language.com/viktor-frankl/",
+      "sourceHtmlSha256": "ecf63bfe0c2fee4b9ba26dc2e7f7526736609a573396b95daa377abe84825d73",
+      "excerptMatchesArticleAfterWhitespaceNormalization": true,
+      "originalSourceChecked": false
+    },
+    {
+      "quoteId": "tomo8-erich-fromm",
+      "sourceUrl": "https://tomo8language.com/erich-fromm/",
+      "sourceHtmlSha256": "d36d1901158808b030aeeb8b8c7085672766e3339f42b7677595e3f5b96faef1",
+      "excerptMatchesArticleAfterWhitespaceNormalization": true,
+      "originalSourceChecked": false
+    },
+    {
+      "quoteId": "tomo8-thomas-edison",
+      "sourceUrl": "https://tomo8language.com/thomas-edison/",
+      "sourceHtmlSha256": "67c17d693d705ad0b42848d1aeab968f14b7aae7c4c96d9cd6d480f14e22cfb7",
+      "excerptMatchesArticleAfterWhitespaceNormalization": true,
+      "originalSourceChecked": false
+    },
+    {
+      "quoteId": "tomo8-eleanor-roosevelt",
+      "sourceUrl": "https://tomo8language.com/eleanor-roosevelt/",
+      "sourceHtmlSha256": "5647d5d0353aa9c03cbf38667407298daa05771d4aa5e091929ac12ce04451bd",
+      "excerptMatchesArticleAfterWhitespaceNormalization": true,
+      "originalSourceChecked": false
+    },
+    {
+      "quoteId": "tomo8-audrey-hepburn",
+      "sourceUrl": "https://tomo8language.com/audrey-hepburn/",
+      "sourceHtmlSha256": "14fa2f36d531e93b5dd36d14fc54d690399dcdde83ec4a42a9497f096e125cfd",
+      "excerptMatchesArticleAfterWhitespaceNormalization": true,
+      "originalSourceChecked": false
+    },
+    {
+      "quoteId": "tomo8-gaudi",
+      "sourceUrl": "https://tomo8language.com/gaudi/",
+      "sourceHtmlSha256": "1f68bb2edf6b3c86ff6ea0502799f48641e76bbb62c43036141e0e242f700b1c",
+      "excerptMatchesArticleAfterWhitespaceNormalization": true,
+      "originalSourceChecked": false
+    },
+    {
+      "quoteId": "tomo8-gandhi",
+      "sourceUrl": "https://tomo8language.com/gandhi/",
+      "sourceHtmlSha256": "9fe0857d9a1253a233ad997f66ce99c4f64908e50e570256b051c3f99719cddb",
+      "excerptMatchesArticleAfterWhitespaceNormalization": true,
+      "originalSourceChecked": false
+    },
+    {
+      "quoteId": "tomo8-immanuel-kant",
+      "sourceUrl": "https://tomo8language.com/immanuel-kant/",
+      "sourceHtmlSha256": "d6ecdf7c7f96a02e5d14e58c960d25616bb1ef002dcd4d1ca75a9dd24cf67fc5",
+      "excerptMatchesArticleAfterWhitespaceNormalization": true,
+      "originalSourceChecked": false
+    },
+    {
+      "quoteId": "tomo8-kierkegaard",
+      "sourceUrl": "https://tomo8language.com/kierkegaard/",
+      "sourceHtmlSha256": "813a7151108b630b3bf35888be4703930fd5dd0514a2d9365bfd9c61d3af1978",
+      "excerptMatchesArticleAfterWhitespaceNormalization": true,
+      "originalSourceChecked": false
+    },
+    {
+      "quoteId": "tomo8-madame-curie",
+      "sourceUrl": "https://tomo8language.com/madame-curie/",
+      "sourceHtmlSha256": "b6bcb48cca5b86c09d7bc591ed77d74db6596c244b17d6c9da9018e43e8b838a",
+      "excerptMatchesArticleAfterWhitespaceNormalization": true,
+      "originalSourceChecked": false
+    },
+    {
+      "quoteId": "tomo8-martin-luther-king",
+      "sourceUrl": "https://tomo8language.com/martin-luther-king/",
+      "sourceHtmlSha256": "856791940ba31210b45662e6f3357f413a6cd9bb955bb05cafc59be7619f35e0",
+      "excerptMatchesArticleAfterWhitespaceNormalization": true,
+      "originalSourceChecked": false
+    },
+    {
+      "quoteId": "tomo8-graham-bell",
+      "sourceUrl": "https://tomo8language.com/graham-bell/",
+      "sourceHtmlSha256": "d0a0ecd487018041f4f4103280c8630bc32329f5bc90d1e7de87bc23c7370b93",
+      "excerptMatchesArticleAfterWhitespaceNormalization": true,
+      "originalSourceChecked": false
+    },
+    {
+      "quoteId": "tomo8-goethe",
+      "sourceUrl": "https://tomo8language.com/goethe/",
+      "sourceHtmlSha256": "caa49faad22c05ff4b690bd7e18b4259d479616615eb593855145950aaf378e2",
+      "excerptMatchesArticleAfterWhitespaceNormalization": true,
+      "originalSourceChecked": false
+    },
+    {
+      "quoteId": "tomo8-kennedy",
+      "sourceUrl": "https://tomo8language.com/kennedy/",
+      "sourceHtmlSha256": "2c4f98c043de15ce714e81b8e57133cf9a7958d47b68894945a2f34f37abb83e",
+      "excerptMatchesArticleAfterWhitespaceNormalization": true,
+      "originalSourceChecked": false
+    },
+    {
+      "quoteId": "tomo8-confucius",
+      "sourceUrl": "https://tomo8language.com/confucius/",
+      "sourceHtmlSha256": "21de8185d3c6c1555f6e2e55abf742ada28f67cc3eb0a9b059263fab0bea7cfe",
+      "excerptMatchesArticleAfterWhitespaceNormalization": true,
+      "originalSourceChecked": false
+    },
+    {
+      "quoteId": "tomo8-coco-chanel",
+      "sourceUrl": "https://tomo8language.com/coco-chanel/",
+      "sourceHtmlSha256": "de0da838fe156c067cc56ccf84e68e646e247d87713270fc65827adab08d998c",
+      "excerptMatchesArticleAfterWhitespaceNormalization": true,
+      "originalSourceChecked": false
+    },
+    {
+      "quoteId": "tomo8-gogh",
+      "sourceUrl": "https://tomo8language.com/gogh/",
+      "sourceHtmlSha256": "d46cebd0932a51f354da49e851b85f6bbee6834ddcaa30ef153d7334f687942b",
+      "excerptMatchesArticleAfterWhitespaceNormalization": true,
+      "originalSourceChecked": false
+    },
+    {
+      "quoteId": "tomo8-schweizer",
+      "sourceUrl": "https://tomo8language.com/schweizer/",
+      "sourceHtmlSha256": "457267bc9b1b363691ad5736f14d46a80911bcb3199120bd983960e2e74665bd",
+      "excerptMatchesArticleAfterWhitespaceNormalization": true,
+      "originalSourceChecked": false
+    },
+    {
+      "quoteId": "tomo8-chopin",
+      "sourceUrl": "https://tomo8language.com/chopin/",
+      "sourceHtmlSha256": "ed3d03cbfced6d08eada1609fc642c1b06bdae5ac3db42cdd2a4f3563df5df58",
+      "excerptMatchesArticleAfterWhitespaceNormalization": true,
+      "originalSourceChecked": false
+    },
+    {
+      "quoteId": "tomo8-steve-jobs",
+      "sourceUrl": "https://tomo8language.com/steve-jobs/",
+      "sourceHtmlSha256": "e2f85e6ce891036fe838f57c0365cc6d762855eb7eefea3a74a977299ddb6fa2",
+      "excerptMatchesArticleAfterWhitespaceNormalization": true,
+      "originalSourceChecked": false
+    },
+    {
+      "quoteId": "tomo8-spinoza",
+      "sourceUrl": "https://tomo8language.com/spinoza/",
+      "sourceHtmlSha256": "89bf178fb192f74aa34a6ebdd199893334baad2bb9128f687d01285418f3852a",
+      "excerptMatchesArticleAfterWhitespaceNormalization": true,
+      "originalSourceChecked": false
+    },
+    {
+      "quoteId": "tomo8-socrates",
+      "sourceUrl": "https://tomo8language.com/socrates/",
+      "sourceHtmlSha256": "9f65eecd53b7b5c9d3be2ba7af04a015cb580799bd2b1dc99a9491c5916e191c",
+      "excerptMatchesArticleAfterWhitespaceNormalization": true,
+      "originalSourceChecked": false
+    },
+    {
+      "quoteId": "tomo8-charles-dickens",
+      "sourceUrl": "https://tomo8language.com/charles-dickens/",
+      "sourceHtmlSha256": "ae55f64c47a84cd03730533d00756582e9553da90e73a4ede7d3978e54601478",
+      "excerptMatchesArticleAfterWhitespaceNormalization": true,
+      "originalSourceChecked": false
+    },
+    {
+      "quoteId": "tomo8-chaplin",
+      "sourceUrl": "https://tomo8language.com/chaplin/",
+      "sourceHtmlSha256": "07252404e02c5c5b1d2288cac58ad9c7a338a062b186dce9cad0c07131b9415b",
+      "excerptMatchesArticleAfterWhitespaceNormalization": true,
+      "originalSourceChecked": false
+    },
+    {
+      "quoteId": "tomo8-dale-carnegie",
+      "sourceUrl": "https://tomo8language.com/dale-carnegie/",
+      "sourceHtmlSha256": "0530b75ca7cdc9efe98fb0ed155d3d61b469d0fc56b9647df0f72c601070bab2",
+      "excerptMatchesArticleAfterWhitespaceNormalization": true,
+      "originalSourceChecked": false
+    },
+    {
+      "quoteId": "tomo8-tolstoy",
+      "sourceUrl": "https://tomo8language.com/tolstoy/",
+      "sourceHtmlSha256": "46f61bae075c70989c09b17d1c498d96ff296acac733e55359a38bb89975480e",
+      "excerptMatchesArticleAfterWhitespaceNormalization": true,
+      "originalSourceChecked": false
+    },
+    {
+      "quoteId": "tomo8-nightingale",
+      "sourceUrl": "https://tomo8language.com/nightingale/",
+      "sourceHtmlSha256": "ad10678ce2886c8bf3a5acb49346a38408c09944f80ff1afc9c5e1ffe00dfa43",
+      "excerptMatchesArticleAfterWhitespaceNormalization": true,
+      "originalSourceChecked": false
+    },
+    {
+      "quoteId": "tomo8-napoleon",
+      "sourceUrl": "https://tomo8language.com/napoleon/",
+      "sourceHtmlSha256": "fab6a5fe5fbe4d9b79c8ba612e6e182b674931d30788852cdf24bf068916de70",
+      "excerptMatchesArticleAfterWhitespaceNormalization": true,
+      "originalSourceChecked": false
+    },
+    {
+      "quoteId": "tomo8-nietzsche",
+      "sourceUrl": "https://tomo8language.com/nietzsche/",
+      "sourceHtmlSha256": "bd798aa83f9a6f8157e88329d581d75ee97db80713c92506456f76a4c2a5c337",
+      "excerptMatchesArticleAfterWhitespaceNormalization": true,
+      "originalSourceChecked": false
+    },
+    {
+      "quoteId": "tomo8-newton",
+      "sourceUrl": "https://tomo8language.com/newton/",
+      "sourceHtmlSha256": "397a846d318efa5ba2ac82a6fc812f3b3a339ec1eb220adcfeded469a7372cde",
+      "excerptMatchesArticleAfterWhitespaceNormalization": true,
+      "originalSourceChecked": false
+    },
+    {
+      "quoteId": "tomo8-nobel",
+      "sourceUrl": "https://tomo8language.com/nobel/",
+      "sourceHtmlSha256": "2444919233f40f258ee31886e05500976fcc9654c57232f51d0ba2dd00d309bf",
+      "excerptMatchesArticleAfterWhitespaceNormalization": true,
+      "originalSourceChecked": false
+    },
+    {
+      "quoteId": "tomo8-peter-drucker",
+      "sourceUrl": "https://tomo8language.com/peter-drucker/",
+      "sourceHtmlSha256": "81c54517c486a31cbc884e997206b350bab2a19fe27e577ad17c9faacc009ef0",
+      "excerptMatchesArticleAfterWhitespaceNormalization": true,
+      "originalSourceChecked": false
+    },
+    {
+      "quoteId": "tomo8-pablo-picasso",
+      "sourceUrl": "https://tomo8language.com/pablo-picasso/",
+      "sourceHtmlSha256": "52d1ea454627b3fc31a41f591fe98072527a92cafde2ad3537c46a8065b40c7e",
+      "excerptMatchesArticleAfterWhitespaceNormalization": true,
+      "originalSourceChecked": false
+    },
+    {
+      "quoteId": "tomo8-pythagoras",
+      "sourceUrl": "https://tomo8language.com/pythagoras/",
+      "sourceHtmlSha256": "cc6599dfc9f93706654338af601d197ee2225ac9be851cb52b3381762616cec3",
+      "excerptMatchesArticleAfterWhitespaceNormalization": true,
+      "originalSourceChecked": false
+    },
+    {
+      "quoteId": "tomo8-hippocrates",
+      "sourceUrl": "https://tomo8language.com/hippocrates/",
+      "sourceHtmlSha256": "cbd88efc6710ce3bfe70781dbd1b29cabce647c89251a1c2b7a5153d9ecf4865",
+      "excerptMatchesArticleAfterWhitespaceNormalization": true,
+      "originalSourceChecked": false
+    },
+    {
+      "quoteId": "tomo8-fabre",
+      "sourceUrl": "https://tomo8language.com/fabre/",
+      "sourceHtmlSha256": "44cb67d851018a325c6469b6c3efd106370e400f8cd0c2b27d2aec0aaaae9088",
+      "excerptMatchesArticleAfterWhitespaceNormalization": true,
+      "originalSourceChecked": false
+    },
+    {
+      "quoteId": "tomo8-franz-kafka",
+      "sourceUrl": "https://tomo8language.com/franz-kafka/",
+      "sourceHtmlSha256": "5e1fb3384b2fae733e1ad66ea4ca3752c4c2b1c73a7cd8d8a8b6730105e08cc4",
+      "excerptMatchesArticleAfterWhitespaceNormalization": true,
+      "originalSourceChecked": false
+    },
+    {
+      "quoteId": "tomo8-helen-keller",
+      "sourceUrl": "https://tomo8language.com/helen-keller/",
+      "sourceHtmlSha256": "1fb520e8410f27ed85c7d9d438993a47c0e9c235bc7e6d8d97dd0462e71a5d2f",
+      "excerptMatchesArticleAfterWhitespaceNormalization": true,
+      "originalSourceChecked": false
+    },
+    {
+      "quoteId": "tomo8-benjamin-franklin",
+      "sourceUrl": "https://tomo8language.com/benjamin-franklin/",
+      "sourceHtmlSha256": "597b0ca6b8f9dfe18bfe4dbe8509b34444ad1d32b87a5355fc17d4c65862370a",
+      "excerptMatchesArticleAfterWhitespaceNormalization": true,
+      "originalSourceChecked": false
+    },
+    {
+      "quoteId": "tomo8-henry-ford",
+      "sourceUrl": "https://tomo8language.com/henry-ford/",
+      "sourceHtmlSha256": "68398e66674e7fd7bd2a1a248e04af19abf1b780f66ed17447892c7b0b25fe38",
+      "excerptMatchesArticleAfterWhitespaceNormalization": true,
+      "originalSourceChecked": false
+    },
+    {
+      "quoteId": "tomo8-stephen-hawking",
+      "sourceUrl": "https://tomo8language.com/stephen-hawking/",
+      "sourceHtmlSha256": "7284d9e244e50cdf1ce9905a9a48cd7251b6db1555b8721cfaab368bed6a52f8",
+      "excerptMatchesArticleAfterWhitespaceNormalization": true,
+      "originalSourceChecked": false
+    },
+    {
+      "quoteId": "tomo8-marcus-aurelius",
+      "sourceUrl": "https://tomo8language.com/marcus-aurelius/",
+      "sourceHtmlSha256": "fb8d6aedddaa11ee834c5bafadb4fe41ce03472925f5ee826e709546d801d849",
+      "excerptMatchesArticleAfterWhitespaceNormalization": true,
+      "originalSourceChecked": false
+    },
+    {
+      "quoteId": "tomo8-martin-luther",
+      "sourceUrl": "https://tomo8language.com/martin-luther/",
+      "sourceHtmlSha256": "2e4876df2cdfaf1f1026cfc7104a94082f7a49fb2c403c9bc255a63a1467243d",
+      "excerptMatchesArticleAfterWhitespaceNormalization": true,
+      "originalSourceChecked": false
+    },
+    {
+      "quoteId": "tomo8-michelangelo",
+      "sourceUrl": "https://tomo8language.com/michelangelo/",
+      "sourceHtmlSha256": "74c823cbb970981a6ded158c6268ff8fc45b886688d5324d88cf61c06f2f0dd6",
+      "excerptMatchesArticleAfterWhitespaceNormalization": true,
+      "originalSourceChecked": false
+    },
+    {
+      "quoteId": "tomo8-mencius",
+      "sourceUrl": "https://tomo8language.com/mencius/",
+      "sourceHtmlSha256": "8893d90f3331646e73c6797f80732f1a45a5d65269464323144c25f82aa0259d",
+      "excerptMatchesArticleAfterWhitespaceNormalization": true,
+      "originalSourceChecked": false
+    },
+    {
+      "quoteId": "tomo8-mozart",
+      "sourceUrl": "https://tomo8language.com/mozart/",
+      "sourceHtmlSha256": "d8084393a2a71146199fa88d1a40115c8a6948967e3d440521d309212bd4b0c7",
+      "excerptMatchesArticleAfterWhitespaceNormalization": true,
+      "originalSourceChecked": false
+    },
+    {
+      "quoteId": "tomo8-montesquieu",
+      "sourceUrl": "https://tomo8language.com/montesquieu/",
+      "sourceHtmlSha256": "8a956e1082452e6a148951f84f3405f0afd55ee0daa888be95d1791588a5f25f",
+      "excerptMatchesArticleAfterWhitespaceNormalization": true,
+      "originalSourceChecked": false
+    },
+    {
+      "quoteId": "tomo8-tagore",
+      "sourceUrl": "https://tomo8language.com/tagore/",
+      "sourceHtmlSha256": "db2eda0761e8f66c8c88f56ab340219a3370841853de0475040ae79be85e8f20",
+      "excerptMatchesArticleAfterWhitespaceNormalization": true,
+      "originalSourceChecked": false
+    },
+    {
+      "quoteId": "tomo8-lincoln",
+      "sourceUrl": "https://tomo8language.com/lincoln/",
+      "sourceHtmlSha256": "8b738329b3674c85d9fc466b9408447f72ee88278d93495a8691db2212f0cf57",
+      "excerptMatchesArticleAfterWhitespaceNormalization": true,
+      "originalSourceChecked": false
+    },
+    {
+      "quoteId": "tomo8-louis-pasteur",
+      "sourceUrl": "https://tomo8language.com/louis-pasteur/",
+      "sourceHtmlSha256": "ead929eb07b915a10f3374166bfa924f1f38283ea479c1635f6a11d8596def43",
+      "excerptMatchesArticleAfterWhitespaceNormalization": true,
+      "originalSourceChecked": false
+    },
+    {
+      "quoteId": "tomo8-rachel-carson",
+      "sourceUrl": "https://tomo8language.com/rachel-carson/",
+      "sourceHtmlSha256": "c4e9195b30dfc5b9464f2a153f5a2ac6d2e036788a99de92bdd2d6292dc49be5",
+      "excerptMatchesArticleAfterWhitespaceNormalization": true,
+      "originalSourceChecked": false
+    },
+    {
+      "quoteId": "tomo8-leonardo-da-vinci",
+      "sourceUrl": "https://tomo8language.com/leonardo-da-vinci/",
+      "sourceHtmlSha256": "ec8a8e6209c9401760b26de4650ab07352ac19a49cf1e3f936efed2ad22e75d7",
+      "excerptMatchesArticleAfterWhitespaceNormalization": true,
+      "originalSourceChecked": false
+    },
+    {
+      "quoteId": "tomo8-laozi",
+      "sourceUrl": "https://tomo8language.com/laozi/",
+      "sourceHtmlSha256": "2fe601a87647e824763dda9ab749bdb677b2911e905e02884b59aaea53d9ccd9",
+      "excerptMatchesArticleAfterWhitespaceNormalization": true,
+      "originalSourceChecked": false
+    },
+    {
+      "quoteId": "tomo8-robert-koch",
+      "sourceUrl": "https://tomo8language.com/robert-koch/",
+      "sourceHtmlSha256": "832fcb95b39a0e7a1dd1512c10e2605bdc5b9a056338cebfd2488fe6153f9415",
+      "excerptMatchesArticleAfterWhitespaceNormalization": true,
+      "originalSourceChecked": false
+    },
+    {
+      "quoteId": "tomo8-wangarimaathai",
+      "sourceUrl": "https://tomo8language.com/wangarimaathai/",
+      "sourceHtmlSha256": "d25cbf79c59e9592fe980378a6cc4f4c738a53d67ef1fd447c45990b65e7bcba",
+      "excerptMatchesArticleAfterWhitespaceNormalization": true,
+      "originalSourceChecked": false
+    }
+  ]
+}

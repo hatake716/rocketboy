@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+    <application>
+        <!-- Installed only in the test APK; runs under a different UID from the game. -->
+        <activity android:name="io.github.hatake716.rocketboy.ScoreShareReceiverActivity" android:exported="true" />
+    </application>
+</manifest>

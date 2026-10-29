@@ -18,10 +18,10 @@ class GameEngineTest {
         assertEquals(0L, game.score)
         assertNull(game.fire("ちきゅう"))
         advance(game, .6)
-        assertEquals(4L, game.score)
+        assertEquals(40L, game.score)
         assertEquals(1, game.destroyed)
         advance(game, .6)
-        assertEquals(4L, game.score)
+        assertEquals(40L, game.score)
     }
 
     @Test fun threeImpactsEndTheMissionAndCannotScoreAfterward() {
@@ -56,7 +56,7 @@ class GameEngineTest {
         val game = withMeteor("が")
         assertNotNull(game.fire("か\u3099"))
         advance(game, .6)
-        assertEquals(1L, game.score)
+        assertEquals(10L, game.score)
     }
 
     @Test fun pauseAndRestorePreserveRocketAndPreventDuplicatePoints() {
@@ -72,10 +72,10 @@ class GameEngineTest {
         assertNull(restored.fire("ほし"))
         restored.resume()
         advance(restored, .5)
-        assertEquals(2L, restored.score)
+        assertEquals(20L, restored.score)
         val again = GameEngine().apply { restore(restored.snapshot()); resume() }
         advance(again, .5)
-        assertEquals(2L, again.score)
+        assertEquals(20L, again.score)
     }
 
     @Test fun snapshotsAreIndependentCopies() {
@@ -92,7 +92,7 @@ class GameEngineTest {
         val game = withMeteor("ゆめ", .99999)
         game.fire("ゆめ")
         advance(game, .4)
-        assertEquals(2L, game.score)
+        assertEquals(20L, game.score)
         assertEquals(3, game.lives)
     }
 
@@ -100,6 +100,7 @@ class GameEngineTest {
         val first = GameEngine.difficultyAt(0.0)
         val later = GameEngine.difficultyAt(200.0)
         val capped = GameEngine.difficultyAt(50000.0)
+        assertEquals(16.0, 1.0 / first.fallSpeed, .001)
         assertTrue(later.fallSpeed > first.fallSpeed)
         assertTrue(later.spawnInterval < first.spawnInterval)
         assertTrue(later.maxMeteors > first.maxMeteors)
@@ -107,6 +108,156 @@ class GameEngineTest {
         assertEquals(1.6, capped.spawnInterval, 0.0)
         assertEquals(.092, capped.fallSpeed, 0.0)
         assertTrue(Words.forWave(10).minOf { it.length } > Words.forWave(2).minOf { it.length })
+    }
+
+    @Test fun firstWaveSpawnsOnlyTwoCharacterWords() {
+        val game = GameEngine(19).apply { resume() }
+        repeat(2400) {
+            game.tick(.01)
+            game.meteors.forEach {
+                assertEquals(2, it.word.length)
+                assertNull(it.quote)
+                game.fire(it.word)
+            }
+        }
+        assertTrue(game.destroyed >= 4)
+    }
+
+    @Test fun quoteRewardsReadingLengthTimes300AndCollectsOnlyOnArrivalEvenAcrossRestore() {
+        val quote = Quotes.all.first()
+        val game = GameEngine(2).apply {
+            resume()
+            meteors += Meteor(91, quote.reading, 0, .3, .05, quoteId = quote.id)
+        }
+        assertNull(game.fire(quote.reading.dropLast(1)))
+        assertTrue(game.collectedQuotes.isEmpty())
+        assertNotNull(game.fire(quote.reading))
+        advance(game, .1)
+        assertEquals(0L, game.score)
+        assertTrue(game.collectedQuotes.isEmpty())
+        val restored = GameEngine().apply { restore(game.snapshot()); resume() }
+        val events = mutableListOf<GameEvent>()
+        repeat(80) { events += restored.tick(.01) }
+        assertEquals(quote.reading.length * 303L, restored.score)
+        assertEquals(setOf(quote.id), restored.collectedQuotes)
+        val hit = events.filterIsInstance<GameEvent.Intercept>().single()
+        assertEquals(quote.reading.length * 303, hit.points)
+        assertEquals(quote.id, hit.quoteId)
+        val again = GameEngine().apply { restore(restored.snapshot()); resume() }
+        advance(again, .5)
+        assertEquals(quote.reading.length * 303L, again.score)
+        again.meteors += Meteor(92, quote.reading, 0, .5, .05, quoteId = quote.id)
+        again.fire(quote.reading)
+        advance(again, .5)
+        assertEquals(quote.reading.length * 606L, again.score)
+        assertEquals(setOf(quote.id), again.collectedQuotes)
+    }
+
+    @Test fun missedQuoteIsNotCollectedOrRewarded() {
+        val quote = Quotes.all.last()
+        val game = GameEngine().apply {
+            resume()
+            meteors += Meteor(71, quote.reading, 0, .999, .1, quoteId = quote.id)
+        }
+        val impact = game.tick(.1).filterIsInstance<GameEvent.Impact>().single()
+        assertEquals(quote.id, impact.quoteId)
+        assertEquals(2, game.lives)
+        assertEquals(0L, game.score)
+        assertTrue(game.collectedQuotes.isEmpty())
+    }
+
+    @Test fun allQuotesAppearWithoutOverlapsAndUncollectedOnesHavePriority() {
+        val game = GameEngine(21).apply { resume() }
+        repeat(40000) {
+            game.tick(.01)
+            if (game.meteors.any { it.quote != null }) assertEquals(1, game.meteors.size)
+            game.meteors.forEach { game.fire(it.word) }
+        }
+        assertTrue(game.collectedQuotes.size >= 8)
+        val allIds = Quotes.all.map { it.id }.toSet()
+        Quotes.all.forEach { wanted ->
+            val nextGame = GameEngine(9, allIds - wanted.id).apply {
+                restore(snapshot().copy(elapsed = 25.0, spawnIn = 0.0)); resume()
+            }
+            nextGame.tick(.01)
+            assertEquals(wanted.id, nextGame.meteors.single().quoteId)
+        }
+    }
+
+    @Test fun quoteCatalogFitsInputAndHasDistinctIdsReadingsAndSources() {
+        assertEquals(QuoteCategory.entries.toSet(), Quotes.all.map { it.category }.toSet())
+        assertEquals(100, Quotes.inCategory(QuoteCategory.HYAKUNIN).size)
+        assertEquals(Quotes.all.size, Quotes.all.map { it.id }.toSet().size)
+        assertEquals(Quotes.all.size, Quotes.all.map { it.reading }.toSet().size)
+        assertEquals(Quotes.authors.size, Quotes.authors.map { it.id }.toSet().size)
+        Quotes.all.forEach {
+            assertTrue(it.reading.length in 2..Quotes.MAX_READING_LENGTH)
+            assertTrue(it.reading.all { c -> c in 'ぁ'..'ん' || c == 'ー' })
+            assertEquals(it.reading, GameEngine.normalizeKana(it.reading))
+            assertTrue(it.author.biography.isNotBlank())
+            assertTrue(it.explanation.length >= 30)
+            assertTrue(it.wording.isNotBlank())
+            assertTrue(it.source.isNotBlank())
+            assertTrue(it.sourceUrl.startsWith("https://"))
+        }
+    }
+
+    @Test fun catalogSearchRespectsCategoryAndUnlocksAndNormalizesKana() {
+        val quote = Quotes.find("hyakunin-001")!!
+        val ids = Quotes.all.map { it.id }.toSet()
+        assertTrue(Quotes.search(null, emptySet(), "").isEmpty())
+        assertEquals(listOf(quote), Quotes.search(QuoteCategory.HYAKUNIN, setOf(quote.id), "アキノタノ"))
+        assertTrue(Quotes.search(QuoteCategory.BUSINESS, ids, quote.reading).isEmpty())
+        assertEquals(listOf(quote), Quotes.search(null, setOf(quote.id), quote.author.name))
+        assertEquals(listOf(quote), Quotes.search(null, setOf(quote.id), quote.explanation.take(8)))
+        assertTrue(Quotes.search(null, ids, "該当しない検索文字列").isEmpty())
+        assertEquals(Quotes.all, Quotes.search(null, ids))
+    }
+
+    @Test fun legacyQuoteIdsAndReadingsRemainCompatible() {
+        val legacy = mapOf(
+            "descartes-think" to "われおもうゆえにわれあり",
+            "descartes-reason" to "りょうしきはもっともこうへいにわけられている",
+            "pascal-reed" to "にんげんはかんがえるあしである",
+            "pascal-heart" to "こころにはりせいのしらないりゆうがある",
+            "confucius-learning" to "まなびてときにこれをならう",
+            "confucius-reciprocity" to "おのれのほっせざるところひとにほどこすことなかれ",
+            "marcus-good" to "よいひとをろんじるなよいひとになれ",
+            "epictetus-judgment" to "ひとをまどわすのはものごとへのはんだんだ",
+        )
+        legacy.forEach { (id, reading) ->
+            val kept = Quotes.find(id)
+            if (kept != null) {
+                assertEquals(reading, kept.reading)
+                assertEquals(QuoteCategory.HISTORY, kept.category)
+            } else assertTrue(Quotes.isRetired(id, reading))
+        }
+    }
+
+    @Test fun everyPlayableQuoteHasAWikipediaRevisionAndReuseAttribution() {
+        Quotes.all.forEach { quote ->
+            val uri = java.net.URI(quote.sourceUrl)
+            assertEquals("https", uri.scheme)
+            assertEquals("ja.wikipedia.org", uri.host)
+            assertTrue(uri.query.contains("oldid="))
+            assertTrue(quote.source.contains("Wikipedia"))
+            assertTrue(quote.license.contains("Wikipedia"))
+            assertTrue(quote.wording.contains("Wikipedia"))
+            assertFalse(Quotes.isRetired(quote.id, quote.reading))
+        }
+    }
+
+    @Test fun categoryAndWorkSearchKeepUncollectedQuotesHidden() {
+        QuoteCategory.entries.forEach { category ->
+            val quote = Quotes.inCategory(category).first()
+            val collected = setOf(quote.id)
+            assertEquals(listOf(quote), Quotes.search(category, collected, quote.author.name))
+            assertEquals(listOf(quote), Quotes.search(category, collected, quote.reading))
+            assertTrue(Quotes.search(category, emptySet(), quote.author.name).isEmpty())
+            if (category.showsWorkTitle) {
+                assertEquals(listOf(quote), Quotes.search(category, collected, quote.author.period))
+            }
+        }
     }
 
     @Test fun allWordsAreHiraganaAndDoNotExceedDisplayLimit() {
@@ -144,5 +295,26 @@ class GameEngineTest {
         val snapshot = game.snapshot()
         game.tick(Double.NaN); game.tick(Double.POSITIVE_INFINITY); game.tick(-1.0)
         assertEquals(snapshot, game.snapshot())
+    }
+
+    @Test fun everyQuoteUsesReadingLengthAndUnknownIdentityGetsOrdinaryPoints() {
+        Quotes.all.forEach { quote ->
+            val meteor = Meteor(1, quote.reading, 0, .2, .05, quoteId = quote.id)
+            assertEquals(quote.reading.codePointCount(0, quote.reading.length) * 300, meteor.points)
+        }
+        assertEquals(40, Meteor(1, "ちきゅう", 0, .2, .05, quoteId = "missing").points)
+        assertEquals(20, Meteor(1, "ほし", 0, .2, .05, quoteId = Quotes.all.first().id).points)
+        assertEquals(10, Scoring.word("が"))
+        assertEquals(40, Scoring.word("ちきゅう"))
+        assertEquals(3000, Scoring.quote("あ".repeat(10)))
+    }
+
+    @Test fun savedScoresKeepTheirValueAndOnlyNewHitsUseTheNewRate() {
+        val before = withMeteor("ほし").snapshot().copy(score = 123L)
+        val game = GameEngine().apply { restore(before); resume() }
+        assertEquals(123L, game.score)
+        game.fire("ほし")
+        advance(game, .6)
+        assertEquals(143L, game.score)
     }
 }

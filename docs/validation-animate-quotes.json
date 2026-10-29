@@ -1,0 +1,75 @@
+{
+  "date": "2026-09-09",
+  "status": "animate_selection_implemented_total_catalog_incomplete",
+  "catalog": {
+    "requested_total": 3000,
+    "included_total": 218,
+    "remaining": 2782,
+    "complete": false,
+    "categories": {
+      "history": 8,
+      "business": 5,
+      "fiction": 51,
+      "proverb": 54,
+      "hyakunin": 100
+    },
+    "hyakunin_count": 100
+  },
+  "animate_selection": {
+    "added": 48,
+    "source_articles": 48,
+    "partial_excerpts": 8,
+    "all_excerpts_matched_source_html": true,
+    "all_provenance_hashes_matched": true
+  },
+  "unit_tests": {
+    "tests": 24,
+    "failures": 0,
+    "errors": 0,
+    "skipped": 0
+  },
+  "ui_tests_full": {
+    "tests": 19,
+    "failures": 0,
+    "errors": 0,
+    "skipped": 0
+  },
+  "ui_tests_compact": {
+    "tests": 1,
+    "failures": 0,
+    "errors": 0,
+    "skipped": 0
+  },
+  "emulator": {
+    "serial": "emulator-5554",
+    "api": 35,
+    "full": "1080x2400 / 420dpi",
+    "compact": "720x1280 / 320dpi",
+    "original_display_restored": true
+  },
+  "debug_lint": {
+    "errors": 0,
+    "warnings": 24
+  },
+  "debug_build": true,
+  "packaged_catalog_matches_source": true,
+  "packaged_tsv_records": 210,
+  "legacy_code_records": 8,
+  "physical_device_tested": false,
+  "apk": {
+    "path": "artifacts/animate-quotes-preview/ROCKETBOY-animate-quotes-preview.apk",
+    "bytes": 5722479,
+    "sha256": "3491a1b222f7797098d6e45c3e6ba66503c0c8b4fff6642ef45241a7b87f027c",
+    "signature": "Android debug / APK Signature Scheme v2",
+    "installed_apk_sha256_matches": true,
+    "versionName": "1.1.0",
+    "versionCode": 2
+  },
+  "target_count_check": {
+    "command": "python3 tools/quotes/build_catalog.py --require-target",
+    "exit_code": 1,
+    "reason": "218 entries included; 2782 missing"
+  },
+  "screenshots": "docs/screenshots/animate-quotes-preview/",
+  "screenshots_use_prepared_collection_and_meteor_states": true
+}

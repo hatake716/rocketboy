@@ -1,6 +1,14 @@
+import java.util.Properties
+
 plugins {
     id("com.android.application")
     id("org.jetbrains.kotlin.android")
+}
+
+// Keep the upload key and its passwords out of version control.
+val releaseSigningFile = rootProject.file("keystore.properties")
+val releaseSigning = Properties().apply {
+    if (releaseSigningFile.isFile) releaseSigningFile.inputStream().use { load(it) }
 }
 
 android {
@@ -10,17 +18,25 @@ android {
         applicationId = "io.github.hatake716.rocketboy"
         minSdk = 26
         targetSdk = 36
-        versionCode = 1
-        versionName = "1.0.0"
+        versionCode = 10
+        versionName = "1.5.0"
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
+    }
+    if (releaseSigningFile.isFile) signingConfigs.create("upload") {
+        storeFile = rootProject.file(requireNotNull(releaseSigning.getProperty("storeFile")))
+        storePassword = requireNotNull(releaseSigning.getProperty("storePassword"))
+        keyAlias = requireNotNull(releaseSigning.getProperty("keyAlias"))
+        keyPassword = requireNotNull(releaseSigning.getProperty("keyPassword"))
     }
     buildTypes {
         release {
+            if (releaseSigningFile.isFile) signingConfig = signingConfigs.getByName("upload")
             isMinifyEnabled = true
             isShrinkResources = true
             proguardFiles(getDefaultProguardFile("proguard-android-optimize.txt"), "proguard-rules.pro")
         }
     }
+    buildFeatures { buildConfig = true }
     compileOptions {
         sourceCompatibility = JavaVersion.VERSION_17
         targetCompatibility = JavaVersion.VERSION_17

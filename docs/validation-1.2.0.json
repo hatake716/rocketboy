@@ -1,0 +1,82 @@
+{
+  "versionName": "1.2.0",
+  "versionCode": 3,
+  "date": "2026-09-09",
+  "scoring": {
+    "word_per_reading_character": 10,
+    "quote_per_reading_character": 300,
+    "rank_step": 4000,
+    "pluto": 100000,
+    "old_saved_score_values_preserved": true
+  },
+  "unit": {
+    "tests": 32,
+    "failures": 0,
+    "errors": 0,
+    "skipped": 0
+  },
+  "android_full": {
+    "tests": 26,
+    "failures": 0,
+    "errors": 0,
+    "skipped": 0
+  },
+  "android_compact": {
+    "tests": 1,
+    "failures": 0,
+    "errors": 0,
+    "skipped": 0
+  },
+  "lint": {
+    "errors": 0,
+    "warnings": 24
+  },
+  "music": {
+    "new_tracks": 25,
+    "existing_cadet_track": 1,
+    "bars_per_new_track": 32,
+    "bpm_range": [
+      158,
+      190
+    ],
+    "total_new_duration_seconds": 1103.972993,
+    "distinct_authored_themes": 100,
+    "all_packaged_hashes_match_manifest": true,
+    "all_tracks_decode_play_loop_in_android": true,
+    "max_decoded_peak": 0.9278,
+    "max_loop_edge_jump": 0.01056
+  },
+  "apk": {
+    "versionName": "1.2.0",
+    "versionCode": 3,
+    "applicationId": "io.github.hatake716.rocketboy",
+    "file": "artifacts/1.2.0/ROCKETBOY-1.2.0-debug.apk",
+    "bytes": 21296160,
+    "sha256": "e60da33e5ca27b469b27797bb614ef1924ee2ca9456aeca8a4869e924a3044ba",
+    "signing": "Android debug / APK Signature Scheme v2",
+    "new_tracks": 25,
+    "total_bgm_tracks": 26,
+    "quote_catalog_unchanged": true
+  },
+  "emulator": {
+    "serial": "emulator-5554",
+    "api": 35,
+    "full_screen": "1080x2400 / 420dpi",
+    "compact_screen": "720x1280 / 320dpi",
+    "screen_restored": true,
+    "installed_apk_matches": true
+  },
+  "physical": {
+    "device": "Pixel 10a",
+    "versionName": "1.2.0",
+    "versionCode": 3,
+    "installed_apk_matches": true,
+    "saved_preferences_byte_identical_after_update": true,
+    "launch_status": "ok",
+    "gameplay_acceptance": "User check pending; no input injection"
+  },
+  "quote_catalog": {
+    "count": 361,
+    "unchanged_from_previous_apk": true
+  }
+}

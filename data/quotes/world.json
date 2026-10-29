@@ -1,0 +1,1084 @@
+{
+  "selectionUrl": "https://tomo8language.com/quotes-list/",
+  "checkedOn": "2026-09-09",
+  "authors": [
+    {
+      "id": "world-einstein",
+      "name": "アルベルト・アインシュタイン",
+      "period": "19〜20世紀・ドイツ出身",
+      "biography": "相対性理論などで知られる物理学者。光や時間、空間についての考え方を問い直し、平和のための活動にも関わった。"
+    },
+    {
+      "id": "world-adam-smith",
+      "name": "アダム・スミス",
+      "period": "18世紀・スコットランド",
+      "biography": "『国富論』『道徳感情論』を著した思想家。経済活動の仕組みと、人が社会の中で判断し行動するあり方を研究した。"
+    },
+    {
+      "id": "world-aristotle",
+      "name": "アリストテレス",
+      "period": "紀元前4世紀・古代ギリシア",
+      "biography": "プラトンに学んだ哲学者。論理学、倫理学、政治学、生物の研究など幅広い領域に取り組み、後世の学問に影響を与えた。"
+    },
+    {
+      "id": "world-andy-warhol",
+      "name": "アンディ・ウォーホル",
+      "period": "20世紀・アメリカ",
+      "biography": "日用品や著名人のイメージを作品に取り入れた美術家。大量生産や広告など、身近な視覚文化と芸術の関係を扱った。"
+    },
+    {
+      "id": "world-andersen",
+      "name": "ハンス・クリスチャン・アンデルセン",
+      "period": "19世紀・デンマーク",
+      "biography": "『人魚姫』『みにくいアヒルの子』などの童話を残した作家。各地を旅し、その経験を物語や紀行にも生かした。"
+    },
+    {
+      "id": "world-andrew-carnegie",
+      "name": "アンドリュー・カーネギー",
+      "period": "19〜20世紀・スコットランド出身",
+      "biography": "アメリカの鉄鋼業で事業を築いた実業家。事業で得た資産を図書館の設立などの教育・文化活動にも投じた。"
+    },
+    {
+      "id": "world-anne-frank",
+      "name": "アンネ・フランク",
+      "period": "20世紀・ドイツ出身",
+      "biography": "ナチスの迫害から逃れ、アムステルダムで潜伏生活を送った少女。そこで書き続けた日記が、死後に広く読まれるようになった。"
+    },
+    {
+      "id": "world-walt-disney",
+      "name": "ウォルト・ディズニー",
+      "period": "20世紀・アメリカ",
+      "biography": "アニメーション映画やテーマパークの事業を進めた実業家・映像制作者。多くの制作者とともに物語を映像や空間に広げた。"
+    },
+    {
+      "id": "world-victorhugo",
+      "name": "ヴィクトル・ユーゴー",
+      "period": "19世紀・フランス",
+      "biography": "『レ・ミゼラブル』などを著した作家。小説や詩、演劇に取り組むとともに、社会や政治についても発言した。"
+    },
+    {
+      "id": "world-viktor-frankl",
+      "name": "ヴィクトール・フランクル",
+      "period": "20世紀・オーストリア",
+      "biography": "精神科医。強制収容所での体験を記し、人が困難な状況で生きる意味に向き合うことを研究した。"
+    },
+    {
+      "id": "world-erich-fromm",
+      "name": "エーリッヒ・フロム",
+      "period": "20世紀・ドイツ出身",
+      "biography": "社会と人間の心理を研究した思想家・精神分析家。『自由からの逃走』『愛するということ』などの著作を残した。"
+    },
+    {
+      "id": "world-thomas-edison",
+      "name": "トーマス・エジソン",
+      "period": "19〜20世紀・アメリカ",
+      "biography": "蓄音機や電灯など、多くの技術の開発・実用化に関わった発明家。研究所を拠点に、共同で試作と改良を進めた。"
+    },
+    {
+      "id": "world-eleanor-roosevelt",
+      "name": "エレノア・ルーズベルト",
+      "period": "20世紀・アメリカ",
+      "biography": "人権の擁護に取り組んだ活動家。国連の人権委員会で、世界人権宣言の作成を進める役割を担った。"
+    },
+    {
+      "id": "world-audrey-hepburn",
+      "name": "オードリー・ヘプバーン",
+      "period": "20世紀・ベルギー出身",
+      "biography": "『ローマの休日』などに出演した俳優。晩年にはユニセフの親善大使として、困難な状況にある子どもたちのために活動した。"
+    },
+    {
+      "id": "world-gaudi",
+      "name": "アントニ・ガウディ",
+      "period": "19〜20世紀・スペイン",
+      "biography": "バルセロナを中心に活動した建築家。自然の形から着想を得た設計や、光と色を生かした空間で知られる。"
+    },
+    {
+      "id": "world-gandhi",
+      "name": "マハトマ・ガンディー",
+      "period": "19〜20世紀・インド",
+      "biography": "非暴力による抵抗を説き、インドの独立運動に関わった人物。政治的な目標と、日々の行動や生活の選び方を結びつけた。"
+    },
+    {
+      "id": "world-immanuel-kant",
+      "name": "イマヌエル・カント",
+      "period": "18〜19世紀・プロイセン",
+      "biography": "認識や道徳の条件を考察した哲学者。『純粋理性批判』などを通して、人は何を知ることができるのかを問い直した。"
+    },
+    {
+      "id": "world-kierkegaard",
+      "name": "セーレン・キルケゴール",
+      "period": "19世紀・デンマーク",
+      "biography": "個人の選択や信仰、不安などを考察した思想家。抽象的な体系だけでは捉えられない、一人ひとりの生き方に注目した。"
+    },
+    {
+      "id": "world-madame-curie",
+      "name": "マリー・キュリー",
+      "period": "19〜20世紀・ポーランド出身",
+      "biography": "フランスで放射能の研究に取り組んだ科学者。物理学賞と化学賞の二つのノーベル賞を受け、研究と教育に力を注いだ。"
+    },
+    {
+      "id": "world-martin-luther-king",
+      "name": "マーティン・ルーサー・キング・ジュニア",
+      "period": "20世紀・アメリカ",
+      "biography": "牧師で公民権運動の指導者。人種差別の撤廃を求め、非暴力の抗議や演説を通して社会の変化を訴えた。"
+    },
+    {
+      "id": "world-graham-bell",
+      "name": "アレクサンダー・グラハム・ベル",
+      "period": "19〜20世紀・スコットランド出身",
+      "biography": "電話の開発で知られる発明家。音声や聴覚について研究し、聴覚障害のある人々への教育にも関わった。"
+    },
+    {
+      "id": "world-goethe",
+      "name": "ヨハン・ヴォルフガング・フォン・ゲーテ",
+      "period": "18〜19世紀・ドイツ",
+      "biography": "『ファウスト』などを著した作家・詩人。文学のほか、自然の観察や色についての研究にも関心を向けた。"
+    },
+    {
+      "id": "world-kennedy",
+      "name": "ジョン・F・ケネディ",
+      "period": "20世紀・アメリカ",
+      "biography": "アメリカ合衆国第35代大統領。冷戦期に政権を担い、宇宙開発や公民権などの課題にも取り組んだ。"
+    },
+    {
+      "id": "world-coco-chanel",
+      "name": "ココ・シャネル",
+      "period": "19〜20世紀・フランス",
+      "biography": "服飾ブランドを築いたデザイナー・実業家。女性の服の動きやすさや、装いのあり方に新しい提案を行った。"
+    },
+    {
+      "id": "world-gogh",
+      "name": "フィンセント・ファン・ゴッホ",
+      "period": "19世紀・オランダ出身",
+      "biography": "色彩や筆の動きに強い表現を託した画家。風景や人物を描き、弟テオらに宛てた多くの手紙も残した。"
+    },
+    {
+      "id": "world-schweizer",
+      "name": "アルベルト・シュバイツァー",
+      "period": "19〜20世紀・アルザス出身",
+      "biography": "医師・思想家・音楽家。アフリカで医療活動を行い、生命への畏敬を説く思想でも知られる。"
+    },
+    {
+      "id": "world-chopin",
+      "name": "フレデリック・ショパン",
+      "period": "19世紀・ポーランド出身",
+      "biography": "ピアノのための作品を数多く残した作曲家・ピアニスト。フランスでも活動し、旋律や響きの繊細な表現を追求した。"
+    },
+    {
+      "id": "world-steve-jobs",
+      "name": "スティーブ・ジョブズ",
+      "period": "20〜21世紀・アメリカ",
+      "biography": "Appleの共同創業者。コンピューターや携帯端末などの製品づくりを進め、技術と使い心地の関係を重視した。"
+    },
+    {
+      "id": "world-spinoza",
+      "name": "バールーフ・デ・スピノザ",
+      "period": "17世紀・オランダ",
+      "biography": "『エチカ』を著した哲学者。自然と人間の関係、感情、自由について考察し、レンズ磨きの仕事でも生計を立てた。"
+    },
+    {
+      "id": "world-socrates",
+      "name": "ソクラテス",
+      "period": "紀元前5世紀・古代ギリシア",
+      "biography": "人々との問答を重ねた哲学者。本人の著作は残らず、その考えや生涯は弟子たちの記述などを通して伝えられている。"
+    },
+    {
+      "id": "world-charles-dickens",
+      "name": "チャールズ・ディケンズ",
+      "period": "19世紀・イギリス",
+      "biography": "『オリバー・ツイスト』『クリスマス・キャロル』などを著した作家。物語を通して貧困や社会の格差、人々の暮らしを描いた。"
+    },
+    {
+      "id": "world-chaplin",
+      "name": "チャールズ・チャップリン",
+      "period": "19〜20世紀・イギリス出身",
+      "biography": "映画俳優・監督。喜劇の動きや表情を通して、人間の弱さや社会の矛盾を描き、アメリカを中心に多くの映画を制作した。"
+    },
+    {
+      "id": "world-dale-carnegie",
+      "name": "デール・カーネギー",
+      "period": "19〜20世紀・アメリカ",
+      "biography": "話し方や対人関係について教えた著述家・講師。『人を動かす』などを通して、人との関わり方を具体的な例で論じた。"
+    },
+    {
+      "id": "world-tolstoy",
+      "name": "レフ・トルストイ",
+      "period": "19〜20世紀・ロシア",
+      "biography": "『戦争と平和』『アンナ・カレーニナ』などを著した作家。人間関係や社会、道徳や信仰について考察を続けた。"
+    },
+    {
+      "id": "world-nightingale",
+      "name": "フローレンス・ナイチンゲール",
+      "period": "19〜20世紀・イギリス",
+      "biography": "看護の実践と教育、病院の環境改善に取り組んだ人物。統計を用いて状況を示し、医療や衛生の仕組みを変える活動も行った。"
+    },
+    {
+      "id": "world-napoleon",
+      "name": "ナポレオン・ボナパルト",
+      "period": "18〜19世紀・フランス",
+      "biography": "フランス革命後の政治と戦争で台頭し、皇帝となった人物。ヨーロッパ各地での戦争や法制度の整備に大きく関わった。"
+    },
+    {
+      "id": "world-nietzsche",
+      "name": "フリードリヒ・ニーチェ",
+      "period": "19世紀・ドイツ",
+      "biography": "道徳や価値の成り立ちを問い直した哲学者。『ツァラトゥストラはこう語った』など、独特な文体の著作を残した。"
+    },
+    {
+      "id": "world-newton",
+      "name": "アイザック・ニュートン",
+      "period": "17〜18世紀・イギリス",
+      "biography": "運動の法則や万有引力、光の研究で知られる科学者。数学の発展にも関わり、自然現象を統一的に説明する方法を探った。"
+    },
+    {
+      "id": "world-nobel",
+      "name": "アルフレッド・ノーベル",
+      "period": "19世紀・スウェーデン",
+      "biography": "ダイナマイトなどを開発した発明家。遺言で財産を人類に貢献した人々のために使うよう定め、ノーベル賞の設立につながった。"
+    },
+    {
+      "id": "world-peter-drucker",
+      "name": "ピーター・ドラッカー",
+      "period": "20〜21世紀・オーストリア出身",
+      "biography": "組織や働く人の役割について論じた経営学者・著述家。企業だけでなく、非営利組織の運営にも関心を向けた。"
+    },
+    {
+      "id": "world-pablo-picasso",
+      "name": "パブロ・ピカソ",
+      "period": "19〜20世紀・スペイン出身",
+      "biography": "絵画や彫刻、版画などで活動した美術家。キュビスムをはじめ、対象の見方や表現方法を生涯にわたって変化させた。"
+    },
+    {
+      "id": "world-pythagoras",
+      "name": "ピタゴラス",
+      "period": "紀元前6〜5世紀・古代ギリシア",
+      "biography": "数や音の関係を考えた思想家。本人と学派の教えが後世に伝えられ、数学や哲学の歴史に影響を与えた。"
+    },
+    {
+      "id": "world-hippocrates",
+      "name": "ヒポクラテス",
+      "period": "紀元前5〜4世紀・古代ギリシア",
+      "biography": "古代ギリシアの医師として知られる人物。その名を冠する文献群には、さまざまな著者や時代の医学的な考察が伝えられている。"
+    },
+    {
+      "id": "world-fabre",
+      "name": "ジャン＝アンリ・ファーブル",
+      "period": "19〜20世紀・フランス",
+      "biography": "昆虫の行動を観察し、『昆虫記』にまとめた博物学者。身近な生き物の暮らしを、継続した観察や実験から調べた。"
+    },
+    {
+      "id": "world-franz-kafka",
+      "name": "フランツ・カフカ",
+      "period": "19〜20世紀・プラハ出身",
+      "biography": "『変身』『審判』などを残した作家。日常の中に不条理な出来事を置き、人間の不安や社会との関係を描いた。"
+    },
+    {
+      "id": "world-helen-keller",
+      "name": "ヘレン・ケラー",
+      "period": "19〜20世紀・アメリカ",
+      "biography": "幼い頃に視覚と聴覚を失い、学びを重ねて著述や社会活動に取り組んだ人物。障害のある人々の権利などを訴えた。"
+    },
+    {
+      "id": "world-benjamin-franklin",
+      "name": "ベンジャミン・フランクリン",
+      "period": "18世紀・アメリカ",
+      "biography": "印刷業、科学、政治や外交などに取り組んだ人物。電気の研究で知られ、アメリカ独立に関わる活動にも参加した。"
+    },
+    {
+      "id": "world-henry-ford",
+      "name": "ヘンリー・フォード",
+      "period": "19〜20世紀・アメリカ",
+      "biography": "フォード・モーターを創業した実業家。自動車の大量生産を進め、生産工程や働き方に大きな影響を与えた。"
+    },
+    {
+      "id": "world-stephen-hawking",
+      "name": "スティーヴン・ホーキング",
+      "period": "20〜21世紀・イギリス",
+      "biography": "宇宙やブラックホールについて研究した理論物理学者。一般向けの著作を通じて、宇宙論の問いを広く伝えた。"
+    },
+    {
+      "id": "world-martin-luther",
+      "name": "マルティン・ルター",
+      "period": "15〜16世紀・ドイツ",
+      "biography": "キリスト教の宗教改革に関わった神学者。信仰や教会のあり方を問い直し、聖書のドイツ語訳にも取り組んだ。"
+    },
+    {
+      "id": "world-michelangelo",
+      "name": "ミケランジェロ・ブオナローティ",
+      "period": "15〜16世紀・イタリア",
+      "biography": "彫刻、絵画、建築で活動した芸術家。ダビデ像やシスティーナ礼拝堂の天井画など、多くの作品を残した。"
+    },
+    {
+      "id": "world-mencius",
+      "name": "孟子",
+      "period": "戦国時代・中国",
+      "biography": "孔子の思想を受け継ぐ立場から、人の心や政治を論じた思想家。人間が善に向かう可能性を重視した。"
+    },
+    {
+      "id": "world-mozart",
+      "name": "ヴォルフガング・アマデウス・モーツァルト",
+      "period": "18世紀・オーストリア",
+      "biography": "幼少期から演奏活動を行った作曲家。交響曲や協奏曲、室内楽、オペラなど多様な形式の作品を残した。"
+    },
+    {
+      "id": "world-montesquieu",
+      "name": "モンテスキュー",
+      "period": "17〜18世紀・フランス",
+      "biography": "『法の精神』などを著した思想家。政治制度や権力の働きを比較し、自由を守る仕組みについて考察した。"
+    },
+    {
+      "id": "world-tagore",
+      "name": "ラビンドラナート・タゴール",
+      "period": "19〜20世紀・インド",
+      "biography": "詩人・音楽家・教育者。詩集『ギタンジャリ』で知られ、文学に加えて音楽や教育の活動にも取り組んだ。"
+    },
+    {
+      "id": "world-lincoln",
+      "name": "エイブラハム・リンカーン",
+      "period": "19世紀・アメリカ",
+      "biography": "アメリカ合衆国第16代大統領。南北戦争期に政権を担い、奴隷解放宣言を出した。ゲティスバーグでの演説でも知られる。"
+    },
+    {
+      "id": "world-louis-pasteur",
+      "name": "ルイ・パスツール",
+      "period": "19世紀・フランス",
+      "biography": "発酵や微生物、感染症について研究した科学者。実験を通して、目に見えない生き物と日常の現象との関係を調べた。"
+    },
+    {
+      "id": "world-rachel-carson",
+      "name": "レイチェル・カーソン",
+      "period": "20世紀・アメリカ",
+      "biography": "生物学者・作家。『沈黙の春』で環境への問題を問い、自然の美しさや驚きに触れる経験の大切さも伝えた。"
+    },
+    {
+      "id": "world-leonardo-da-vinci",
+      "name": "レオナルド・ダ・ヴィンチ",
+      "period": "15〜16世紀・イタリア",
+      "biography": "絵画に加え、人体や自然、機械などを幅広く観察した人物。考察や構想を、多くの素描と手稿に残した。"
+    },
+    {
+      "id": "world-laozi",
+      "name": "老子",
+      "period": "古代中国・道家の思想",
+      "biography": "『老子』と呼ばれる書物に結びつく伝承上の思想家。その生涯には不明な点が多く、道や無為についての教えが伝えられる。"
+    },
+    {
+      "id": "world-robert-koch",
+      "name": "ロベルト・コッホ",
+      "period": "19〜20世紀・ドイツ",
+      "biography": "細菌と病気の関係を研究した医師・細菌学者。結核菌の発見などを通して、感染症研究の発展に関わった。"
+    },
+    {
+      "id": "world-wangarimaathai",
+      "name": "ワンガリ・マータイ",
+      "period": "20〜21世紀・ケニア",
+      "biography": "植林を通じて環境保護や女性の生活改善に取り組んだ活動家。グリーンベルト運動を始め、ノーベル平和賞を受けた。"
+    }
+  ],
+  "quotes": [
+    {
+      "id": "tomo8-einstein",
+      "text": "大切なのは、疑問を持ち続けることだ。",
+      "reading": "たいせつなのはぎもんをもちつづけることだ",
+      "authorId": "world-einstein",
+      "category": "history",
+      "explanation": "答えを早く決めることより、なぜそうなるのかを問い続ける姿勢を促す。知識を覚えるだけで終わらず、見慣れた出来事にも調べる余地を見いだす言葉として読める。",
+      "source": "Study Language ことばをまなぶ：アルベルト・アインシュタインの紹介記事。記事掲載の日本語表記を採録。著作・発言の原典は未照合。解説は本アプリで執筆。",
+      "sourceUrl": "https://tomo8language.com/einstein/",
+      "wording": "紹介記事の一部抜粋"
+    },
+    {
+      "id": "tomo8-adam-smith",
+      "text": "知識は、すべての進歩と改良の真の源泉である。",
+      "reading": "ちしきはすべてのしんぽとかいりょうのしんのげんせんである",
+      "authorId": "world-adam-smith",
+      "category": "history",
+      "explanation": "知ることを、社会や仕事のやり方を改善する出発点に置く言葉。情報を集めるだけでなく、得た知識を使って方法を見直すときに、学びと進歩のつながりが見えてくる。",
+      "source": "Study Language ことばをまなぶ：アダム・スミスの紹介記事。記事掲載の日本語表記を採録。著作・発言の原典は未照合。解説は本アプリで執筆。",
+      "sourceUrl": "https://tomo8language.com/adam-smith/",
+      "wording": "紹介記事掲載の短い引用"
+    },
+    {
+      "id": "tomo8-aristotle",
+      "text": "すべての者は生まれながらに知恵を求める。",
+      "reading": "すべてのものはうまれながらにちえをもとめる",
+      "authorId": "world-aristotle",
+      "category": "history",
+      "explanation": "人が物事を知りたがる働きを、学問の根本にあるものとして捉える。知識を試験や仕事のための道具に限らず、驚きや好奇心から始まる営みとして考えられる。",
+      "source": "Study Language ことばをまなぶ：アリストテレスの紹介記事。記事掲載の日本語表記を採録。著作・発言の原典は未照合。解説は本アプリで執筆。",
+      "sourceUrl": "https://tomo8language.com/aristotle/",
+      "wording": "紹介記事掲載の短い引用"
+    },
+    {
+      "id": "tomo8-andy-warhol",
+      "text": "考えは豊かに、見た目は貧しく。",
+      "reading": "かんがえはゆたかにみためはまずしく",
+      "authorId": "world-andy-warhol",
+      "category": "history",
+      "explanation": "考えの豊かさと外見の豪華さを対照させる言葉。見せ方にお金をかけることだけを価値の基準にせず、発想の幅や内容に目を向ける読み方ができる。",
+      "source": "Study Language ことばをまなぶ：アンディ・ウォーホルの紹介記事。記事掲載の日本語表記を採録。著作・発言の原典は未照合。解説は本アプリで執筆。",
+      "sourceUrl": "https://tomo8language.com/andy-warhol/",
+      "wording": "紹介記事掲載の短い引用"
+    },
+    {
+      "id": "tomo8-andersen",
+      "text": "旅は私にとって精神の若返りの泉だ",
+      "reading": "たびはわたしにとってせいしんのわかがえりのいずみだ",
+      "authorId": "world-andersen",
+      "category": "history",
+      "explanation": "旅を、心に新しい動きを取り戻す泉にたとえている。遠くへ行くことだけでなく、普段と違う景色や暮らしに触れることが、固定した見方をほぐす契機になる。",
+      "source": "Study Language ことばをまなぶ：ハンス・クリスチャン・アンデルセンの紹介記事。記事掲載の日本語表記を採録。著作・発言の原典は未照合。解説は本アプリで執筆。",
+      "sourceUrl": "https://tomo8language.com/andersen/",
+      "wording": "紹介記事掲載の短い引用"
+    },
+    {
+      "id": "tomo8-andrew-carnegie",
+      "text": "やるべきことと、それ以上のことを行いなさい。",
+      "reading": "やるべきこととそれいじょうのことをおこないなさい",
+      "authorId": "world-andrew-carnegie",
+      "category": "business",
+      "explanation": "必要な仕事を果たしたうえで、自分からできる工夫を探すよう促す言葉。際限なく働くという意味にせず、相手の役に立つ改善を一つ加える姿勢として受け止められる。",
+      "source": "Study Language ことばをまなぶ：アンドリュー・カーネギーの紹介記事。記事掲載の日本語表記を採録。著作・発言の原典は未照合。解説は本アプリで執筆。",
+      "sourceUrl": "https://tomo8language.com/andrew-carnegie/",
+      "wording": "紹介記事の一部抜粋"
+    },
+    {
+      "id": "tomo8-anne-frank",
+      "text": "希望があるところに人生もある。",
+      "reading": "きぼうがあるところにじんせいもある",
+      "authorId": "world-anne-frank",
+      "category": "history",
+      "explanation": "希望を、生きる時間に意味を与える支えとして捉える言葉。苦しい現実がすぐ変わるという約束ではなく、その先を思い描く力が日々を支えることを示している。",
+      "source": "Study Language ことばをまなぶ：アンネ・フランクの紹介記事。記事掲載の日本語表記を採録。著作・発言の原典は未照合。解説は本アプリで執筆。",
+      "sourceUrl": "https://tomo8language.com/anne-frank/",
+      "wording": "紹介記事の一部抜粋"
+    },
+    {
+      "id": "tomo8-walt-disney",
+      "text": "われわれの一番大きい資源は、子供の心である。",
+      "reading": "われわれのいちばんおおきいしげんはこどものこころである",
+      "authorId": "world-walt-disney",
+      "category": "business",
+      "explanation": "子どもの持つ驚きや想像する力を、創作の大切な資源にたとえている。大人の効率や常識だけでは見落とす楽しさを、作品づくりの中心に戻す読み方ができる。",
+      "source": "Study Language ことばをまなぶ：ウォルト・ディズニーの紹介記事。記事掲載の日本語表記を採録。著作・発言の原典は未照合。解説は本アプリで執筆。",
+      "sourceUrl": "https://tomo8language.com/walt-disney/",
+      "wording": "紹介記事掲載の短い引用"
+    },
+    {
+      "id": "tomo8-victorhugo",
+      "text": "愛すること、それは行動することだ。",
+      "reading": "あいすることそれはこうどうすることだ",
+      "authorId": "world-victorhugo",
+      "category": "history",
+      "explanation": "愛を心の中の感情だけで終わらせず、相手に届く行動へ結びつける言葉。大きな宣言よりも、困っている人の話を聞くなどの具体的な関わりから考えられる。",
+      "source": "Study Language ことばをまなぶ：ヴィクトル・ユーゴーの紹介記事。記事掲載の日本語表記を採録。著作・発言の原典は未照合。解説は本アプリで執筆。",
+      "sourceUrl": "https://tomo8language.com/victorhugo/",
+      "wording": "紹介記事掲載の短い引用"
+    },
+    {
+      "id": "tomo8-viktor-frankl",
+      "text": "それでも人生にイエスと言う。",
+      "reading": "それでもじんせいにいえすという",
+      "authorId": "world-viktor-frankl",
+      "category": "history",
+      "explanation": "苦しい出来事があっても、生きることへの応答を手放さない姿勢を表す。同名の著作の邦題としても知られる表現で、つらさを無理に明るく言い換える勧めとは区別して読める。",
+      "source": "Study Language ことばをまなぶ：ヴィクトール・フランクルの紹介記事。記事掲載の日本語表記を採録。著作・発言の原典は未照合。解説は本アプリで執筆。",
+      "sourceUrl": "https://tomo8language.com/viktor-frankl/",
+      "wording": "紹介記事掲載の短い引用"
+    },
+    {
+      "id": "tomo8-erich-fromm",
+      "text": "愛は、人と人を結びつける力なのです。",
+      "reading": "あいはひととひとをむすびつけるちからなのです",
+      "authorId": "world-erich-fromm",
+      "category": "history",
+      "explanation": "愛を、人と人の隔たりを越えて関わりをつくる働きとして表す。相手を所有したり同じ考えに従わせたりすることとは分け、互いを尊重する結びつきとして考えられる。",
+      "source": "Study Language ことばをまなぶ：エーリッヒ・フロムの紹介記事。記事掲載の日本語表記を採録。著作・発言の原典は未照合。解説は本アプリで執筆。",
+      "sourceUrl": "https://tomo8language.com/erich-fromm/",
+      "wording": "紹介記事掲載の短い引用"
+    },
+    {
+      "id": "tomo8-thomas-edison",
+      "text": "天才とは1％のひらめきと99％の努力である。",
+      "reading": "てんさいとはいちぱーせんとのひらめきときゅうじゅうきゅうぱーせんとのどりょくである",
+      "authorId": "world-thomas-edison",
+      "category": "history",
+      "explanation": "ひらめきだけで成果が完成するのではなく、試作や調整に多くの手間がかかることを強調する。数字は努力の重さを印象づける表現であり、才能や休息を不要とする割合の法則ではない。",
+      "source": "Study Language ことばをまなぶ：トーマス・エジソンの紹介記事。記事掲載の日本語表記を採録。著作・発言の原典は未照合。解説は本アプリで執筆。",
+      "sourceUrl": "https://tomo8language.com/thomas-edison/",
+      "wording": "紹介記事掲載の短い引用"
+    },
+    {
+      "id": "tomo8-eleanor-roosevelt",
+      "text": "あなたの心が正しいと感じることを行いなさい。",
+      "reading": "あなたのこころがただしいとかんじることをおこないなさい",
+      "authorId": "world-eleanor-roosevelt",
+      "category": "history",
+      "explanation": "周囲の評価だけを基準にせず、自分の良心に照らして行動するよう促す。思いつきを無条件に正当化するのではなく、他者への影響も考えたうえで責任を引き受ける言葉として読める。",
+      "source": "Study Language ことばをまなぶ：エレノア・ルーズベルトの紹介記事。記事掲載の日本語表記を採録。著作・発言の原典は未照合。解説は本アプリで執筆。",
+      "sourceUrl": "https://tomo8language.com/eleanor-roosevelt/",
+      "wording": "紹介記事の一部抜粋"
+    },
+    {
+      "id": "tomo8-audrey-hepburn",
+      "text": "何より大事なのは、人生を楽しむこと。",
+      "reading": "なによりだいじなのはじんせいをたのしむこと",
+      "authorId": "world-audrey-hepburn",
+      "category": "history",
+      "explanation": "人生の価値を、肩書きや他人からの評価だけでは決めないという読み方ができる。身近な人との時間や自分が喜びを感じる経験にも、意識を向けるきっかけとなる言葉。",
+      "source": "Study Language ことばをまなぶ：オードリー・ヘプバーンの紹介記事。記事掲載の日本語表記を採録。著作・発言の原典は未照合。解説は本アプリで執筆。",
+      "sourceUrl": "https://tomo8language.com/audrey-hepburn/",
+      "wording": "紹介記事の一部抜粋"
+    },
+    {
+      "id": "tomo8-gaudi",
+      "text": "建築とは光を操ること。彫刻とは光と遊ぶことだ。",
+      "reading": "けんちくとはひかりをあやつることちょうこくとはひかりとあそぶことだ",
+      "authorId": "world-gaudi",
+      "category": "history",
+      "explanation": "建物や彫刻を、材料の形だけでなく光との関係から捉えている。窓から入る光や表面の陰影が、同じ形の見え方や空間の感じ方を変えることに目を向けられる。",
+      "source": "Study Language ことばをまなぶ：アントニ・ガウディの紹介記事。記事掲載の日本語表記を採録。著作・発言の原典は未照合。解説は本アプリで執筆。",
+      "sourceUrl": "https://tomo8language.com/gaudi/",
+      "wording": "紹介記事掲載の短い引用"
+    },
+    {
+      "id": "tomo8-gandhi",
+      "text": "未来は、「今、我々が何を為すか」にかかっている。",
+      "reading": "みらいはいまわれわれがなにをなすかにかかっている",
+      "authorId": "world-gandhi",
+      "category": "history",
+      "explanation": "望む未来を待つだけでなく、現在の行動とのつながりを問う言葉。結果を一人で決められるわけではないが、今選べる小さな行動がその先に関わることを意識させる。",
+      "source": "Study Language ことばをまなぶ：マハトマ・ガンディーの紹介記事。記事掲載の日本語表記を採録。著作・発言の原典は未照合。解説は本アプリで執筆。",
+      "sourceUrl": "https://tomo8language.com/gandhi/",
+      "wording": "紹介記事掲載の短い引用"
+    },
+    {
+      "id": "tomo8-immanuel-kant",
+      "text": "哲学は学べない。学べるのは哲学することだけである。",
+      "reading": "てつがくはまなべないまなべるのはてつがくすることだけである",
+      "authorId": "world-immanuel-kant",
+      "category": "history",
+      "explanation": "哲学者の結論を覚えることと、自分で問いを立てて検討することを区別する言葉。先人の議論を学びながらも、理由を確かめる思考の働きを自分で実践する大切さを示す。",
+      "source": "Study Language ことばをまなぶ：イマヌエル・カントの紹介記事。記事掲載の日本語表記を採録。著作・発言の原典は未照合。解説は本アプリで執筆。",
+      "sourceUrl": "https://tomo8language.com/immanuel-kant/",
+      "wording": "紹介記事掲載の短い引用"
+    },
+    {
+      "id": "tomo8-kierkegaard",
+      "text": "人生は、後ろ向きにしか理解できないが、前を向いてしか生きられない",
+      "reading": "じんせいはうしろむきにしかりかいできないがまえをむいてしかいきられない",
+      "authorId": "world-kierkegaard",
+      "category": "history",
+      "explanation": "過去を振り返って理解することと、先の分からない中で行動することを対比する。十分な確信を得てからでないと動けないという迷いに対し、理解と決断の時間差を示している。",
+      "source": "Study Language ことばをまなぶ：セーレン・キルケゴールの紹介記事。記事掲載の日本語表記を採録。著作・発言の原典は未照合。解説は本アプリで執筆。",
+      "sourceUrl": "https://tomo8language.com/kierkegaard/",
+      "wording": "紹介記事掲載の短い引用"
+    },
+    {
+      "id": "tomo8-madame-curie",
+      "text": "個人の改善なくして、社会の改革はありません。",
+      "reading": "こじんのかいぜんなくしてしゃかいのかいかくはありません",
+      "authorId": "world-madame-curie",
+      "category": "history",
+      "explanation": "社会を変える課題を、自分自身のあり方とも結びつけて考える言葉。制度の改善を個人だけの責任に置き換えるのではなく、自分の学びや行動も改革に参加する一つの道として読める。",
+      "source": "Study Language ことばをまなぶ：マリー・キュリーの紹介記事。記事掲載の日本語表記を採録。著作・発言の原典は未照合。解説は本アプリで執筆。",
+      "sourceUrl": "https://tomo8language.com/madame-curie/",
+      "wording": "紹介記事掲載の短い引用"
+    },
+    {
+      "id": "tomo8-martin-luther-king",
+      "text": "闇は、闇で追い払うことはできない。",
+      "reading": "やみはやみでおいはらうことはできない",
+      "authorId": "world-martin-luther-king",
+      "category": "history",
+      "explanation": "闇を憎しみや対立の比喩として読み、同じ方法を返すだけでは解決しないことを表す一節。対立を終わらせるには、異なる働きかけを探す必要があるという問題提起になる。",
+      "source": "Study Language ことばをまなぶ：マーティン・ルーサー・キング・ジュニアの紹介記事。記事掲載の日本語表記を採録。著作・発言の原典は未照合。解説は本アプリで執筆。",
+      "sourceUrl": "https://tomo8language.com/martin-luther-king/",
+      "wording": "紹介記事の一部抜粋"
+    },
+    {
+      "id": "tomo8-graham-bell",
+      "text": "偉大な発明や進歩は、必ず多くの人々の協力を得てなされる。",
+      "reading": "いだいなはつめいやしんぽはかならずおおくのひとびとのきょうりょくをえてなされる",
+      "authorId": "world-graham-bell",
+      "category": "history",
+      "explanation": "発明を一人の天才だけの成果として見るのではなく、協力する人々の働きに目を向ける言葉。知識、試作、資金、使う人の反応など、異なる貢献が成果を支えていると考えられる。",
+      "source": "Study Language ことばをまなぶ：アレクサンダー・グラハム・ベルの紹介記事。記事掲載の日本語表記を採録。著作・発言の原典は未照合。解説は本アプリで執筆。",
+      "sourceUrl": "https://tomo8language.com/graham-bell/",
+      "wording": "紹介記事の一部抜粋"
+    },
+    {
+      "id": "tomo8-goethe",
+      "text": "喜んで行い、そして行った事を喜べる人は幸福である。",
+      "reading": "よろこんでおこないそしておこなったことをよろこべるひとはこうふくである",
+      "authorId": "world-goethe",
+      "category": "history",
+      "explanation": "取り組む最中の喜びと、終えて振り返る喜びを並べている。評価や報酬だけに幸福を預けず、自分が行うこととの関係を整えるという読み方ができる。",
+      "source": "Study Language ことばをまなぶ：ヨハン・ヴォルフガング・フォン・ゲーテの紹介記事。記事掲載の日本語表記を採録。著作・発言の原典は未照合。解説は本アプリで執筆。",
+      "sourceUrl": "https://tomo8language.com/goethe/",
+      "wording": "紹介記事掲載の短い引用"
+    },
+    {
+      "id": "tomo8-kennedy",
+      "text": "我々は言葉だけでなく、行為でそれを示さなくてはならない。",
+      "reading": "われわれはことばだけでなくこういでそれをしめさなくてはならない",
+      "authorId": "world-kennedy",
+      "category": "history",
+      "explanation": "宣言や約束があっても、それを支える行動が必要だとする言葉。掲げた目標に対して何をしたのかを確かめることで、言葉と実際の振る舞いの距離を見直せる。",
+      "source": "Study Language ことばをまなぶ：ジョン・F・ケネディの紹介記事。記事掲載の日本語表記を採録。著作・発言の原典は未照合。解説は本アプリで執筆。",
+      "sourceUrl": "https://tomo8language.com/kennedy/",
+      "wording": "紹介記事掲載の短い引用"
+    },
+    {
+      "id": "tomo8-confucius",
+      "text": "義を見てせざるは勇無きなり",
+      "reading": "ぎをみてせざるはゆうなきなり",
+      "authorId": "confucius",
+      "category": "history",
+      "explanation": "正しいと分かっていることを行わない態度を、勇気の問題として問う。知識として善悪を判断するだけでなく、自分の行動につなぐ難しさに目を向ける言葉。",
+      "source": "Study Language ことばをまなぶ：孔子の紹介記事。記事掲載の日本語表記を採録。著作・発言の原典は未照合。解説は本アプリで執筆。",
+      "sourceUrl": "https://tomo8language.com/confucius/",
+      "wording": "紹介記事掲載の短い引用"
+    },
+    {
+      "id": "tomo8-coco-chanel",
+      "text": "私は流行をつくっているのではない。スタイルをつくっているの。",
+      "reading": "わたしはりゅうこうをつくっているのではないすたいるをつくっているの",
+      "authorId": "world-coco-chanel",
+      "category": "business",
+      "explanation": "短い期間で移り変わる流行と、持ち続けられる表現の軸を対比している。周囲の人気だけを追うのではなく、自分が大切にする形を探す言葉として読める。",
+      "source": "Study Language ことばをまなぶ：ココ・シャネルの紹介記事。記事掲載の日本語表記を採録。著作・発言の原典は未照合。解説は本アプリで執筆。",
+      "sourceUrl": "https://tomo8language.com/coco-chanel/",
+      "wording": "紹介記事掲載の短い引用"
+    },
+    {
+      "id": "tomo8-gogh",
+      "text": "もし、黄色と橙色がなければ、青色もない。",
+      "reading": "もしきいろとだいだいいろがなければあおいろもない",
+      "authorId": "world-gogh",
+      "category": "history",
+      "explanation": "色を一つずつ孤立したものとしてではなく、ほかの色との対比で捉える表現。青という色の物理的な存在を否定するのではなく、暖色との組み合わせが生む見え方として読める。",
+      "source": "Study Language ことばをまなぶ：フィンセント・ファン・ゴッホの紹介記事。記事掲載の日本語表記を採録。著作・発言の原典は未照合。解説は本アプリで執筆。",
+      "sourceUrl": "https://tomo8language.com/gogh/",
+      "wording": "紹介記事掲載の短い引用"
+    },
+    {
+      "id": "tomo8-schweizer",
+      "text": "精神は行動にならなければなりません",
+      "reading": "せいしんはこうどうにならなければなりません",
+      "authorId": "world-schweizer",
+      "category": "history",
+      "explanation": "大切にしている考えを、内面に置くだけで終えず実際の行動に表すよう促す。理念を語ることと、その理念に沿って人や生命に関わることを結びつけている。",
+      "source": "Study Language ことばをまなぶ：アルベルト・シュバイツァーの紹介記事。記事掲載の日本語表記を採録。著作・発言の原典は未照合。解説は本アプリで執筆。",
+      "sourceUrl": "https://tomo8language.com/schweizer/",
+      "wording": "紹介記事掲載の短い引用"
+    },
+    {
+      "id": "tomo8-chopin",
+      "text": "シンプルさは最終的な目標です。",
+      "reading": "しんぷるさはさいしゅうてきなもくひょうです",
+      "authorId": "world-chopin",
+      "category": "history",
+      "explanation": "単純さを、何も工夫しない出発点ではなく、表現を磨いた先の目標として置く言葉。余計なものを取り除くには、何を残すかを見極める経験が必要だと考えられる。",
+      "source": "Study Language ことばをまなぶ：フレデリック・ショパンの紹介記事。記事掲載の日本語表記を採録。著作・発言の原典は未照合。解説は本アプリで執筆。",
+      "sourceUrl": "https://tomo8language.com/chopin/",
+      "wording": "紹介記事の一部抜粋"
+    },
+    {
+      "id": "tomo8-steve-jobs",
+      "text": "ハングリーであれ。愚か者であれ。",
+      "reading": "はんぐりーであれおろかものであれ",
+      "authorId": "world-steve-jobs",
+      "category": "business",
+      "explanation": "現状に満足し切らず、未経験のことにも踏み出す姿勢を促す表現。卒業式のスピーチで別の刊行物から受け継いで紹介した言葉であり、本人が最初に作った標語という扱いはしない。",
+      "source": "Study Language ことばをまなぶ：スティーブ・ジョブズの紹介記事。記事掲載の日本語表記を採録。著作・発言の原典は未照合。解説は本アプリで執筆。 記事が紹介する2005年スタンフォード大学卒業式のスピーチ。",
+      "sourceUrl": "https://tomo8language.com/steve-jobs/",
+      "wording": "紹介記事掲載の短い引用"
+    },
+    {
+      "id": "tomo8-spinoza",
+      "text": "自由とは、必然性に基づく行動のことである。",
+      "reading": "じゆうとはひつぜんせいにもとづくこうどうのことである",
+      "authorId": "world-spinoza",
+      "category": "history",
+      "explanation": "自由を、理由なく好き勝手に振る舞うこととは異なる形で捉える言葉。物事が生じる理由を理解し、感情に流されるだけの状態から自分の行動を考え直す入口になる。",
+      "source": "Study Language ことばをまなぶ：バールーフ・デ・スピノザの紹介記事。記事掲載の日本語表記を採録。著作・発言の原典は未照合。解説は本アプリで執筆。",
+      "sourceUrl": "https://tomo8language.com/spinoza/",
+      "wording": "紹介記事掲載の短い引用"
+    },
+    {
+      "id": "tomo8-socrates",
+      "text": "真の賢者は己の愚を知る者なり。",
+      "reading": "しんのけんじゃはおのれのぐをしるものなり",
+      "authorId": "world-socrates",
+      "category": "history",
+      "explanation": "賢さを、知っている量だけでなく、自分の理解の限界を認める姿勢に見いだす。分からないことを隠さず問い直す態度が、学びを続ける余地をつくると読める。",
+      "source": "Study Language ことばをまなぶ：ソクラテスの紹介記事。記事掲載の日本語表記を採録。著作・発言の原典は未照合。解説は本アプリで執筆。",
+      "sourceUrl": "https://tomo8language.com/socrates/",
+      "wording": "紹介記事掲載の短い引用"
+    },
+    {
+      "id": "tomo8-charles-dickens",
+      "text": "愛する心は、真の知恵である。",
+      "reading": "あいするこころはしんのちえである",
+      "authorId": "world-charles-dickens",
+      "category": "history",
+      "explanation": "知恵を計算の巧みさだけに限らず、人を思いやる感受性と結びつける言葉。相手の事情を知ろうとする姿勢が、判断を深める助けになるという読み方ができる。",
+      "source": "Study Language ことばをまなぶ：チャールズ・ディケンズの紹介記事。記事掲載の日本語表記を採録。著作・発言の原典は未照合。解説は本アプリで執筆。",
+      "sourceUrl": "https://tomo8language.com/charles-dickens/",
+      "wording": "紹介記事掲載の短い引用"
+    },
+    {
+      "id": "tomo8-chaplin",
+      "text": "必要なのは知識でなく思いやりである。",
+      "reading": "ひつようなのはちしきでなくおもいやりである",
+      "authorId": "world-chaplin",
+      "category": "history",
+      "explanation": "知識や技術だけでは、人を大切にする行動が自動的に生まれないことを問う一節。学ぶことを否定するのではなく、得た力を誰のためにどう使うかに注意を向ける。",
+      "source": "Study Language ことばをまなぶ：チャールズ・チャップリンの紹介記事。記事掲載の日本語表記を採録。著作・発言の原典は未照合。解説は本アプリで執筆。 映画『独裁者』の演説で用いられる表現。",
+      "sourceUrl": "https://tomo8language.com/chaplin/",
+      "wording": "紹介記事の一部抜粋"
+    },
+    {
+      "id": "tomo8-dale-carnegie",
+      "text": "友をつくりたいなら、まず人のために尽くすことだ。",
+      "reading": "ともをつくりたいならまずひとのためにつくすことだ",
+      "authorId": "world-dale-carnegie",
+      "category": "history",
+      "explanation": "友人を得たいという願いを、まず相手のために動く姿勢へ向ける言葉。好かれる結果を操作する方法としてではなく、関係を育てる自分からの働きかけとして考えられる。",
+      "source": "Study Language ことばをまなぶ：デール・カーネギーの紹介記事。記事掲載の日本語表記を採録。著作・発言の原典は未照合。解説は本アプリで執筆。",
+      "sourceUrl": "https://tomo8language.com/dale-carnegie/",
+      "wording": "紹介記事の一部抜粋"
+    },
+    {
+      "id": "tomo8-tolstoy",
+      "text": "真の愛は、生そのものである。",
+      "reading": "しんのあいはせいそのものである",
+      "authorId": "world-tolstoy",
+      "category": "history",
+      "explanation": "愛を、生きることに付け加える飾りではなく、日々の生そのものと結びつける言葉。身近な相手への接し方など、生活全体のあり方として愛を考えるきっかけになる。",
+      "source": "Study Language ことばをまなぶ：レフ・トルストイの紹介記事。記事掲載の日本語表記を採録。著作・発言の原典は未照合。解説は本アプリで執筆。",
+      "sourceUrl": "https://tomo8language.com/tolstoy/",
+      "wording": "紹介記事の一部抜粋"
+    },
+    {
+      "id": "tomo8-nightingale",
+      "text": "経験をもたらすのは観察だけなのである。",
+      "reading": "けいけんをもたらすのはかんさつだけなのである",
+      "authorId": "world-nightingale",
+      "category": "history",
+      "explanation": "同じ作業を繰り返すだけでなく、変化や結果に注意を向けて初めて学べるという読み方ができる。経験の長さと、そこから何を見いだしたかを区別して考える言葉。",
+      "source": "Study Language ことばをまなぶ：フローレンス・ナイチンゲールの紹介記事。記事掲載の日本語表記を採録。著作・発言の原典は未照合。解説は本アプリで執筆。",
+      "sourceUrl": "https://tomo8language.com/nightingale/",
+      "wording": "紹介記事掲載の短い引用"
+    },
+    {
+      "id": "tomo8-napoleon",
+      "text": "最も大きな危険は、勝利の瞬間にある。",
+      "reading": "もっともおおきなきけんはしょうりのしゅんかんにある",
+      "authorId": "world-napoleon",
+      "category": "history",
+      "explanation": "成功した直後の油断を、注意すべき危険として示す言葉。うまくいった理由を確かめずに次も同じだと思い込むと、状況の変化を見落とすことがあると考えられる。",
+      "source": "Study Language ことばをまなぶ：ナポレオン・ボナパルトの紹介記事。記事掲載の日本語表記を採録。著作・発言の原典は未照合。解説は本アプリで執筆。",
+      "sourceUrl": "https://tomo8language.com/napoleon/",
+      "wording": "紹介記事掲載の短い引用"
+    },
+    {
+      "id": "tomo8-nietzsche",
+      "text": "脱皮できない蛇は滅びる。",
+      "reading": "だっぴできないへびはほろびる",
+      "authorId": "world-nietzsche",
+      "category": "history",
+      "explanation": "蛇の脱皮を、古くなった考え方を更新することの比喩として読める。変化そのものを目的にするのではなく、成長を妨げる習慣や前提を手放す必要に目を向ける一節。",
+      "source": "Study Language ことばをまなぶ：フリードリヒ・ニーチェの紹介記事。記事掲載の日本語表記を採録。著作・発言の原典は未照合。解説は本アプリで執筆。",
+      "sourceUrl": "https://tomo8language.com/nietzsche/",
+      "wording": "紹介記事の一部抜粋"
+    },
+    {
+      "id": "tomo8-newton",
+      "text": "年がら年中、そのことばかりを考えていただけです。",
+      "reading": "ねんがらねんじゅうそのことばかりをかんがえていただけです",
+      "authorId": "world-newton",
+      "category": "history",
+      "explanation": "発見の背景を、ひらめきの瞬間だけでなく長く考え続けた時間に置く言葉。気になった問題を持ち続けることで、別々の観察や知識がつながる可能性を示している。",
+      "source": "Study Language ことばをまなぶ：アイザック・ニュートンの紹介記事。記事掲載の日本語表記を採録。著作・発言の原典は未照合。解説は本アプリで執筆。",
+      "sourceUrl": "https://tomo8language.com/newton/",
+      "wording": "紹介記事掲載の短い引用"
+    },
+    {
+      "id": "tomo8-nobel",
+      "text": "人生は気高いもの。",
+      "reading": "じんせいはけだかいもの",
+      "authorId": "world-nobel",
+      "category": "history",
+      "explanation": "人生を、磨いていく価値のあるものにたとえる文章の冒頭。目の前の成果だけで自分の価値を決めず、時間をかけて自分の可能性を育てるという読み方ができる。",
+      "source": "Study Language ことばをまなぶ：アルフレッド・ノーベルの紹介記事。記事掲載の日本語表記を採録。著作・発言の原典は未照合。解説は本アプリで執筆。",
+      "sourceUrl": "https://tomo8language.com/nobel/",
+      "wording": "紹介記事の一部抜粋"
+    },
+    {
+      "id": "tomo8-peter-drucker",
+      "text": "できることから始めるのではなく、正しいことから始めるのです。",
+      "reading": "できることからはじめるのではなくただしいことからはじめるのです",
+      "authorId": "world-peter-drucker",
+      "category": "history",
+      "explanation": "手慣れた作業の順番だけで仕事を決めず、達成すべき目的から優先順位を考える言葉。忙しく動いた量と、本当に必要なことを進めたかを分けて振り返れる。",
+      "source": "Study Language ことばをまなぶ：ピーター・ドラッカーの紹介記事。記事掲載の日本語表記を採録。著作・発言の原典は未照合。解説は本アプリで執筆。",
+      "sourceUrl": "https://tomo8language.com/peter-drucker/",
+      "wording": "紹介記事掲載の短い引用"
+    },
+    {
+      "id": "tomo8-pablo-picasso",
+      "text": "私は捜し求めない。見出すのだ。",
+      "reading": "わたしはさがしもとめないみいだすのだ",
+      "authorId": "world-pablo-picasso",
+      "category": "history",
+      "explanation": "探し続ける過程よりも、実際に形として見いだすことを強く言い切る表現。準備や試行を不要とする意味ではなく、表現に結びつく発見へ意識を向ける読み方ができる。",
+      "source": "Study Language ことばをまなぶ：パブロ・ピカソの紹介記事。記事掲載の日本語表記を採録。著作・発言の原典は未照合。解説は本アプリで執筆。",
+      "sourceUrl": "https://tomo8language.com/pablo-picasso/",
+      "wording": "紹介記事掲載の短い引用"
+    },
+    {
+      "id": "tomo8-pythagoras",
+      "text": "万物は数なり",
+      "reading": "ばんぶつはかずなり",
+      "authorId": "world-pythagoras",
+      "category": "history",
+      "explanation": "自然や音楽の中にある秩序を、数の関係から理解しようとする考えを短く表す。物の価値を数字だけで決める主張としてではなく、世界の規則性を探る入口として読める。",
+      "source": "Study Language ことばをまなぶ：ピタゴラスの紹介記事。記事掲載の日本語表記を採録。著作・発言の原典は未照合。解説は本アプリで執筆。",
+      "sourceUrl": "https://tomo8language.com/pythagoras/",
+      "wording": "紹介記事掲載の短い引用"
+    },
+    {
+      "id": "tomo8-hippocrates",
+      "text": "人生は短く、技術は長い",
+      "reading": "じんせいはみじかくぎじゅつはながい",
+      "authorId": "world-hippocrates",
+      "category": "history",
+      "explanation": "ここでの技術を医術のような習得に時間を要する営みと捉えると、人の一生と学ぶべきことの大きさの対比が見える。焦って完成を求めるより、学び続ける姿勢を考える言葉。",
+      "source": "Study Language ことばをまなぶ：ヒポクラテスの紹介記事。記事掲載の日本語表記を採録。著作・発言の原典は未照合。解説は本アプリで執筆。",
+      "sourceUrl": "https://tomo8language.com/hippocrates/",
+      "wording": "紹介記事掲載の短い引用"
+    },
+    {
+      "id": "tomo8-fabre",
+      "text": "現実は常に公式からはみ出す。",
+      "reading": "げんじつはつねにこうしきからはみだす",
+      "authorId": "world-fabre",
+      "category": "history",
+      "explanation": "整理された説明だけでは、実際の現象を捉え切れないことがあると示す言葉。公式や理論を捨てるのではなく、合わない観察にも目を向けて理解を深める姿勢として読める。",
+      "source": "Study Language ことばをまなぶ：ジャン＝アンリ・ファーブルの紹介記事。記事掲載の日本語表記を採録。著作・発言の原典は未照合。解説は本アプリで執筆。",
+      "sourceUrl": "https://tomo8language.com/fabre/",
+      "wording": "紹介記事掲載の短い引用"
+    },
+    {
+      "id": "tomo8-franz-kafka",
+      "text": "書くことは祈ることだ。",
+      "reading": "かくことはいのることだ",
+      "authorId": "world-franz-kafka",
+      "category": "history",
+      "explanation": "書く行為を、すぐに答えの出ないものへ向き合う祈りに重ねた表現。考えや願いを言葉にし続けることで、自分と世界との関係を探る営みとして受け止められる。",
+      "source": "Study Language ことばをまなぶ：フランツ・カフカの紹介記事。記事掲載の日本語表記を採録。著作・発言の原典は未照合。解説は本アプリで執筆。",
+      "sourceUrl": "https://tomo8language.com/franz-kafka/",
+      "wording": "紹介記事掲載の短い引用"
+    },
+    {
+      "id": "tomo8-helen-keller",
+      "text": "物事を成し遂げさせるのは希望と自信です。",
+      "reading": "ものごとをなしとげさせるのはきぼうとじしんです",
+      "authorId": "world-helen-keller",
+      "category": "history",
+      "explanation": "目標へ向かう行動を支える内面の力として、希望と自信を挙げる言葉。気持ちだけで条件が整うという意味にせず、助けや方法を求めながら進むための支えとして考えられる。",
+      "source": "Study Language ことばをまなぶ：ヘレン・ケラーの紹介記事。記事掲載の日本語表記を採録。著作・発言の原典は未照合。解説は本アプリで執筆。",
+      "sourceUrl": "https://tomo8language.com/helen-keller/",
+      "wording": "紹介記事掲載の短い引用"
+    },
+    {
+      "id": "tomo8-benjamin-franklin",
+      "text": "愚者の心は口にあるが、賢者の口は心にある。",
+      "reading": "ぐしゃのこころはくちにあるがけんじゃのくちはこころにある",
+      "authorId": "world-benjamin-franklin",
+      "category": "history",
+      "explanation": "思ったことをすぐ口にする態度と、考えてから話す態度を、心と口の位置を逆にして表す。話す前に相手や状況を思い浮かべるための、印象的なたとえとして読める。",
+      "source": "Study Language ことばをまなぶ：ベンジャミン・フランクリンの紹介記事。記事掲載の日本語表記を採録。著作・発言の原典は未照合。解説は本アプリで執筆。",
+      "sourceUrl": "https://tomo8language.com/benjamin-franklin/",
+      "wording": "紹介記事掲載の短い引用"
+    },
+    {
+      "id": "tomo8-henry-ford",
+      "text": "努力が効果をあらわすまでには時間がかかる。",
+      "reading": "どりょくがこうかをあらわすまでにはじかんがかかる",
+      "authorId": "world-henry-ford",
+      "category": "business",
+      "explanation": "取り組みと成果が見える時点には間隔があることを示す言葉。すぐ結果が出ないという理由だけで諦めず、方法を確かめながら続ける余地を考えられる。",
+      "source": "Study Language ことばをまなぶ：ヘンリー・フォードの紹介記事。記事掲載の日本語表記を採録。著作・発言の原典は未照合。解説は本アプリで執筆。",
+      "sourceUrl": "https://tomo8language.com/henry-ford/",
+      "wording": "紹介記事の一部抜粋"
+    },
+    {
+      "id": "tomo8-stephen-hawking",
+      "text": "下を向かず、上を向いて星を眺めることを忘れないでください。",
+      "reading": "したをむかずうえをむいてほしをながめることをわすれないでください",
+      "authorId": "world-stephen-hawking",
+      "category": "history",
+      "explanation": "視線を星へ向ける動作に、世界への好奇心を保つ姿勢を重ねている。目の前の悩みだけに注意が狭まるとき、より大きな問いに触れる余地を思い出させる言葉。",
+      "source": "Study Language ことばをまなぶ：スティーヴン・ホーキングの紹介記事。記事掲載の日本語表記を採録。著作・発言の原典は未照合。解説は本アプリで執筆。",
+      "sourceUrl": "https://tomo8language.com/stephen-hawking/",
+      "wording": "紹介記事の一部抜粋"
+    },
+    {
+      "id": "tomo8-marcus-aurelius",
+      "text": "あたかも一万年も生きるかのように行動するな。",
+      "reading": "あたかもいちまんねんもいきるかのようにこうどうするな",
+      "authorId": "marcus",
+      "category": "history",
+      "explanation": "時間が無限に残っているかのような先延ばしを、自分に戒める一節。死を恐れて焦るためではなく、今できる善い行いを遠い将来に預けない姿勢として読める。",
+      "source": "Study Language ことばをまなぶ：マルクス・アウレリウスの紹介記事。記事掲載の日本語表記を採録。著作・発言の原典は未照合。解説は本アプリで執筆。",
+      "sourceUrl": "https://tomo8language.com/marcus-aurelius/",
+      "wording": "紹介記事の一部抜粋"
+    },
+    {
+      "id": "tomo8-martin-luther",
+      "text": "希望は、強い勇気であり、新たな意志である。",
+      "reading": "きぼうはつよいゆうきでありあらたないしである",
+      "authorId": "world-martin-luther",
+      "category": "history",
+      "explanation": "希望を、願いを待つだけの状態ではなく、再び動こうとする意思に結びつける言葉。困難なときに、次の行動を選び直す内面の働きとして考えられる。",
+      "source": "Study Language ことばをまなぶ：マルティン・ルターの紹介記事。記事掲載の日本語表記を採録。著作・発言の原典は未照合。解説は本アプリで執筆。",
+      "sourceUrl": "https://tomo8language.com/martin-luther/",
+      "wording": "紹介記事掲載の短い引用"
+    },
+    {
+      "id": "tomo8-michelangelo",
+      "text": "羅針盤は手の中にではなく、目の中に持つことが必要だ。",
+      "reading": "らしんばんはてのなかにではなくめのなかにもつことがひつようだ",
+      "authorId": "world-michelangelo",
+      "category": "history",
+      "explanation": "形の基準を道具だけに頼らず、自分の見る力の中に育てるよう促す比喩。測定を不要とするのではなく、観察を重ねて違いを見分ける判断力の重要さを表している。",
+      "source": "Study Language ことばをまなぶ：ミケランジェロ・ブオナローティの紹介記事。記事掲載の日本語表記を採録。著作・発言の原典は未照合。解説は本アプリで執筆。",
+      "sourceUrl": "https://tomo8language.com/michelangelo/",
+      "wording": "紹介記事の一部抜粋"
+    },
+    {
+      "id": "tomo8-mencius",
+      "text": "仁は人の心なり。義は人の路なり。",
+      "reading": "じんはひとのこころなりぎはひとのみちなり",
+      "authorId": "world-mencius",
+      "category": "history",
+      "explanation": "仁を他者を思う心、義を行動の道筋にたとえている。内面の思いやりと、実際にどう振る舞うかという判断を結びつけ、人としてのあり方を考える言葉。",
+      "source": "Study Language ことばをまなぶ：孟子の紹介記事。記事掲載の日本語表記を採録。著作・発言の原典は未照合。解説は本アプリで執筆。",
+      "sourceUrl": "https://tomo8language.com/mencius/",
+      "wording": "紹介記事掲載の短い引用"
+    },
+    {
+      "id": "tomo8-mozart",
+      "text": "私達の財産、それは私達の頭の中にある。",
+      "reading": "わたしたちのざいさんそれはわたしたちのあたまのなかにある",
+      "authorId": "world-mozart",
+      "category": "history",
+      "explanation": "財産を目に見える所有物に限らず、知識や経験、発想する力の中にも見いだす。学び身につけたものが、環境が変わっても働く支えになるという読み方ができる。",
+      "source": "Study Language ことばをまなぶ：ヴォルフガング・アマデウス・モーツァルトの紹介記事。記事掲載の日本語表記を採録。著作・発言の原典は未照合。解説は本アプリで執筆。",
+      "sourceUrl": "https://tomo8language.com/mozart/",
+      "wording": "紹介記事掲載の短い引用"
+    },
+    {
+      "id": "tomo8-montesquieu",
+      "text": "少しを知るために、多くを学んでおかねばならぬ。",
+      "reading": "すこしをしるためにおおくをまなんでおかねばならぬ",
+      "authorId": "world-montesquieu",
+      "category": "history",
+      "explanation": "短い説明や確かな判断の背後には、広い学びが必要だとする言葉。結論が簡潔だからといって調べる過程まで少なくてよいわけではないことを示している。",
+      "source": "Study Language ことばをまなぶ：モンテスキューの紹介記事。記事掲載の日本語表記を採録。著作・発言の原典は未照合。解説は本アプリで執筆。",
+      "sourceUrl": "https://tomo8language.com/montesquieu/",
+      "wording": "紹介記事掲載の短い引用"
+    },
+    {
+      "id": "tomo8-tagore",
+      "text": "花はその花弁のすべてを失って果実を見いだす。",
+      "reading": "はなはそのかべんのすべてをうしなってかじつをみいだす",
+      "authorId": "world-tagore",
+      "category": "history",
+      "explanation": "花びらを失うことと実が育つことを重ね、変化を一方向の喪失だけでは捉えない表現。失う経験を必ず良い結果と結びつけるのではなく、次の段階に目を向ける比喩として読める。",
+      "source": "Study Language ことばをまなぶ：ラビンドラナート・タゴールの紹介記事。記事掲載の日本語表記を採録。著作・発言の原典は未照合。解説は本アプリで執筆。",
+      "sourceUrl": "https://tomo8language.com/tagore/",
+      "wording": "紹介記事掲載の短い引用"
+    },
+    {
+      "id": "tomo8-lincoln",
+      "text": "人民の、人民による、人民のための政治",
+      "reading": "じんみんのじんみんによるじんみんのためのせいじ",
+      "authorId": "world-lincoln",
+      "category": "history",
+      "explanation": "政治が誰に属し、誰によって行われ、誰のためにあるのかを重ねて表す一節。ゲティスバーグ演説の結びにある考えを伝える、日本語の慣用的な表記として収録している。",
+      "source": "Study Language ことばをまなぶ：エイブラハム・リンカーンの紹介記事。記事掲載の日本語表記を採録。著作・発言の原典は未照合。解説は本アプリで執筆。",
+      "sourceUrl": "https://tomo8language.com/lincoln/",
+      "wording": "紹介記事掲載の短い引用"
+    },
+    {
+      "id": "tomo8-louis-pasteur",
+      "text": "幸運は用意された心のみに宿る。",
+      "reading": "こううんはよういされたこころのみにやどる",
+      "authorId": "world-louis-pasteur",
+      "category": "history",
+      "explanation": "偶然の出来事を発見へつなぐには、普段からの知識や観察の準備が役立つとする言葉。幸運を意志だけで呼び込むという意味ではなく、気づきを受け止める力に注目している。",
+      "source": "Study Language ことばをまなぶ：ルイ・パスツールの紹介記事。記事掲載の日本語表記を採録。著作・発言の原典は未照合。解説は本アプリで執筆。",
+      "sourceUrl": "https://tomo8language.com/louis-pasteur/",
+      "wording": "紹介記事掲載の短い引用"
+    },
+    {
+      "id": "tomo8-rachel-carson",
+      "text": "「知る」ことは「感じる」ことの半分も重要ではない",
+      "reading": "しることはかんじることのはんぶんもじゅうようではない",
+      "authorId": "world-rachel-carson",
+      "category": "history",
+      "explanation": "名前や情報を覚える前に、自然への驚きや感動を育てることを重んじる一節。知識を否定するのでなく、もっと知りたいという学びの動機が感情から生まれる点に注目できる。",
+      "source": "Study Language ことばをまなぶ：レイチェル・カーソンの紹介記事。記事掲載の日本語表記を採録。著作・発言の原典は未照合。解説は本アプリで執筆。",
+      "sourceUrl": "https://tomo8language.com/rachel-carson/",
+      "wording": "紹介記事の一部抜粋"
+    },
+    {
+      "id": "tomo8-leonardo-da-vinci",
+      "text": "自然は自己の法則を破らない。",
+      "reading": "しぜんはじこのほうそくをやぶらない",
+      "authorId": "world-leonardo-da-vinci",
+      "category": "history",
+      "explanation": "自然現象を気まぐれなものとして片づけず、そこに規則性を探す姿勢を表す。自分の説明と観察が合わないときに、説明の側を問い直すきっかけとして読める。",
+      "source": "Study Language ことばをまなぶ：レオナルド・ダ・ヴィンチの紹介記事。記事掲載の日本語表記を採録。著作・発言の原典は未照合。解説は本アプリで執筆。",
+      "sourceUrl": "https://tomo8language.com/leonardo-da-vinci/",
+      "wording": "紹介記事掲載の短い引用"
+    },
+    {
+      "id": "tomo8-laozi",
+      "text": "困難なことは、それがまだ易しいうちに始めなさい。",
+      "reading": "こんなんなことはそれがまだやさしいうちにはじめなさい",
+      "authorId": "world-laozi",
+      "category": "history",
+      "explanation": "問題が大きくなる前に、小さく扱える段階から取り組むよう促す言葉。難しい目標も身近な一歩に分けることや、早めの手入れで負担を減らすことに結びつけて考えられる。",
+      "source": "Study Language ことばをまなぶ：老子の紹介記事。記事掲載の日本語表記を採録。著作・発言の原典は未照合。解説は本アプリで執筆。",
+      "sourceUrl": "https://tomo8language.com/laozi/",
+      "wording": "紹介記事の一部抜粋"
+    },
+    {
+      "id": "tomo8-robert-koch",
+      "text": "怠るなかれ。決してあきらめるな。",
+      "reading": "おこたるなかれけっしてあきらめるな",
+      "authorId": "world-robert-koch",
+      "category": "history",
+      "explanation": "成果がすぐには見えない研究や学びで、注意深く取り組みを続ける姿勢を促す。休むことを否定する命令ではなく、方法を見直しながら課題を追い続ける励ましとして読める。",
+      "source": "Study Language ことばをまなぶ：ロベルト・コッホの紹介記事。記事掲載の日本語表記を採録。著作・発言の原典は未照合。解説は本アプリで執筆。",
+      "sourceUrl": "https://tomo8language.com/robert-koch/",
+      "wording": "紹介記事掲載の短い引用"
+    },
+    {
+      "id": "tomo8-wangarimaathai",
+      "text": "未来は、ずっと先にあるわけではありません。",
+      "reading": "みらいはずっとさきにあるわけではありません",
+      "authorId": "world-wangarimaathai",
+      "category": "history",
+      "explanation": "未来を遠い時代だけの問題にせず、現在とつながるものとして捉える一節。環境を守る行動のように、今日の選択が後の暮らしに影響する場面を考える入口になる。",
+      "source": "Study Language ことばをまなぶ：ワンガリ・マータイの紹介記事。記事掲載の日本語表記を採録。著作・発言の原典は未照合。解説は本アプリで執筆。",
+      "sourceUrl": "https://tomo8language.com/wangarimaathai/",
+      "wording": "紹介記事の一部抜粋"
+    }
+  ]
+}

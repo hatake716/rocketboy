@@ -1,0 +1,82 @@
+{
+  "date": "2026-09-09",
+  "status": "world_selection_implemented_total_catalog_incomplete",
+  "catalog": {
+    "requested_total": 3000,
+    "included_total": 282,
+    "remaining": 2718,
+    "complete": false,
+    "categories": {
+      "history": 67,
+      "business": 10,
+      "fiction": 51,
+      "proverb": 54,
+      "hyakunin": 100
+    },
+    "hyakunin_count": 100
+  },
+  "world_selection": {
+    "added": 64,
+    "source_articles": 64,
+    "history": 59,
+    "business": 5,
+    "partial_excerpts": 20,
+    "all_excerpts_matched_source_html": true,
+    "all_provenance_hashes_matched": true,
+    "original_sources_verified": false,
+    "existing_authors_reused": [
+      "confucius",
+      "marcus"
+    ]
+  },
+  "unit_tests": {
+    "tests": 25,
+    "failures": 0,
+    "errors": 0,
+    "skipped": 0
+  },
+  "ui_tests_full": {
+    "tests": 20,
+    "failures": 0,
+    "errors": 0,
+    "skipped": 0
+  },
+  "ui_tests_compact": {
+    "tests": 1,
+    "failures": 0,
+    "errors": 0,
+    "skipped": 0
+  },
+  "emulator": {
+    "serial": "emulator-5554",
+    "api": 35,
+    "full": "1080x2400 / 420dpi",
+    "compact": "720x1280 / 320dpi",
+    "original_display_restored": true
+  },
+  "debug_lint": {
+    "errors": 0,
+    "warnings": 24
+  },
+  "debug_build": true,
+  "packaged_catalog_matches_source": true,
+  "packaged_tsv_records": 274,
+  "legacy_code_records": 8,
+  "physical_device_tested": false,
+  "apk": {
+    "path": "artifacts/world-quotes-preview/ROCKETBOY-world-quotes-preview.apk",
+    "bytes": 5722479,
+    "sha256": "afb820ffb97bd17cdf1f77b8fb2560d5f71d9c68d5486c04e5c8627c4afa419f",
+    "signature": "Android debug / APK Signature Scheme v2",
+    "installed_apk_sha256_matches": true,
+    "versionName": "1.1.0",
+    "versionCode": 2
+  },
+  "target_count_check": {
+    "command": "python3 tools/quotes/build_catalog.py --require-target",
+    "exit_code": 1,
+    "reason": "282 entries included; 2718 missing"
+  },
+  "screenshots": "docs/screenshots/world-quotes-preview/",
+  "screenshots_use_prepared_collection_and_meteor_states": true
+}

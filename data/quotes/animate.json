@@ -1,0 +1,818 @@
+{
+  "selectionUrl": "https://www.animatetimes.com/tag/details.php?id=12680",
+  "checkedOn": "2026-09-09",
+  "authors": [
+    {
+      "id": "anime-megumi-life",
+      "name": "伏黒恵",
+      "period": "『呪術廻戦』",
+      "biography": "呪術高専で学ぶ呪術師。虎杖悠仁との出会いを通して、誰をどのように救うかという判断に向き合う人物。"
+    },
+    {
+      "id": "anime-rei-protect",
+      "name": "綾波レイ",
+      "period": "『エヴァンゲリオン』",
+      "biography": "エヴァンゲリオンのパイロット。言葉や感情を多く表に出さない一方、シンジとの関わりの中で自分の意思を示す。"
+    },
+    {
+      "id": "anime-emma-world",
+      "name": "エマ",
+      "period": "『約束のネバーランド』",
+      "biography": "グレイス・フィールドハウスで育った少女。仲間を大切にし、厳しい状況でも皆が生き延びる道を探そうとする。"
+    },
+    {
+      "id": "anime-usagi-friends",
+      "name": "月野うさぎ",
+      "period": "『美少女戦士セーラームーン』",
+      "biography": "セーラームーンとして戦う少女。仲間や大切な人への思いを力にし、異なる立場の戦士たちを結びつける。"
+    },
+    {
+      "id": "anime-allmight-hero",
+      "name": "オールマイト",
+      "period": "『僕のヒーローアカデミア』",
+      "biography": "平和の象徴と呼ばれるヒーロー。緑谷出久の救助への衝動を見いだし、後継者として導く師でもある。"
+    },
+    {
+      "id": "anime-char-see",
+      "name": "シャア・アズナブル",
+      "period": "『機動戦士ガンダム』",
+      "biography": "ジオン公国軍のパイロット。赤い彗星の異名を持ち、アムロと幾度も戦場で相まみえる。"
+    },
+    {
+      "id": "anime-baki-father",
+      "name": "範馬刃牙",
+      "period": "『刃牙シリーズ』",
+      "biography": "格闘家として数々の強敵と戦う少年。地上最強とされる父・範馬勇次郎との関係が、闘いの大きな動機になる。"
+    },
+    {
+      "id": "anime-dio-bread",
+      "name": "ディオ・ブランドー",
+      "period": "『ジョジョの奇妙な冒険』",
+      "biography": "第1部でジョナサン・ジョースターと対立する人物。吸血鬼となり、人間を支配しようとする野望を抱く。"
+    },
+    {
+      "id": "anime-nezuko-happiness",
+      "name": "竈門禰豆子",
+      "period": "『鬼滅の刃』",
+      "biography": "炭治郎の妹。鬼に変えられてしまうが、兄とともに人間へ戻る道を歩む。兄妹の絆が物語の中心にある。"
+    },
+    {
+      "id": "anime-sakuragi-left",
+      "name": "桜木花道",
+      "period": "『SLAM DUNK』",
+      "biography": "湘北高校のバスケットボール部員。初心者として入部し、仲間やライバルとの経験を通して競技に打ち込む。"
+    },
+    {
+      "id": "anime-jinbe-remaining",
+      "name": "ジンベエ",
+      "period": "『ONE PIECE』",
+      "biography": "魚人の海賊。大きな喪失を経験したルフィに寄り添い、仲間とのつながりを思い出させる役割も担う。"
+    },
+    {
+      "id": "anime-levi-heart",
+      "name": "リヴァイ",
+      "period": "『進撃の巨人』",
+      "biography": "調査兵団の兵士長。厳しい判断を迫られながら、部下や戦友の命と選択を重く受け止める。"
+    },
+    {
+      "id": "anime-otsuki-today",
+      "name": "大槻",
+      "period": "『カイジ』",
+      "biography": "地下労働施設の班長。親しげな態度と巧みな話術を使い、周囲の人間を自分に都合よく動かそうとする。"
+    },
+    {
+      "id": "anime-hinata-reason",
+      "name": "日向翔陽",
+      "period": "『ハイキュー!!』",
+      "biography": "烏野高校のバレーボール部員。小柄な体でも高く跳び、相手に挑み続ける意欲を持つ。"
+    },
+    {
+      "id": "anime-oscar-free",
+      "name": "オスカル・フランソワ・ド・ジャルジェ",
+      "period": "『ベルサイユのばら』",
+      "biography": "フランス革命期を舞台にした物語の軍人。貴族としての立場と、人々の暮らしへの思いの間で選択を重ねる。"
+    },
+    {
+      "id": "anime-violet-love",
+      "name": "ヴァイオレット・エヴァーガーデン",
+      "period": "『ヴァイオレット・エヴァーガーデン』",
+      "biography": "戦場で育ち、戦後は手紙の代筆を学ぶ少女。人の思いを言葉にする仕事を通して、自分の感情とも向き合う。"
+    },
+    {
+      "id": "anime-shinpachi-protect",
+      "name": "志村新八",
+      "period": "『銀魂』",
+      "biography": "万事屋で銀時や神楽と働く少年。騒動の中で仲間と経験を重ね、支えられるだけではない自分を目指す。"
+    },
+    {
+      "id": "anime-ouki-general",
+      "name": "王騎",
+      "period": "『キングダム』",
+      "biography": "秦の将軍。戦場での経験と大きな存在感を持ち、将軍を目指す信の考え方に影響を与える。"
+    },
+    {
+      "id": "anime-quattro-sponsor",
+      "name": "クワトロ・バジーナ",
+      "period": "『機動戦士Zガンダム』",
+      "biography": "エゥーゴのパイロットとして活動する人物。戦場の経験を持ち、組織内外の思惑にも対応する立場にある。"
+    },
+    {
+      "id": "anime-edward-forward",
+      "name": "エドワード・エルリック",
+      "period": "『鋼の錬金術師』",
+      "biography": "国家錬金術師で、アルフォンスの兄。失った身体を取り戻す旅の中で、錬金術と人間のあり方を問い続ける。"
+    },
+    {
+      "id": "anime-light-god",
+      "name": "夜神月",
+      "period": "『DEATH NOTE』",
+      "biography": "高い知性を持つ学生。デスノートを手にしたことから、自らの正義を掲げてLとの頭脳戦に入っていく。"
+    },
+    {
+      "id": "anime-raoh-life",
+      "name": "ラオウ",
+      "period": "『北斗の拳』",
+      "biography": "拳王と呼ばれる北斗神拳の使い手。世紀末の世界で覇道を進み、ケンシロウと対決する。"
+    },
+    {
+      "id": "anime-leona-country",
+      "name": "レオナ",
+      "period": "『ドラゴンクエスト ダイの大冒険』",
+      "biography": "パプニカ王国の王女。ダイたちと協力し、魔王軍に対抗する人々をまとめる役割を担う。"
+    },
+    {
+      "id": "anime-chihiro-work",
+      "name": "荻野千尋",
+      "period": "『千と千尋の神隠し』",
+      "biography": "不思議な世界に迷い込み、湯屋で働くことになる少女。人々との関わりを通して、自分で行動する力を育てる。"
+    },
+    {
+      "id": "anime-adachi-love",
+      "name": "安達清",
+      "period": "『30歳まで童貞だと魔法使いになれるらしい』",
+      "biography": "他人の心を読める力を得た会社員。黒沢との関係を通して、自分の意思を言葉にして伝えることを学んでいく。"
+    },
+    {
+      "id": "anime-cinderella-dream",
+      "name": "シンデレラ",
+      "period": "『シンデレラ』",
+      "biography": "つらい家事や家族からの扱いに耐えながら、よりよい未来を願うディズニー作品の主人公。"
+    },
+    {
+      "id": "anime-chigiri-speed",
+      "name": "千切豹馬",
+      "period": "『ブルーロック』",
+      "biography": "速さを武器にするサッカー選手。負傷の経験による不安と、もう一度夢を追いたい気持ちの間で揺れる。"
+    },
+    {
+      "id": "anime-killua-future",
+      "name": "キルア＝ゾルディック",
+      "period": "『HUNTER×HUNTER』",
+      "biography": "暗殺者の家系に育った少年。ゴンとの冒険や家族との関係を通して、自分の望む生き方を探す。"
+    },
+    {
+      "id": "anime-vegeta-best",
+      "name": "ベジータ",
+      "period": "『ドラゴンボール』",
+      "biography": "サイヤ人の王子。悟空を強く意識し続ける戦士であり、地球で家族や仲間との関係も築く。"
+    },
+    {
+      "id": "anime-ichigo-rescue",
+      "name": "黒崎一護",
+      "period": "『BLEACH』",
+      "biography": "死神の力を得た高校生。家族や仲間を守りたいという思いから、現世と死神たちの世界の戦いに関わる。"
+    },
+    {
+      "id": "anime-ranma-smile",
+      "name": "早乙女乱馬",
+      "period": "『らんま1/2』",
+      "biography": "水をかぶると女の姿になる体質を持つ格闘家。許嫁の天道あかねと、衝突しながら少しずつ関係を築く。"
+    },
+    {
+      "id": "anime-fern-effort",
+      "name": "フェルン",
+      "period": "『葬送のフリーレン』",
+      "biography": "フリーレンに魔法を学ぶ少女。日々の修練を大切にし、旅の仲間の努力にも目を向ける。"
+    },
+    {
+      "id": "anime-doraemon-future",
+      "name": "ドラえもん",
+      "period": "『ドラえもん』",
+      "biography": "未来から来たネコ型ロボット。のび太の暮らしを助けながら、道具だけでは解決しない問題にも一緒に向き合う。"
+    },
+    {
+      "id": "anime-anya-reassure",
+      "name": "アーニャ・フォージャー",
+      "period": "『SPY×FAMILY』",
+      "biography": "人の心を読める少女。互いに秘密を持つフォージャー家の一員として、家族との日常を大切にする。"
+    },
+    {
+      "id": "anime-lockon-aim",
+      "name": "ロックオン・ストラトス",
+      "period": "『機動戦士ガンダム00』",
+      "biography": "ガンダムマイスターの一人で、狙撃を得意とする。記事ではニール・ディランディをこの名の人物として紹介している。"
+    },
+    {
+      "id": "anime-todo-self",
+      "name": "藤堂葵",
+      "period": "『忘却バッテリー』",
+      "biography": "小手指高校の野球部員。送球への不安を抱えつつ、仲間と試合に臨み、自分のプレーを取り戻そうとする。"
+    },
+    {
+      "id": "anime-sogo-music",
+      "name": "逢坂壮五",
+      "period": "『アイドリッシュセブン』",
+      "biography": "IDOLiSH7のメンバー。家族との葛藤を抱えながら音楽の道へ進み、自分の望む生き方を伝えようとする。"
+    },
+    {
+      "id": "anime-kotoha-name",
+      "name": "橘ことは",
+      "period": "『WIND BREAKER』",
+      "biography": "喫茶ポトスで働き、桜たちを見守る人物。人付き合いに不慣れな桜へ、具体的な行動から関係を築くよう助言する。"
+    },
+    {
+      "id": "anime-sakura-okay",
+      "name": "木之本桜",
+      "period": "『カードキャプターさくら』",
+      "biography": "クロウカードに関わる出来事へ立ち向かう少女。周囲の人への思いや、前向きな心を力にして成長する。"
+    },
+    {
+      "id": "anime-kenji-solve",
+      "name": "小磯健二",
+      "period": "『サマーウォーズ』",
+      "biography": "数学が得意な高校生。夏希の親族との出会いをきっかけに、仮想世界OZで起きる大きな事件に挑む。"
+    },
+    {
+      "id": "anime-ritsuka-song",
+      "name": "上ノ山立夏",
+      "period": "『ギヴン』",
+      "biography": "バンドでギターを弾く高校生。真冬の歌との出会いが、音楽への感覚や自分の気持ちを大きく変えていく。"
+    },
+    {
+      "id": "anime-sisters-dream",
+      "name": "草壁サツキ・草壁メイ",
+      "period": "『となりのトトロ』",
+      "biography": "自然の豊かな土地へ引っ越してきた姉妹。トトロとの出会いを通して、日常と不思議がつながる経験をする。"
+    },
+    {
+      "id": "anime-conan-truth",
+      "name": "江戸川コナン",
+      "period": "『名探偵コナン』",
+      "biography": "少年の姿になった高校生探偵・工藤新一。江戸川コナンとして事件を解きながら、元の姿に戻る手がかりを探す。"
+    },
+    {
+      "id": "anime-kiki-brush",
+      "name": "キキ",
+      "period": "『魔女の宅急便』",
+      "biography": "一人立ちのため海辺の町へやってきた若い魔女。仕事や人間関係で悩みながら、自分の力との付き合い方を学ぶ。"
+    },
+    {
+      "id": "anime-tani-now",
+      "name": "谷",
+      "period": "『正反対な君と僕』",
+      "biography": "物静かで、自分の考えを持つ高校生。鈴木との関係の中で、気持ちを丁寧に伝え合う経験を重ねる。"
+    },
+    {
+      "id": "anime-nausicaa-fear",
+      "name": "ナウシカ",
+      "period": "『風の谷のナウシカ』",
+      "biography": "風の谷の少女。人々と自然の対立の中で、生き物への理解を深め、共に生きる道を探ろうとする。"
+    },
+    {
+      "id": "anime-seiji-seat",
+      "name": "天沢聖司",
+      "period": "『耳をすませば』",
+      "biography": "ヴァイオリン作りを目指す少年。読書好きの雫と出会い、互いの目標や思いに影響を与える。"
+    }
+  ],
+  "quotes": [
+    {
+      "id": "animate-megumi-life",
+      "text": "でも死なせたくありません",
+      "reading": "でもしなせたくありません",
+      "authorId": "anime-megumi-life",
+      "category": "fiction",
+      "explanation": "虎杖の処遇を問われた伏黒が、規則だけでは割り切れない思いを示す。助けてくれた相手を救いたいという、個人としての判断が短い返答に表れている。",
+      "source": "『呪術廻戦』／伏黒恵。アニメイトタイムズの作品別名言記事を参照。第1巻・第2話。記事の掲載表記を採録。",
+      "sourceUrl": "https://www.animatetimes.com/news/details.php?id=1622783336",
+      "wording": "記事掲載の短い台詞"
+    },
+    {
+      "id": "animate-rei-protect",
+      "text": "あなたは死なないわ。私が守るもの",
+      "reading": "あなたはしなないわわたしがまもるもの",
+      "authorId": "anime-rei-protect",
+      "category": "fiction",
+      "explanation": "作戦を前に不安を口にするシンジへ、レイが自分の意思で応える場面。寡黙な人物が相手を守ると明言することで、二人の関係に変化が見える。",
+      "source": "『エヴァンゲリオン』／綾波レイ。アニメイトタイムズの作品別名言記事を参照。ヤシマ作戦の場面。記事の掲載表記を採録。",
+      "sourceUrl": "https://www.animatetimes.com/news/details.php?id=1622773829",
+      "wording": "記事掲載の短い台詞"
+    },
+    {
+      "id": "animate-emma-world",
+      "text": "変えようよ世界",
+      "reading": "かえようよせかい",
+      "authorId": "anime-emma-world",
+      "category": "fiction",
+      "explanation": "脱出した先にも危険があると知ったエマが、仲間全員で生きる可能性を求める言葉。与えられた条件だけで希望を閉じず、条件そのものを変えようとする発想がある。",
+      "source": "『約束のネバーランド』／エマ。アニメイトタイムズの作品別名言記事を参照。第1巻・第4話。記事の掲載表記を採録。",
+      "sourceUrl": "https://www.animatetimes.com/news/details.php?id=1624346104",
+      "wording": "記事掲載の短い台詞"
+    },
+    {
+      "id": "animate-usagi-friends",
+      "text": "仲間だもんあたし達",
+      "reading": "なかまだもんあたしたち",
+      "authorId": "anime-usagi-friends",
+      "category": "fiction",
+      "explanation": "対立しかけた戦士たちへ、共に戦う理由を思い出させる呼びかけ。立場の違いよりも相手とのつながりを先に置く、うさぎの人柄が伝わる。",
+      "source": "『美少女戦士セーラームーン』／月野うさぎ。アニメイトタイムズの作品別名言記事を参照。第5巻・Act.33。記事の掲載表記を採録。",
+      "sourceUrl": "https://www.animatetimes.com/news/details.php?id=1623394814",
+      "wording": "記事掲載の短い台詞"
+    },
+    {
+      "id": "animate-allmight-hero",
+      "text": "君はヒーローになれる",
+      "reading": "きみはひーろーになれる",
+      "authorId": "anime-allmight-hero",
+      "category": "fiction",
+      "explanation": "危険を顧みず人を助けようとした緑谷の行動を見て、オールマイトが伝える言葉。能力の有無だけでなく、救いたいという意思と実際の行動を認めている。",
+      "source": "『僕のヒーローアカデミア』／オールマイト。アニメイトタイムズの作品別名言記事を参照。第1巻・第1話。記事の掲載表記を採録。",
+      "sourceUrl": "https://www.animatetimes.com/news/details.php?id=1625636261",
+      "wording": "記事掲載の短い台詞"
+    },
+    {
+      "id": "animate-char-see",
+      "text": "見えるぞ、私にも敵が見える",
+      "reading": "みえるぞわたしにもてきがみえる",
+      "authorId": "anime-char-see",
+      "category": "fiction",
+      "explanation": "ジオングで戦うシャアが、敵の動きを捉える感覚を口にする場面。戦いの緊張の中に、新しい感覚への高揚とアムロへの対抗心がにじむ。",
+      "source": "『機動戦士ガンダム』／シャア・アズナブル。アニメイトタイムズの作品別名言記事を参照。TVシリーズ第42話。記事の掲載表記を採録。",
+      "sourceUrl": "https://www.animatetimes.com/news/details.php?id=1625646838",
+      "wording": "記事掲載の短い台詞"
+    },
+    {
+      "id": "animate-baki-father",
+      "text": "親父がもし地上最弱の生物なら 俺は二番目に弱い生物でいい",
+      "reading": "おやじがもしちじょうさいじゃくのせいぶつならおれはにばんめによわいせいぶつでいい",
+      "authorId": "anime-baki-father",
+      "category": "fiction",
+      "explanation": "刃牙の関心が世界の順位そのものよりも、父との関係にあることを示す。最強を求める闘いの奥にある、父に向けた個人的な思いが分かる一節。",
+      "source": "『刃牙シリーズ』／範馬刃牙。アニメイトタイムズの作品別名言記事を参照。『範馬刃牙』の台詞として紹介。記事の掲載表記を採録。",
+      "sourceUrl": "https://www.animatetimes.com/news/details.php?id=1625559235",
+      "wording": "記事掲載の短い台詞"
+    },
+    {
+      "id": "animate-dio-bread",
+      "text": "おまえは今まで食ったパンの枚数をおぼえているのか？",
+      "reading": "おまえはいままでくったぱんのまいすうをおぼえているのか",
+      "authorId": "anime-dio-bread",
+      "category": "fiction",
+      "explanation": "犠牲にした人々の数を問われ、食事の回数に置き換えて返すディオの言葉。ありふれた食べ物との比較によって、他人の命を軽く扱う人物の残酷さが際立つ。",
+      "source": "『ジョジョの奇妙な冒険』／ディオ・ブランドー。アニメイトタイムズの作品別名言記事を参照。第1部・ツェペリへの返答。記事の掲載表記を採録。",
+      "sourceUrl": "https://www.animatetimes.com/news/details.php?id=1625130166",
+      "wording": "記事掲載の短い台詞"
+    },
+    {
+      "id": "animate-nezuko-happiness",
+      "text": "幸せかどうかは自分で決める",
+      "reading": "しあわせかどうかはじぶんできめる",
+      "authorId": "anime-nezuko-happiness",
+      "category": "fiction",
+      "explanation": "危機の中にいる炭治郎の意識に、禰豆子の励ましとして現れる言葉の一部。失ったものだけで自分たちの人生を決めず、今の思いや関係を大切にする姿勢がある。",
+      "source": "『鬼滅の刃』／竈門禰豆子。アニメイトタイムズの作品別名言記事を参照。遊郭編・炭治郎の意識の中の言葉。掲載台詞の一部を抜粋。",
+      "sourceUrl": "https://www.animatetimes.com/news/details.php?id=1624388330",
+      "wording": "記事掲載台詞の一部抜粋"
+    },
+    {
+      "id": "animate-sakuragi-left",
+      "text": "左手はそえるだけ……",
+      "reading": "ひだりてはそえるだけ",
+      "authorId": "anime-sakuragi-left",
+      "category": "fiction",
+      "explanation": "ジャンプシュートの練習で繰り返す、動作を確かめるための言葉。試合の重要な瞬間にも練習の感覚を呼び戻し、積み重ねた基本の力を印象づける。",
+      "source": "『SLAM DUNK』／桜木花道。アニメイトタイムズの作品別名言記事を参照。ジャンプシュート練習の台詞。記事の掲載表記を採録。",
+      "sourceUrl": "https://www.animatetimes.com/news/details.php?id=1624597546",
+      "wording": "記事掲載の短い台詞"
+    },
+    {
+      "id": "animate-jinbe-remaining",
+      "text": "失ったものばかり数えるな！！！！",
+      "reading": "うしなったものばかりかぞえるな",
+      "authorId": "anime-jinbe-remaining",
+      "category": "fiction",
+      "explanation": "深い喪失に沈むルフィへ向け、今もつながっている人々に目を向けさせる言葉。悲しみを消すのではなく、これから進むために残っている支えを確かめようと促す。",
+      "source": "『ONE PIECE』／ジンベエ。アニメイトタイムズの作品別名言記事を参照。第60巻。記事の掲載表記を採録。",
+      "sourceUrl": "https://www.animatetimes.com/news/details.php?id=1624512667",
+      "wording": "記事掲載の短い台詞"
+    },
+    {
+      "id": "animate-levi-heart",
+      "text": "心臓を 捧げよ",
+      "reading": "しんぞうをささげよ",
+      "authorId": "anime-levi-heart",
+      "category": "fiction",
+      "explanation": "仲間を逃がすため危険を引き受けるハンジに、リヴァイが送る敬礼。繰り返されてきた兵士の言葉が、ここでは長く共に戦った相手への別れと敬意を帯びる。",
+      "source": "『進撃の巨人』／リヴァイ。アニメイトタイムズの作品別名言記事を参照。第33巻・第132話。記事の掲載表記を採録。",
+      "sourceUrl": "https://www.animatetimes.com/news/details.php?id=1626837065",
+      "wording": "記事掲載の短い台詞"
+    },
+    {
+      "id": "animate-otsuki-today",
+      "text": "今日、今日だけがんばるんだっ",
+      "reading": "きょうきょうだけがんばるんだっ",
+      "authorId": "anime-otsuki-today",
+      "category": "fiction",
+      "explanation": "先延ばしにする思考を見抜いた大槻の言葉からの抜粋。行動を今日に置く考えが示される一方、作中の大槻は人を巧みに操るため、その言葉と人物の行動を併せて読む必要がある。",
+      "source": "『カイジ』／大槻。アニメイトタイムズの作品別名言記事を参照。『破戒録篇』Bet.1「地の獄」。掲載台詞の一部を抜粋。",
+      "sourceUrl": "https://www.animatetimes.com/news/details.php?id=1626800079",
+      "wording": "記事掲載台詞の一部抜粋"
+    },
+    {
+      "id": "animate-hinata-reason",
+      "text": "負けたくないことに理由って要る？",
+      "reading": "まけたくないことにりゆうっている",
+      "authorId": "anime-hinata-reason",
+      "category": "fiction",
+      "explanation": "なぜそこまで頑張るのかと尋ねられた日向の返答。勝ちたいという気持ちを難しい理屈で説明せず、競技に向き合う本人の素直な原動力として示している。",
+      "source": "『ハイキュー!!』／日向翔陽。アニメイトタイムズの作品別名言記事を参照。扇西高校との練習試合前。記事の掲載表記を採録。",
+      "sourceUrl": "https://www.animatetimes.com/news/details.php?id=1626603685",
+      "wording": "記事掲載の短い台詞"
+    },
+    {
+      "id": "animate-oscar-free",
+      "text": "心は自由だからだ！",
+      "reading": "こころはじゆうだからだ",
+      "authorId": "anime-oscar-free",
+      "category": "fiction",
+      "explanation": "従わない部下を権力だけで押さえつけようとしない、オスカルの考えを示す。命令で行動を縛ることと、相手の心から信頼を得ることを分けている。",
+      "source": "『ベルサイユのばら』／オスカル・フランソワ・ド・ジャルジェ。アニメイトタイムズの作品別名言記事を参照。第6巻。記事の掲載表記を採録。",
+      "sourceUrl": "https://www.animatetimes.com/news/details.php?id=1628831310",
+      "wording": "記事掲載の短い台詞"
+    },
+    {
+      "id": "animate-violet-love",
+      "text": "『あいしてる』を……知りたいのです",
+      "reading": "あいしてるをしりたいのです",
+      "authorId": "anime-violet-love",
+      "category": "fiction",
+      "explanation": "手紙を代筆する仕事を望む理由として語られる言葉の一部。かつて受け取った言葉の意味を、他者の気持ちに触れる仕事を通して学ぼうとする旅の出発点になる。",
+      "source": "『ヴァイオレット・エヴァーガーデン』／ヴァイオレット・エヴァーガーデン。アニメイトタイムズの作品別名言記事を参照。TVアニメ第1話。掲載台詞の一部を抜粋。",
+      "sourceUrl": "https://www.animatetimes.com/news/details.php?id=1628807288",
+      "wording": "記事掲載台詞の一部抜粋"
+    },
+    {
+      "id": "animate-shinpachi-protect",
+      "text": "強くなりたい 護られるばかりじゃなく 僕もみんなを護れる位",
+      "reading": "つよくなりたいまもられるばかりじゃなくぼくもみんなをまもれるくらい",
+      "authorId": "anime-shinpachi-protect",
+      "category": "fiction",
+      "explanation": "仲間に守られる立場から、自分も仲間を支えたいと願う新八の言葉。強さを人に勝つためだけのものではなく、関係の中で果たしたい役割として捉えている。",
+      "source": "『銀魂』／志村新八。アニメイトタイムズの作品別名言記事を参照。第27巻。記事の掲載表記を採録。",
+      "sourceUrl": "https://www.animatetimes.com/news/details.php?id=1628845761",
+      "wording": "記事掲載の短い台詞"
+    },
+    {
+      "id": "animate-naruto-nevergiveup",
+      "text": "オレが諦めるのを────諦めろ!!!",
+      "reading": "おれがあきらめるのをあきらめろ",
+      "authorId": "naruto",
+      "category": "fiction",
+      "explanation": "相手から断念を迫られても、自分の意思を手放さないナルトの返答。同じ動詞を逆向きに返す言い回しが、決意の強さと彼らしい勢いを生んでいる。",
+      "source": "『NARUTO』／うずまきナルト。アニメイトタイムズの作品別名言記事を参照。第47巻。記事の掲載表記を採録。",
+      "sourceUrl": "https://www.animatetimes.com/news/details.php?id=1630042908",
+      "wording": "記事掲載の短い台詞"
+    },
+    {
+      "id": "animate-ouki-general",
+      "text": "天下の大将軍ですよ",
+      "reading": "てんかのだいしょうぐんですよ",
+      "authorId": "anime-ouki-general",
+      "category": "fiction",
+      "explanation": "死を目前にしても、王騎が自らのあり方を静かに言い切る場面。肩書きを誇るだけでなく、背負ってきた戦いや仲間への責任を最後まで引き受ける姿が重なる。",
+      "source": "『キングダム』／王騎。アニメイトタイムズの作品別名言記事を参照。第16巻。記事の掲載表記を採録。",
+      "sourceUrl": "https://www.animatetimes.com/news/details.php?id=1630044549",
+      "wording": "記事掲載の短い台詞"
+    },
+    {
+      "id": "animate-quattro-sponsor",
+      "text": "出資者は無理難題をおっしゃる",
+      "reading": "しゅっししゃはむりなんだいをおっしゃる",
+      "authorId": "anime-quattro-sponsor",
+      "category": "fiction",
+      "explanation": "資金を出す側の要求と、現場で実行する側の難しさの差を皮肉に表す。丁寧な言葉遣いに不満を込めることで、軍事組織を支える政治や経済の関係も見えてくる。",
+      "source": "『機動戦士Zガンダム』／クワトロ・バジーナ。アニメイトタイムズの作品別名言記事を参照。TVシリーズ第8話「月の裏側」。記事の掲載表記を採録。",
+      "sourceUrl": "https://www.animatetimes.com/news/details.php?id=1629876006",
+      "wording": "記事掲載の短い台詞"
+    },
+    {
+      "id": "animate-edward-forward",
+      "text": "立って歩け 前へ進め",
+      "reading": "たってあるけまえへすすめ",
+      "authorId": "anime-edward-forward",
+      "category": "fiction",
+      "explanation": "すがっていた希望を失ったロゼへ、エドワードが向ける言葉の冒頭。自分も取り返しのつかない経験を抱えながら、今できる行動から生き直すよう促している。",
+      "source": "『鋼の錬金術師』／エドワード・エルリック。アニメイトタイムズの作品別名言記事を参照。第1巻・ロゼへの言葉。掲載台詞の一部を抜粋。",
+      "sourceUrl": "https://www.animatetimes.com/news/details.php?id=1629828877",
+      "wording": "記事掲載台詞の一部抜粋"
+    },
+    {
+      "id": "animate-light-god",
+      "text": "新世界の神になる",
+      "reading": "しんせかいのかみになる",
+      "authorId": "anime-light-god",
+      "category": "fiction",
+      "explanation": "ノートの力を手にした月が、世界を自分で裁こうと宣言する言葉。理想を語る響きの中に、善悪を一人で決定する思い上がりが表れ、物語の対立の起点となる。",
+      "source": "『DEATH NOTE』／夜神月。アニメイトタイムズの作品別名言記事を参照。第1巻・第1話。記事の掲載表記を採録。",
+      "sourceUrl": "https://www.animatetimes.com/news/details.php?id=1631678650",
+      "wording": "記事掲載の短い台詞"
+    },
+    {
+      "id": "animate-raoh-life",
+      "text": "わが生涯に一片の悔いなし!!",
+      "reading": "わがしょうがいにいっぺんのくいなし",
+      "authorId": "anime-raoh-life",
+      "category": "fiction",
+      "explanation": "最後の闘いを終えたラオウが、生涯を自分の言葉で受け止める場面。望んだものをすべて得たという意味よりも、自分の生き方を最後まで引き受ける強さが残る。",
+      "source": "『北斗の拳』／ラオウ。アニメイトタイムズの作品別名言記事を参照。ケンシロウとの最終決戦後。記事の掲載表記を採録。",
+      "sourceUrl": "https://www.animatetimes.com/news/details.php?id=1632848849",
+      "wording": "記事掲載の短い台詞"
+    },
+    {
+      "id": "animate-leona-country",
+      "text": "人間が生きていればそこが国です!!",
+      "reading": "にんげんがいきていればそこがくにです",
+      "authorId": "anime-leona-country",
+      "category": "fiction",
+      "explanation": "国土や建物よりも、そこに生きる人々を守る判断を示す言葉の一部。国家を場所だけで考えず、人が生き残ることを未来の再建につながる土台としている。",
+      "source": "『ドラゴンクエスト ダイの大冒険』／レオナ。アニメイトタイムズの作品別名言記事を参照。各国首脳を逃がそうとする場面。掲載台詞の一部を抜粋。",
+      "sourceUrl": "https://www.animatetimes.com/news/details.php?id=1636684361",
+      "wording": "記事掲載台詞の一部抜粋"
+    },
+    {
+      "id": "animate-chihiro-work",
+      "text": "ここで働かせてください！",
+      "reading": "ここではたらかせてください",
+      "authorId": "anime-chihiro-work",
+      "category": "fiction",
+      "explanation": "見知らぬ世界で生き、両親を助けるために千尋が自分から申し出る言葉。怖さが消えてから動くのではなく、必要な一歩を言葉にする決意が見える。",
+      "source": "『千と千尋の神隠し』／荻野千尋。アニメイトタイムズの作品別名言記事を参照。湯婆婆に仕事を求める場面。記事の掲載表記を採録。",
+      "sourceUrl": "https://www.animatetimes.com/news/details.php?id=1640489233",
+      "wording": "記事掲載の短い台詞"
+    },
+    {
+      "id": "animate-adachi-love",
+      "text": "俺は黒沢を愛しています",
+      "reading": "おれはくろさわをあいしています",
+      "authorId": "anime-adachi-love",
+      "category": "fiction",
+      "explanation": "黒沢の家族に対し、安達が自分の気持ちをはっきり伝える場面。相手の不安を受け止めながらも、二人で選んだ関係とこれからの幸せに責任を持とうとしている。",
+      "source": "『30歳まで童貞だと魔法使いになれるらしい』／安達清。アニメイトタイムズの作品別名言記事を参照。第8巻・描き下ろし第43話。記事の掲載表記を採録。",
+      "sourceUrl": "https://www.animatetimes.com/news/details.php?id=1646713839",
+      "wording": "記事掲載の短い台詞"
+    },
+    {
+      "id": "animate-cinderella-dream",
+      "text": "夢を見ることは、誰にも止められないわ",
+      "reading": "ゆめをみることはだれにもとめられないわ",
+      "authorId": "anime-cinderella-dream",
+      "category": "fiction",
+      "explanation": "周囲に生活を制限されても、心の中にある希望までは奪えないという意味の言葉。記事ではシンデレラの言葉として紹介され、厳しい境遇でも自分の願いを持つ姿勢を表す。",
+      "source": "『シンデレラ』／シンデレラ。アニメイトタイムズの作品別名言記事を参照。ディズニー作品の名言記事掲載表記。記事の掲載表記を採録。",
+      "sourceUrl": "https://www.animatetimes.com/news/details.php?id=1630047049",
+      "wording": "記事掲載の短い台詞"
+    },
+    {
+      "id": "animate-chigiri-speed",
+      "text": "ブチ抜く瞬間だけ俺は俺を信じていられる！！！",
+      "reading": "ぶちぬくしゅんかんだけおれはおれをしんじていられる",
+      "authorId": "anime-chigiri-speed",
+      "category": "fiction",
+      "explanation": "再び走ることへの恐怖を抱える千切が、自分の武器を思い出す場面。速度を生かす瞬間の感覚が、失いかけていた競技への意欲と自信を呼び戻している。",
+      "source": "『ブルーロック』／千切豹馬。アニメイトタイムズの作品別名言記事を参照。第3巻・第21話。記事の掲載表記を採録。",
+      "sourceUrl": "https://www.animatetimes.com/news/details.php?id=1655965311",
+      "wording": "記事掲載の短い台詞"
+    },
+    {
+      "id": "animate-killua-future",
+      "text": "自分の将来は自分で決める。",
+      "reading": "じぶんのしょうらいはじぶんできめる",
+      "authorId": "anime-killua-future",
+      "category": "fiction",
+      "explanation": "家族から求められる役割に対し、自らの意思で将来を選ぼうとする言葉。育った環境の影響を受け止めつつ、その先を選ぶ主体を自分に取り戻している。",
+      "source": "『HUNTER×HUNTER』／キルア＝ゾルディック。アニメイトタイムズの作品別名言記事を参照。記事ではアルカ編の言葉として紹介。記事の掲載表記を採録。",
+      "sourceUrl": "https://www.animatetimes.com/news/details.php?id=1739427119",
+      "wording": "記事掲載の短い台詞"
+    },
+    {
+      "id": "animate-vegeta-best",
+      "text": "がんばれカカロット…おまえがナンバー1だ!!",
+      "reading": "がんばれかかろっとおまえがなんばーわんだ",
+      "authorId": "anime-vegeta-best",
+      "category": "fiction",
+      "explanation": "悟空の闘いを見守り、長く競い合ってきた相手の強さを認める言葉。勝ち負けへの執着の奥から、ライバルへの敬意が現れる人物の変化を示している。",
+      "source": "『ドラゴンボール』／ベジータ。アニメイトタイムズの作品別名言記事を参照。魔人ブウ編。記事の掲載表記を採録。",
+      "sourceUrl": "https://www.animatetimes.com/news/details.php?id=1740035697",
+      "wording": "記事掲載の短い台詞"
+    },
+    {
+      "id": "animate-ichigo-rescue",
+      "text": "助けてえんじゃねえよ…助けるんだ!!!",
+      "reading": "たすけてえんじゃねえよたすけるんだ",
+      "authorId": "anime-ichigo-rescue",
+      "category": "fiction",
+      "explanation": "ルキアを取り戻すための戦いで、一護が自分の意思を断定に変える言葉。願望のままで終わらせず、相手を救うために行動するという覚悟を強調している。",
+      "source": "『BLEACH』／黒崎一護。アニメイトタイムズの作品別名言記事を参照。尸魂界で恋次と戦う場面。記事の掲載表記を採録。",
+      "sourceUrl": "https://www.animatetimes.com/news/details.php?id=1740623517",
+      "wording": "記事掲載の短い台詞"
+    },
+    {
+      "id": "animate-ranma-smile",
+      "text": "だけどおめー……笑うとかわいいよ",
+      "reading": "だけどおめーわらうとかわいいよ",
+      "authorId": "anime-ranma-smile",
+      "category": "fiction",
+      "explanation": "普段は素直に気持ちを言えない乱馬が、あかねの笑顔を肯定する場面。不器用な話し方だからこそ、飾らない好意がふと表れる瞬間として印象に残る。",
+      "source": "『らんま1/2』／早乙女乱馬。アニメイトタイムズの作品別名言記事を参照。あかねへの台詞として紹介。記事の掲載表記を採録。",
+      "sourceUrl": "https://www.animatetimes.com/news/details.php?id=1741017590",
+      "wording": "記事掲載の短い台詞"
+    },
+    {
+      "id": "animate-fern-effort",
+      "text": "必死に積み上げてきたものは決して裏切りません。",
+      "reading": "ひっしにつみあげてきたものはけっしてうらぎりません",
+      "authorId": "anime-fern-effort",
+      "category": "fiction",
+      "explanation": "戦いを恐れるシュタルクの手を見て、フェルンが修行の蓄積を認める言葉。本人の不安だけで実力を判断せず、すでに重ねてきた行動を根拠に励ましている。",
+      "source": "『葬送のフリーレン』／フェルン。アニメイトタイムズの作品別名言記事を参照。第2巻・第11話。記事の掲載表記を採録。",
+      "sourceUrl": "https://www.animatetimes.com/news/details.php?id=1741151826",
+      "wording": "記事掲載の短い台詞"
+    },
+    {
+      "id": "animate-doraemon-future",
+      "text": "未来なんてちょっとしたはずみでどんどん変わるから",
+      "reading": "みらいなんてちょっとしたはずみでどんどんかわるから",
+      "authorId": "anime-doraemon-future",
+      "category": "fiction",
+      "explanation": "期待した未来と違う光景に落ち込むのび太へ、未来は固定されたものではないと伝える。今の小さな出来事や選択が、その先の展開に関わるという見方を示す。",
+      "source": "『ドラえもん』／ドラえもん。アニメイトタイムズの作品別名言記事を参照。第12巻「あいあいパラソル」。記事の掲載表記を採録。",
+      "sourceUrl": "https://www.animatetimes.com/news/details.php?id=1741244993",
+      "wording": "記事掲載の短い台詞"
+    },
+    {
+      "id": "animate-anya-reassure",
+      "text": "だいじょうぶます こわくない",
+      "reading": "だいじょうぶますこわくない",
+      "authorId": "anime-anya-reassure",
+      "category": "fiction",
+      "explanation": "怖がっている牛の気持ちを読み取ったアーニャが、そっと落ち着かせる場面。独特な言葉遣いの中に、相手が何を恐れているかを想像する優しさがある。",
+      "source": "『SPY×FAMILY』／アーニャ・フォージャー。アニメイトタイムズの作品別名言記事を参照。原作第4話。記事の掲載表記を採録。",
+      "sourceUrl": "https://www.animatetimes.com/news/details.php?id=1741843802",
+      "wording": "記事掲載の短い台詞"
+    },
+    {
+      "id": "animate-lockon-aim",
+      "text": "狙い撃つぜ！",
+      "reading": "ねらいうつぜ",
+      "authorId": "anime-lockon-aim",
+      "category": "fiction",
+      "explanation": "狙撃を得意とするパイロットが、目標に集中する瞬間の決め台詞。短く勢いのある宣言が、彼の戦い方と仲間から頼られる自信を印象づける。",
+      "source": "『機動戦士ガンダム00』／ロックオン・ストラトス。アニメイトタイムズの作品別名言記事を参照。ロックオンの決め台詞。記事の掲載表記を採録。",
+      "sourceUrl": "https://www.animatetimes.com/news/details.php?id=1742303469",
+      "wording": "記事掲載の短い台詞"
+    },
+    {
+      "id": "animate-todo-self",
+      "text": "俺を救うのは 俺だ‼",
+      "reading": "おれをすくうのはおれだ",
+      "authorId": "anime-todo-self",
+      "category": "fiction",
+      "explanation": "大事な試合で、自分の課題から逃げずに向き合う藤堂の言葉。仲間の支えを受けながらも、最後にプレーする自分自身が一歩を踏み出す必要を受け止めている。",
+      "source": "『忘却バッテリー』／藤堂葵。アニメイトタイムズの作品別名言記事を参照。第10巻・第67話。記事の掲載表記を採録。",
+      "sourceUrl": "https://www.animatetimes.com/news/details.php?id=1742878337",
+      "wording": "記事掲載の短い台詞"
+    },
+    {
+      "id": "animate-sogo-music",
+      "text": "僕は、音楽と生きていたい。",
+      "reading": "ぼくはおんがくといきていたい",
+      "authorId": "anime-sogo-music",
+      "category": "game",
+      "explanation": "父から進路を否定されてきた壮五が、音楽への思いを公の場で言葉にする。理解してもらうことを望みながら、自分が大切にしたいものを自分の声で示している。",
+      "source": "『アイドリッシュセブン』／逢坂壮五。アニメイトタイムズの作品別名言記事を参照。原作ゲーム第3部・第17章・第1話。記事の掲載表記を採録。",
+      "sourceUrl": "https://www.animatetimes.com/news/details.php?id=1743142336",
+      "wording": "記事掲載の短い台詞"
+    },
+    {
+      "id": "animate-kotoha-name",
+      "text": "名前を呼ぶってあなたをちゃんと見ていますっていう意思表示だから",
+      "reading": "なまえをよぶってあなたをちゃんとみていますっていういしひょうじだから",
+      "authorId": "anime-kotoha-name",
+      "category": "fiction",
+      "explanation": "級長として何をすべきか迷う桜に、ことはが伝える助言の一部。仲間の名前を覚えて呼ぶという身近な行動を、相手を一人の人として認める出発点にしている。",
+      "source": "『WIND BREAKER』／橘ことは。アニメイトタイムズの作品別名言記事を参照。第5巻・第37話。掲載台詞の一部を抜粋。",
+      "sourceUrl": "https://www.animatetimes.com/news/details.php?id=1743528038",
+      "wording": "記事掲載台詞の一部抜粋"
+    },
+    {
+      "id": "animate-sakura-okay",
+      "text": "なんとかなるよ、絶対だいじょうぶだよ",
+      "reading": "なんとかなるよぜったいだいじょうぶだよ",
+      "authorId": "anime-sakura-okay",
+      "category": "fiction",
+      "explanation": "最後の審判で不安に向き合うさくらが、自分を支えるために唱える言葉。問題が消える保証ではなく、諦めずに次の行動へ進むための信頼を自分に与えている。",
+      "source": "『カードキャプターさくら』／木之本桜。アニメイトタイムズの作品別名言記事を参照。第6巻・アニメ第46話。記事の掲載表記を採録。",
+      "sourceUrl": "https://www.animatetimes.com/news/details.php?id=1745139611",
+      "wording": "記事掲載の短い台詞"
+    },
+    {
+      "id": "animate-kenji-solve",
+      "text": "諦めたら解けない。",
+      "reading": "あきらめたらとけない",
+      "authorId": "anime-kenji-solve",
+      "category": "fiction",
+      "explanation": "数学の問題に挑む姿勢を、目の前の危機にも重ねる健二の言葉の一部。答えがまだ見えなくても、考えることをやめない限り次の手を探せるという意思を表す。",
+      "source": "『サマーウォーズ』／小磯健二。アニメイトタイムズの作品別名言記事を参照。ラブマシーンとの対決場面。掲載台詞の一部を抜粋。",
+      "sourceUrl": "https://www.animatetimes.com/news/details.php?id=1753424240",
+      "wording": "記事掲載台詞の一部抜粋"
+    },
+    {
+      "id": "animate-ritsuka-song",
+      "text": "歌ってくれよ、あの曲、俺も好きだよ",
+      "reading": "うたってくれよあのきょくおれもすきだよ",
+      "authorId": "anime-ritsuka-song",
+      "category": "fiction",
+      "explanation": "自分は表現が苦手だという真冬に、立夏がその歌に心を動かされたことを伝える。技術の評価だけでなく、相手の表現を受け取りたいという願いが込められている。",
+      "source": "『ギヴン』／上ノ山立夏。アニメイトタイムズの作品別名言記事を参照。第1巻・code.4。記事の掲載表記を採録。",
+      "sourceUrl": "https://www.animatetimes.com/news/details.php?id=1760252403",
+      "wording": "記事掲載の短い台詞"
+    },
+    {
+      "id": "animate-sisters-dream",
+      "text": "夢だけど 夢じゃなかった！",
+      "reading": "ゆめだけどゆめじゃなかった",
+      "authorId": "anime-sisters-dream",
+      "category": "fiction",
+      "explanation": "不思議な夜が夢だったように思えた翌朝、庭の芽を見つけた姉妹の喜び。目に見える小さな変化が昨夜の経験と結びつき、驚きを二人で分かち合う場面になる。",
+      "source": "『となりのトトロ』／草壁サツキ・草壁メイ。アニメイトタイムズの作品別名言記事を参照。木の実から芽が出た翌朝。記事の掲載表記を採録。",
+      "sourceUrl": "https://www.animatetimes.com/news/details.php?id=1761101654",
+      "wording": "記事掲載の短い台詞"
+    },
+    {
+      "id": "animate-conan-truth",
+      "text": "真実はいつもひとつ",
+      "reading": "しんじつはいつもひとつ",
+      "authorId": "anime-conan-truth",
+      "category": "fiction",
+      "explanation": "複雑な証言や仕掛けの先にある事実を探ろうとする、コナンを象徴する言葉。見かけに惑わされず、手がかりを確かめて筋道を立てる探偵の姿勢を示している。",
+      "source": "『名探偵コナン』／江戸川コナン。アニメイトタイムズの作品別名言記事を参照。作品を象徴する決め台詞。記事の掲載表記を採録。",
+      "sourceUrl": "https://www.animatetimes.com/news/details.php?id=1777390016",
+      "wording": "記事掲載の短い台詞"
+    },
+    {
+      "id": "animate-kiki-brush",
+      "text": "おじいさん そのブラシを貸してください！",
+      "reading": "おじいさんそのぶらしをかしてください",
+      "authorId": "anime-kiki-brush",
+      "category": "fiction",
+      "explanation": "危険な場所にいるトンボを助けるため、キキが通りがかった人に頼む場面。力への自信を失っていた彼女が、相手を助けたい一心で周囲の力も借りて動き出す。",
+      "source": "『魔女の宅急便』／キキ。アニメイトタイムズの作品別名言記事を参照。飛行船につかまったトンボを助ける場面。記事の掲載表記を採録。",
+      "sourceUrl": "https://www.animatetimes.com/news/details.php?id=1778118259",
+      "wording": "記事掲載の短い台詞"
+    },
+    {
+      "id": "animate-tani-now",
+      "text": "最初よりもちゃんと今の方が好きだ",
+      "reading": "さいしょよりもちゃんといまのほうがすきだ",
+      "authorId": "anime-tani-now",
+      "category": "fiction",
+      "explanation": "鈴木と過ごした一年を振り返る谷の内心の言葉。出会ったときの印象だけでなく、一緒に積み重ねた時間によって好意が深まったことを静かに確かめている。",
+      "source": "『正反対な君と僕』／谷。アニメイトタイムズの作品別名言記事を参照。第5巻・第38話「大晦日」。記事の掲載表記を採録。",
+      "sourceUrl": "https://www.animatetimes.com/news/details.php?id=1781070223",
+      "wording": "記事掲載の短い台詞"
+    },
+    {
+      "id": "animate-nausicaa-fear",
+      "text": "ほらね 怖くない。",
+      "reading": "ほらねこわくない",
+      "authorId": "anime-nausicaa-fear",
+      "category": "fiction",
+      "explanation": "威嚇して噛みつくキツネリスへ、ナウシカが穏やかに呼びかける言葉の一部。攻撃的な行動の背後にある恐れを受け止める姿勢が、人と生き物の関係を印象づける。",
+      "source": "『風の谷のナウシカ』／ナウシカ。アニメイトタイムズの作品別名言記事を参照。キツネリスのテトとの出会い。掲載台詞の一部を抜粋。",
+      "sourceUrl": "https://www.animatetimes.com/news/details.php?id=1786087273",
+      "wording": "記事掲載台詞の一部抜粋"
+    },
+    {
+      "id": "animate-seiji-seat",
+      "text": "となりの席に座ったこともあるんだぞ",
+      "reading": "となりのせきにすわったこともあるんだぞ",
+      "authorId": "anime-seiji-seat",
+      "category": "fiction",
+      "explanation": "聖司が、雫の存在に以前から気づいていたことを伝える場面。相手には何気なかった日常の出来事が、もう一方には大切な記憶だったと分かる温かさがある。",
+      "source": "『耳をすませば』／天沢聖司。アニメイトタイムズの作品別名言記事を参照。聖司が雫への思いを明かす場面。記事の掲載表記を採録。",
+      "sourceUrl": "https://www.animatetimes.com/news/details.php?id=1777257804",
+      "wording": "記事掲載の短い台詞"
+    }
+  ]
+}

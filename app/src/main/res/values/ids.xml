@@ -1,4 +1,7 @@
 <resources>
+    <item name="palette_binding" type="id" />
+    <item name="privacy_button" type="id" />
+    <item name="privacy_text" type="id" />
     <item name="kana_input" type="id" />
     <item name="fire_button" type="id" />
     <item name="pause_button" type="id" />
@@ -6,4 +9,30 @@
     <item name="retry_button" type="id" />
     <item name="home_button" type="id" />
     <item name="game_scene" type="id" />
+    <item name="menu_button" type="id" />
+    <item name="quotes_button" type="id" />
+    <item name="quote_author_button" type="id" />
+    <item name="quote_search_input" type="id" />
+    <item name="quote_search_button" type="id" />
+    <item name="quote_previous_button" type="id" />
+    <item name="quote_next_button" type="id" />
+    <item name="play_options_button" type="id" />
+    <item name="music_room_button" type="id" />
+    <item name="scores_button" type="id" />
+    <item name="start_level_label" type="id" />
+    <item name="bonus_label" type="id" />
+    <item name="normal_mode_button" type="id" />
+    <item name="quote_mode_button" type="id" />
+    <item name="competitive_mode_button" type="id" />
+    <item name="competitive_score_card" type="id" />
+    <item name="share_caption" type="id" />
+    <item name="share_status" type="id" />
+    <item name="share_x_button" type="id" />
+    <item name="level_minus_button" type="id" />
+    <item name="level_plus_button" type="id" />
+    <item name="save_options_button" type="id" />
+    <item name="start_configured_button" type="id" />
+    <item name="music_status" type="id" />
+    <item name="preview_play_button" type="id" />
+    <item name="preview_stop_button" type="id" />
 </resources>

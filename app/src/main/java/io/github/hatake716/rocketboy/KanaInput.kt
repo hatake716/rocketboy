@@ -22,7 +22,7 @@ class KanaInput(context: Context) : EditText(context) {
         imeOptions = EditorInfo.IME_ACTION_SEND or EditorInfo.IME_FLAG_NO_EXTRACT_UI or
             EditorInfo.IME_FLAG_NO_FULLSCREEN or EditorInfo.IME_FLAG_NO_PERSONALIZED_LEARNING
         imeHintLocales = android.os.LocaleList.forLanguageTags("ja-JP")
-        filters = arrayOf(InputFilter.LengthFilter(32))
+        filters = arrayOf(InputFilter.LengthFilter(Quotes.MAX_READING_LENGTH))
         importantForAutofill = IMPORTANT_FOR_AUTOFILL_NO
         setSelectAllOnFocus(false)
     }

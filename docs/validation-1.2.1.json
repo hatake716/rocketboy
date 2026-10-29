@@ -1,0 +1,87 @@
+{
+  "versionName": "1.2.1",
+  "versionCode": 4,
+  "date": "2026-09-09",
+  "quote_catalog": {
+    "included_total": 172,
+    "categories": {
+      "history": 17,
+      "business": 2,
+      "fiction": 9,
+      "game": 7,
+      "proverb": 37,
+      "hyakunin": 100
+    },
+    "hyakunin_count": 100,
+    "source_policy": "Wikipedia本文と帰属を確認できる名言のみ",
+    "source_review_complete": true,
+    "previous_count": 361,
+    "removed_count": 189,
+    "historical_requested_total": 3000,
+    "target_note": "以前の目標件数。今回のWikipedia出典への限定・削除指示を優先し、補充は行わない。"
+  },
+  "wikipedia": {
+    "verified_quotes": 172,
+    "pinned_articles": 70,
+    "failures": 0,
+    "body_only": true
+  },
+  "unit": {
+    "tests": 29,
+    "failures": 0,
+    "errors": 0,
+    "skipped": 0
+  },
+  "android_full": {
+    "tests": 25,
+    "failures": 0,
+    "errors": 0,
+    "skipped": 0
+  },
+  "android_compact": {
+    "tests": 2,
+    "failures": 0,
+    "errors": 0,
+    "skipped": 0
+  },
+  "lint": {
+    "errors": 0,
+    "warnings": 24
+  },
+  "apk": {
+    "versionName": "1.2.1",
+    "versionCode": 4,
+    "applicationId": "io.github.hatake716.rocketboy",
+    "file": "artifacts/1.2.1/ROCKETBOY-1.2.1-debug.apk",
+    "bytes": 21291982,
+    "sha256": "0d316ce88276009326e3309883ac0c5ed7ac19e4cc171b211a954d53919ee2b7",
+    "signing": "Android debug / APK Signature Scheme v2",
+    "catalog_count": 172,
+    "all_quote_source_urls_are_wikipedia": true,
+    "retired_quote_count": 189,
+    "music_tracks_unchanged": 25
+  },
+  "emulator": {
+    "device": "Android 15 emulator",
+    "versionName": "1.2.1",
+    "versionCode": 4,
+    "installed_apk_matches": true,
+    "sha256": "0d316ce88276009326e3309883ac0c5ed7ac19e4cc171b211a954d53919ee2b7",
+    "launch_status": "ok",
+    "serial": "emulator-5554",
+    "api": 35,
+    "full_screen": "1080x2400 / 420dpi",
+    "compact_screen": "720x1280 / 320dpi",
+    "screen_restored": true
+  },
+  "physical": {
+    "device": "Pixel 10a",
+    "versionName": "1.2.1",
+    "versionCode": 4,
+    "installed_apk_matches": true,
+    "sha256": "0d316ce88276009326e3309883ac0c5ed7ac19e4cc171b211a954d53919ee2b7",
+    "launch_status": "ok",
+    "saved_preferences_byte_identical_after_update": true,
+    "gameplay_acceptance": "User check pending; no input injection"
+  }
+}

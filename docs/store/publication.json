@@ -1,0 +1,76 @@
+{
+  "branch": "gh-pages",
+  "commit": "1184f3caa04a8f9a24f6b7ce89985812501c6e0f",
+  "tree": "344656d2bf834f8a50cdd7129df8c839bed188c3",
+  "files": [
+    {
+      "publishedPath": ".nojekyll",
+      "localPath": "docs/.nojekyll",
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+    },
+    {
+      "publishedPath": "index.html",
+      "localPath": "docs/index.html",
+      "sha256": "38148ef142f2e9d08f83eed59a0f3757ff1a92b89114ff8009d28446f16c5194"
+    },
+    {
+      "publishedPath": "privacy/index.html",
+      "localPath": "docs/privacy/index.html",
+      "sha256": "0d30295acf7d1f287271073d76c5b0b814652598834ee9d86d36ea61a43cb96f"
+    },
+    {
+      "publishedPath": "support/index.html",
+      "localPath": "docs/support/index.html",
+      "sha256": "32d3fe8daa792dafba47149d5d2fadf8541f120a4f91005906f56d276e764cc7"
+    },
+    {
+      "publishedPath": "store/ja-JP/images/feature-graphic.png",
+      "localPath": "docs/store/ja-JP/images/feature-graphic.png",
+      "sha256": "5a572ea74f5ec2eb22b452a1ff98f4ca1dd1fbaebb8d4d9a98c034ab92533ddc"
+    }
+  ],
+  "userRequest": "Publish prepared privacy HTML and the linked local pages",
+  "mainIndexPreserved": true,
+  "checkedAt": "2026-09-09T03:54:52.229816+00:00",
+  "checks": [
+    {
+      "url": "https://hatake716.github.io/rocketboy/privacy/",
+      "status": 200,
+      "contentType": "text/html; charset=utf-8",
+      "sha256": "0d30295acf7d1f287271073d76c5b0b814652598834ee9d86d36ea61a43cb96f",
+      "matchesLocal": true,
+      "localPath": "docs/privacy/index.html"
+    },
+    {
+      "url": "https://hatake716.github.io/rocketboy/",
+      "status": 200,
+      "contentType": "text/html; charset=utf-8",
+      "sha256": "38148ef142f2e9d08f83eed59a0f3757ff1a92b89114ff8009d28446f16c5194",
+      "matchesLocal": true,
+      "localPath": "docs/index.html"
+    },
+    {
+      "url": "https://hatake716.github.io/rocketboy/support/",
+      "status": 200,
+      "contentType": "text/html; charset=utf-8",
+      "sha256": "32d3fe8daa792dafba47149d5d2fadf8541f120a4f91005906f56d276e764cc7",
+      "matchesLocal": true,
+      "localPath": "docs/support/index.html"
+    },
+    {
+      "url": "https://hatake716.github.io/rocketboy/store/ja-JP/images/feature-graphic.png",
+      "status": 200,
+      "contentType": "image/png",
+      "sha256": "5a572ea74f5ec2eb22b452a1ff98f4ca1dd1fbaebb8d4d9a98c034ab92533ddc",
+      "matchesLocal": true,
+      "localPath": "docs/store/ja-JP/images/feature-graphic.png"
+    }
+  ],
+  "deployment": {
+    "id": 34308861825,
+    "status": "completed",
+    "conclusion": "success",
+    "head_sha": "1184f3caa04a8f9a24f6b7ce89985812501c6e0f",
+    "html_url": "https://github.com/hatake716/rocketboy/actions/runs/34308861825"
+  }
+}

@@ -1,0 +1,1376 @@
+{
+  "checked_date": "2026-09-09",
+  "quotes": 228,
+  "pages": 101,
+  "failures": 0,
+  "results": [
+    {
+      "id": "descartes-think",
+      "revision": 110152782,
+      "quote_present": true,
+      "page_html_sha256": "0562b07f799d78942bd635cb0768d3bfbf82b4ffffd6bc47244398db192aac69"
+    },
+    {
+      "id": "pascal-reed",
+      "revision": 110758059,
+      "quote_present": true,
+      "page_html_sha256": "07463bf16435565d632602b7190613557fb97f82cd6d532b29258d65b95ad867"
+    },
+    {
+      "id": "confucius-learning",
+      "revision": 110804704,
+      "quote_present": true,
+      "page_html_sha256": "7ea5c418f7127aace6c240bae6b7a41c262e605980d03b802931ad2819d4378b"
+    },
+    {
+      "id": "toyoda-research",
+      "revision": 110910544,
+      "quote_present": true,
+      "page_html_sha256": "539d2cb8990f4d1586cfbb403b98730bc633483f6cc3d41ef5dd468b5ea9eb80"
+    },
+    {
+      "id": "hyakunin-001",
+      "revision": 110843159,
+      "quote_present": true,
+      "page_html_sha256": "be15f34a82374d5dcaf2e7c211d28cd7eb3616e3fcddb5745b372a369d04313d"
+    },
+    {
+      "id": "hyakunin-002",
+      "revision": 110843159,
+      "quote_present": true,
+      "page_html_sha256": "be15f34a82374d5dcaf2e7c211d28cd7eb3616e3fcddb5745b372a369d04313d"
+    },
+    {
+      "id": "hyakunin-003",
+      "revision": 110843159,
+      "quote_present": true,
+      "page_html_sha256": "be15f34a82374d5dcaf2e7c211d28cd7eb3616e3fcddb5745b372a369d04313d"
+    },
+    {
+      "id": "hyakunin-004",
+      "revision": 110843159,
+      "quote_present": true,
+      "page_html_sha256": "be15f34a82374d5dcaf2e7c211d28cd7eb3616e3fcddb5745b372a369d04313d"
+    },
+    {
+      "id": "hyakunin-005",
+      "revision": 110843159,
+      "quote_present": true,
+      "page_html_sha256": "be15f34a82374d5dcaf2e7c211d28cd7eb3616e3fcddb5745b372a369d04313d"
+    },
+    {
+      "id": "hyakunin-006",
+      "revision": 110843159,
+      "quote_present": true,
+      "page_html_sha256": "be15f34a82374d5dcaf2e7c211d28cd7eb3616e3fcddb5745b372a369d04313d"
+    },
+    {
+      "id": "hyakunin-007",
+      "revision": 110843159,
+      "quote_present": true,
+      "page_html_sha256": "be15f34a82374d5dcaf2e7c211d28cd7eb3616e3fcddb5745b372a369d04313d"
+    },
+    {
+      "id": "hyakunin-008",
+      "revision": 110843159,
+      "quote_present": true,
+      "page_html_sha256": "be15f34a82374d5dcaf2e7c211d28cd7eb3616e3fcddb5745b372a369d04313d"
+    },
+    {
+      "id": "hyakunin-009",
+      "revision": 110843159,
+      "quote_present": true,
+      "page_html_sha256": "be15f34a82374d5dcaf2e7c211d28cd7eb3616e3fcddb5745b372a369d04313d"
+    },
+    {
+      "id": "hyakunin-010",
+      "revision": 110843159,
+      "quote_present": true,
+      "page_html_sha256": "be15f34a82374d5dcaf2e7c211d28cd7eb3616e3fcddb5745b372a369d04313d"
+    },
+    {
+      "id": "hyakunin-011",
+      "revision": 110843159,
+      "quote_present": true,
+      "page_html_sha256": "be15f34a82374d5dcaf2e7c211d28cd7eb3616e3fcddb5745b372a369d04313d"
+    },
+    {
+      "id": "hyakunin-012",
+      "revision": 110843159,
+      "quote_present": true,
+      "page_html_sha256": "be15f34a82374d5dcaf2e7c211d28cd7eb3616e3fcddb5745b372a369d04313d"
+    },
+    {
+      "id": "hyakunin-013",
+      "revision": 110843159,
+      "quote_present": true,
+      "page_html_sha256": "be15f34a82374d5dcaf2e7c211d28cd7eb3616e3fcddb5745b372a369d04313d"
+    },
+    {
+      "id": "hyakunin-014",
+      "revision": 110843159,
+      "quote_present": true,
+      "page_html_sha256": "be15f34a82374d5dcaf2e7c211d28cd7eb3616e3fcddb5745b372a369d04313d"
+    },
+    {
+      "id": "hyakunin-015",
+      "revision": 110843159,
+      "quote_present": true,
+      "page_html_sha256": "be15f34a82374d5dcaf2e7c211d28cd7eb3616e3fcddb5745b372a369d04313d"
+    },
+    {
+      "id": "hyakunin-016",
+      "revision": 110843159,
+      "quote_present": true,
+      "page_html_sha256": "be15f34a82374d5dcaf2e7c211d28cd7eb3616e3fcddb5745b372a369d04313d"
+    },
+    {
+      "id": "hyakunin-017",
+      "revision": 110843159,
+      "quote_present": true,
+      "page_html_sha256": "be15f34a82374d5dcaf2e7c211d28cd7eb3616e3fcddb5745b372a369d04313d"
+    },
+    {
+      "id": "hyakunin-018",
+      "revision": 110843159,
+      "quote_present": true,
+      "page_html_sha256": "be15f34a82374d5dcaf2e7c211d28cd7eb3616e3fcddb5745b372a369d04313d"
+    },
+    {
+      "id": "hyakunin-019",
+      "revision": 110843159,
+      "quote_present": true,
+      "page_html_sha256": "be15f34a82374d5dcaf2e7c211d28cd7eb3616e3fcddb5745b372a369d04313d"
+    },
+    {
+      "id": "hyakunin-020",
+      "revision": 110843159,
+      "quote_present": true,
+      "page_html_sha256": "be15f34a82374d5dcaf2e7c211d28cd7eb3616e3fcddb5745b372a369d04313d"
+    },
+    {
+      "id": "hyakunin-021",
+      "revision": 110843159,
+      "quote_present": true,
+      "page_html_sha256": "be15f34a82374d5dcaf2e7c211d28cd7eb3616e3fcddb5745b372a369d04313d"
+    },
+    {
+      "id": "hyakunin-022",
+      "revision": 110843159,
+      "quote_present": true,
+      "page_html_sha256": "be15f34a82374d5dcaf2e7c211d28cd7eb3616e3fcddb5745b372a369d04313d"
+    },
+    {
+      "id": "hyakunin-023",
+      "revision": 110843159,
+      "quote_present": true,
+      "page_html_sha256": "be15f34a82374d5dcaf2e7c211d28cd7eb3616e3fcddb5745b372a369d04313d"
+    },
+    {
+      "id": "hyakunin-024",
+      "revision": 110843159,
+      "quote_present": true,
+      "page_html_sha256": "be15f34a82374d5dcaf2e7c211d28cd7eb3616e3fcddb5745b372a369d04313d"
+    },
+    {
+      "id": "hyakunin-025",
+      "revision": 110843159,
+      "quote_present": true,
+      "page_html_sha256": "be15f34a82374d5dcaf2e7c211d28cd7eb3616e3fcddb5745b372a369d04313d"
+    },
+    {
+      "id": "hyakunin-026",
+      "revision": 110843159,
+      "quote_present": true,
+      "page_html_sha256": "be15f34a82374d5dcaf2e7c211d28cd7eb3616e3fcddb5745b372a369d04313d"
+    },
+    {
+      "id": "hyakunin-027",
+      "revision": 110843159,
+      "quote_present": true,
+      "page_html_sha256": "be15f34a82374d5dcaf2e7c211d28cd7eb3616e3fcddb5745b372a369d04313d"
+    },
+    {
+      "id": "hyakunin-028",
+      "revision": 110843159,
+      "quote_present": true,
+      "page_html_sha256": "be15f34a82374d5dcaf2e7c211d28cd7eb3616e3fcddb5745b372a369d04313d"
+    },
+    {
+      "id": "hyakunin-029",
+      "revision": 110843159,
+      "quote_present": true,
+      "page_html_sha256": "be15f34a82374d5dcaf2e7c211d28cd7eb3616e3fcddb5745b372a369d04313d"
+    },
+    {
+      "id": "hyakunin-030",
+      "revision": 110843159,
+      "quote_present": true,
+      "page_html_sha256": "be15f34a82374d5dcaf2e7c211d28cd7eb3616e3fcddb5745b372a369d04313d"
+    },
+    {
+      "id": "hyakunin-031",
+      "revision": 110843159,
+      "quote_present": true,
+      "page_html_sha256": "be15f34a82374d5dcaf2e7c211d28cd7eb3616e3fcddb5745b372a369d04313d"
+    },
+    {
+      "id": "hyakunin-032",
+      "revision": 110843159,
+      "quote_present": true,
+      "page_html_sha256": "be15f34a82374d5dcaf2e7c211d28cd7eb3616e3fcddb5745b372a369d04313d"
+    },
+    {
+      "id": "hyakunin-033",
+      "revision": 110843159,
+      "quote_present": true,
+      "page_html_sha256": "be15f34a82374d5dcaf2e7c211d28cd7eb3616e3fcddb5745b372a369d04313d"
+    },
+    {
+      "id": "hyakunin-034",
+      "revision": 110843159,
+      "quote_present": true,
+      "page_html_sha256": "be15f34a82374d5dcaf2e7c211d28cd7eb3616e3fcddb5745b372a369d04313d"
+    },
+    {
+      "id": "hyakunin-035",
+      "revision": 110843159,
+      "quote_present": true,
+      "page_html_sha256": "be15f34a82374d5dcaf2e7c211d28cd7eb3616e3fcddb5745b372a369d04313d"
+    },
+    {
+      "id": "hyakunin-036",
+      "revision": 110843159,
+      "quote_present": true,
+      "page_html_sha256": "be15f34a82374d5dcaf2e7c211d28cd7eb3616e3fcddb5745b372a369d04313d"
+    },
+    {
+      "id": "hyakunin-037",
+      "revision": 110843159,
+      "quote_present": true,
+      "page_html_sha256": "be15f34a82374d5dcaf2e7c211d28cd7eb3616e3fcddb5745b372a369d04313d"
+    },
+    {
+      "id": "hyakunin-038",
+      "revision": 110843159,
+      "quote_present": true,
+      "page_html_sha256": "be15f34a82374d5dcaf2e7c211d28cd7eb3616e3fcddb5745b372a369d04313d"
+    },
+    {
+      "id": "hyakunin-039",
+      "revision": 110843159,
+      "quote_present": true,
+      "page_html_sha256": "be15f34a82374d5dcaf2e7c211d28cd7eb3616e3fcddb5745b372a369d04313d"
+    },
+    {
+      "id": "hyakunin-040",
+      "revision": 110843159,
+      "quote_present": true,
+      "page_html_sha256": "be15f34a82374d5dcaf2e7c211d28cd7eb3616e3fcddb5745b372a369d04313d"
+    },
+    {
+      "id": "hyakunin-041",
+      "revision": 110843159,
+      "quote_present": true,
+      "page_html_sha256": "be15f34a82374d5dcaf2e7c211d28cd7eb3616e3fcddb5745b372a369d04313d"
+    },
+    {
+      "id": "hyakunin-042",
+      "revision": 110843159,
+      "quote_present": true,
+      "page_html_sha256": "be15f34a82374d5dcaf2e7c211d28cd7eb3616e3fcddb5745b372a369d04313d"
+    },
+    {
+      "id": "hyakunin-043",
+      "revision": 110843159,
+      "quote_present": true,
+      "page_html_sha256": "be15f34a82374d5dcaf2e7c211d28cd7eb3616e3fcddb5745b372a369d04313d"
+    },
+    {
+      "id": "hyakunin-044",
+      "revision": 109790334,
+      "quote_present": true,
+      "page_html_sha256": "c2e4fdb796b910e01c2cb368959e72d3423761f0d0317cfb7b9f6a83a28703af"
+    },
+    {
+      "id": "hyakunin-045",
+      "revision": 110843159,
+      "quote_present": true,
+      "page_html_sha256": "be15f34a82374d5dcaf2e7c211d28cd7eb3616e3fcddb5745b372a369d04313d"
+    },
+    {
+      "id": "hyakunin-046",
+      "revision": 110843159,
+      "quote_present": true,
+      "page_html_sha256": "be15f34a82374d5dcaf2e7c211d28cd7eb3616e3fcddb5745b372a369d04313d"
+    },
+    {
+      "id": "hyakunin-047",
+      "revision": 110843159,
+      "quote_present": true,
+      "page_html_sha256": "be15f34a82374d5dcaf2e7c211d28cd7eb3616e3fcddb5745b372a369d04313d"
+    },
+    {
+      "id": "hyakunin-048",
+      "revision": 110843159,
+      "quote_present": true,
+      "page_html_sha256": "be15f34a82374d5dcaf2e7c211d28cd7eb3616e3fcddb5745b372a369d04313d"
+    },
+    {
+      "id": "hyakunin-049",
+      "revision": 110843159,
+      "quote_present": true,
+      "page_html_sha256": "be15f34a82374d5dcaf2e7c211d28cd7eb3616e3fcddb5745b372a369d04313d"
+    },
+    {
+      "id": "hyakunin-050",
+      "revision": 110843159,
+      "quote_present": true,
+      "page_html_sha256": "be15f34a82374d5dcaf2e7c211d28cd7eb3616e3fcddb5745b372a369d04313d"
+    },
+    {
+      "id": "hyakunin-051",
+      "revision": 110843159,
+      "quote_present": true,
+      "page_html_sha256": "be15f34a82374d5dcaf2e7c211d28cd7eb3616e3fcddb5745b372a369d04313d"
+    },
+    {
+      "id": "hyakunin-052",
+      "revision": 110843159,
+      "quote_present": true,
+      "page_html_sha256": "be15f34a82374d5dcaf2e7c211d28cd7eb3616e3fcddb5745b372a369d04313d"
+    },
+    {
+      "id": "hyakunin-053",
+      "revision": 110843159,
+      "quote_present": true,
+      "page_html_sha256": "be15f34a82374d5dcaf2e7c211d28cd7eb3616e3fcddb5745b372a369d04313d"
+    },
+    {
+      "id": "hyakunin-054",
+      "revision": 110843159,
+      "quote_present": true,
+      "page_html_sha256": "be15f34a82374d5dcaf2e7c211d28cd7eb3616e3fcddb5745b372a369d04313d"
+    },
+    {
+      "id": "hyakunin-055",
+      "revision": 110843159,
+      "quote_present": true,
+      "page_html_sha256": "be15f34a82374d5dcaf2e7c211d28cd7eb3616e3fcddb5745b372a369d04313d"
+    },
+    {
+      "id": "hyakunin-056",
+      "revision": 110843159,
+      "quote_present": true,
+      "page_html_sha256": "be15f34a82374d5dcaf2e7c211d28cd7eb3616e3fcddb5745b372a369d04313d"
+    },
+    {
+      "id": "hyakunin-057",
+      "revision": 110843159,
+      "quote_present": true,
+      "page_html_sha256": "be15f34a82374d5dcaf2e7c211d28cd7eb3616e3fcddb5745b372a369d04313d"
+    },
+    {
+      "id": "hyakunin-058",
+      "revision": 110843159,
+      "quote_present": true,
+      "page_html_sha256": "be15f34a82374d5dcaf2e7c211d28cd7eb3616e3fcddb5745b372a369d04313d"
+    },
+    {
+      "id": "hyakunin-059",
+      "revision": 110843159,
+      "quote_present": true,
+      "page_html_sha256": "be15f34a82374d5dcaf2e7c211d28cd7eb3616e3fcddb5745b372a369d04313d"
+    },
+    {
+      "id": "hyakunin-060",
+      "revision": 110843159,
+      "quote_present": true,
+      "page_html_sha256": "be15f34a82374d5dcaf2e7c211d28cd7eb3616e3fcddb5745b372a369d04313d"
+    },
+    {
+      "id": "hyakunin-061",
+      "revision": 110843159,
+      "quote_present": true,
+      "page_html_sha256": "be15f34a82374d5dcaf2e7c211d28cd7eb3616e3fcddb5745b372a369d04313d"
+    },
+    {
+      "id": "hyakunin-062",
+      "revision": 110843159,
+      "quote_present": true,
+      "page_html_sha256": "be15f34a82374d5dcaf2e7c211d28cd7eb3616e3fcddb5745b372a369d04313d"
+    },
+    {
+      "id": "hyakunin-063",
+      "revision": 110843159,
+      "quote_present": true,
+      "page_html_sha256": "be15f34a82374d5dcaf2e7c211d28cd7eb3616e3fcddb5745b372a369d04313d"
+    },
+    {
+      "id": "hyakunin-064",
+      "revision": 110843159,
+      "quote_present": true,
+      "page_html_sha256": "be15f34a82374d5dcaf2e7c211d28cd7eb3616e3fcddb5745b372a369d04313d"
+    },
+    {
+      "id": "hyakunin-065",
+      "revision": 110843159,
+      "quote_present": true,
+      "page_html_sha256": "be15f34a82374d5dcaf2e7c211d28cd7eb3616e3fcddb5745b372a369d04313d"
+    },
+    {
+      "id": "hyakunin-066",
+      "revision": 110843159,
+      "quote_present": true,
+      "page_html_sha256": "be15f34a82374d5dcaf2e7c211d28cd7eb3616e3fcddb5745b372a369d04313d"
+    },
+    {
+      "id": "hyakunin-067",
+      "revision": 110843159,
+      "quote_present": true,
+      "page_html_sha256": "be15f34a82374d5dcaf2e7c211d28cd7eb3616e3fcddb5745b372a369d04313d"
+    },
+    {
+      "id": "hyakunin-068",
+      "revision": 110843159,
+      "quote_present": true,
+      "page_html_sha256": "be15f34a82374d5dcaf2e7c211d28cd7eb3616e3fcddb5745b372a369d04313d"
+    },
+    {
+      "id": "hyakunin-069",
+      "revision": 110843159,
+      "quote_present": true,
+      "page_html_sha256": "be15f34a82374d5dcaf2e7c211d28cd7eb3616e3fcddb5745b372a369d04313d"
+    },
+    {
+      "id": "hyakunin-070",
+      "revision": 110843159,
+      "quote_present": true,
+      "page_html_sha256": "be15f34a82374d5dcaf2e7c211d28cd7eb3616e3fcddb5745b372a369d04313d"
+    },
+    {
+      "id": "hyakunin-071",
+      "revision": 110843159,
+      "quote_present": true,
+      "page_html_sha256": "be15f34a82374d5dcaf2e7c211d28cd7eb3616e3fcddb5745b372a369d04313d"
+    },
+    {
+      "id": "hyakunin-072",
+      "revision": 110843159,
+      "quote_present": true,
+      "page_html_sha256": "be15f34a82374d5dcaf2e7c211d28cd7eb3616e3fcddb5745b372a369d04313d"
+    },
+    {
+      "id": "hyakunin-073",
+      "revision": 110843159,
+      "quote_present": true,
+      "page_html_sha256": "be15f34a82374d5dcaf2e7c211d28cd7eb3616e3fcddb5745b372a369d04313d"
+    },
+    {
+      "id": "hyakunin-074",
+      "revision": 110843159,
+      "quote_present": true,
+      "page_html_sha256": "be15f34a82374d5dcaf2e7c211d28cd7eb3616e3fcddb5745b372a369d04313d"
+    },
+    {
+      "id": "hyakunin-075",
+      "revision": 110843159,
+      "quote_present": true,
+      "page_html_sha256": "be15f34a82374d5dcaf2e7c211d28cd7eb3616e3fcddb5745b372a369d04313d"
+    },
+    {
+      "id": "hyakunin-076",
+      "revision": 110843159,
+      "quote_present": true,
+      "page_html_sha256": "be15f34a82374d5dcaf2e7c211d28cd7eb3616e3fcddb5745b372a369d04313d"
+    },
+    {
+      "id": "hyakunin-077",
+      "revision": 110843159,
+      "quote_present": true,
+      "page_html_sha256": "be15f34a82374d5dcaf2e7c211d28cd7eb3616e3fcddb5745b372a369d04313d"
+    },
+    {
+      "id": "hyakunin-078",
+      "revision": 110843159,
+      "quote_present": true,
+      "page_html_sha256": "be15f34a82374d5dcaf2e7c211d28cd7eb3616e3fcddb5745b372a369d04313d"
+    },
+    {
+      "id": "hyakunin-079",
+      "revision": 110843159,
+      "quote_present": true,
+      "page_html_sha256": "be15f34a82374d5dcaf2e7c211d28cd7eb3616e3fcddb5745b372a369d04313d"
+    },
+    {
+      "id": "hyakunin-080",
+      "revision": 110843159,
+      "quote_present": true,
+      "page_html_sha256": "be15f34a82374d5dcaf2e7c211d28cd7eb3616e3fcddb5745b372a369d04313d"
+    },
+    {
+      "id": "hyakunin-081",
+      "revision": 110843159,
+      "quote_present": true,
+      "page_html_sha256": "be15f34a82374d5dcaf2e7c211d28cd7eb3616e3fcddb5745b372a369d04313d"
+    },
+    {
+      "id": "hyakunin-082",
+      "revision": 110843159,
+      "quote_present": true,
+      "page_html_sha256": "be15f34a82374d5dcaf2e7c211d28cd7eb3616e3fcddb5745b372a369d04313d"
+    },
+    {
+      "id": "hyakunin-083",
+      "revision": 110843159,
+      "quote_present": true,
+      "page_html_sha256": "be15f34a82374d5dcaf2e7c211d28cd7eb3616e3fcddb5745b372a369d04313d"
+    },
+    {
+      "id": "hyakunin-084",
+      "revision": 110843159,
+      "quote_present": true,
+      "page_html_sha256": "be15f34a82374d5dcaf2e7c211d28cd7eb3616e3fcddb5745b372a369d04313d"
+    },
+    {
+      "id": "hyakunin-085",
+      "revision": 110843159,
+      "quote_present": true,
+      "page_html_sha256": "be15f34a82374d5dcaf2e7c211d28cd7eb3616e3fcddb5745b372a369d04313d"
+    },
+    {
+      "id": "hyakunin-086",
+      "revision": 110843159,
+      "quote_present": true,
+      "page_html_sha256": "be15f34a82374d5dcaf2e7c211d28cd7eb3616e3fcddb5745b372a369d04313d"
+    },
+    {
+      "id": "hyakunin-087",
+      "revision": 110843159,
+      "quote_present": true,
+      "page_html_sha256": "be15f34a82374d5dcaf2e7c211d28cd7eb3616e3fcddb5745b372a369d04313d"
+    },
+    {
+      "id": "hyakunin-088",
+      "revision": 110843159,
+      "quote_present": true,
+      "page_html_sha256": "be15f34a82374d5dcaf2e7c211d28cd7eb3616e3fcddb5745b372a369d04313d"
+    },
+    {
+      "id": "hyakunin-089",
+      "revision": 110843159,
+      "quote_present": true,
+      "page_html_sha256": "be15f34a82374d5dcaf2e7c211d28cd7eb3616e3fcddb5745b372a369d04313d"
+    },
+    {
+      "id": "hyakunin-090",
+      "revision": 110843159,
+      "quote_present": true,
+      "page_html_sha256": "be15f34a82374d5dcaf2e7c211d28cd7eb3616e3fcddb5745b372a369d04313d"
+    },
+    {
+      "id": "hyakunin-091",
+      "revision": 110843159,
+      "quote_present": true,
+      "page_html_sha256": "be15f34a82374d5dcaf2e7c211d28cd7eb3616e3fcddb5745b372a369d04313d"
+    },
+    {
+      "id": "hyakunin-092",
+      "revision": 110843159,
+      "quote_present": true,
+      "page_html_sha256": "be15f34a82374d5dcaf2e7c211d28cd7eb3616e3fcddb5745b372a369d04313d"
+    },
+    {
+      "id": "hyakunin-093",
+      "revision": 110843159,
+      "quote_present": true,
+      "page_html_sha256": "be15f34a82374d5dcaf2e7c211d28cd7eb3616e3fcddb5745b372a369d04313d"
+    },
+    {
+      "id": "hyakunin-094",
+      "revision": 110843159,
+      "quote_present": true,
+      "page_html_sha256": "be15f34a82374d5dcaf2e7c211d28cd7eb3616e3fcddb5745b372a369d04313d"
+    },
+    {
+      "id": "hyakunin-095",
+      "revision": 110843159,
+      "quote_present": true,
+      "page_html_sha256": "be15f34a82374d5dcaf2e7c211d28cd7eb3616e3fcddb5745b372a369d04313d"
+    },
+    {
+      "id": "hyakunin-096",
+      "revision": 110843159,
+      "quote_present": true,
+      "page_html_sha256": "be15f34a82374d5dcaf2e7c211d28cd7eb3616e3fcddb5745b372a369d04313d"
+    },
+    {
+      "id": "hyakunin-097",
+      "revision": 110843159,
+      "quote_present": true,
+      "page_html_sha256": "be15f34a82374d5dcaf2e7c211d28cd7eb3616e3fcddb5745b372a369d04313d"
+    },
+    {
+      "id": "hyakunin-098",
+      "revision": 110843159,
+      "quote_present": true,
+      "page_html_sha256": "be15f34a82374d5dcaf2e7c211d28cd7eb3616e3fcddb5745b372a369d04313d"
+    },
+    {
+      "id": "hyakunin-099",
+      "revision": 110843159,
+      "quote_present": true,
+      "page_html_sha256": "be15f34a82374d5dcaf2e7c211d28cd7eb3616e3fcddb5745b372a369d04313d"
+    },
+    {
+      "id": "hyakunin-100",
+      "revision": 110843159,
+      "quote_present": true,
+      "page_html_sha256": "be15f34a82374d5dcaf2e7c211d28cd7eb3616e3fcddb5745b372a369d04313d"
+    },
+    {
+      "id": "proverb-0c29c924fed8",
+      "revision": 109898563,
+      "quote_present": true,
+      "page_html_sha256": "d20e82d20f4ea47c0a88ffddfbd3456d2d7fd4a0084a695a1871aa42095cde77"
+    },
+    {
+      "id": "proverb-673f55047f24",
+      "revision": 108405358,
+      "quote_present": true,
+      "page_html_sha256": "9698c30256ff23862d6185f24457d54a6622d888e2fa9026efb5922f95ce48cb"
+    },
+    {
+      "id": "proverb-66bfab3b947f",
+      "revision": 104814846,
+      "quote_present": true,
+      "page_html_sha256": "46d5f1e285ca1e0043f8be63e394851c14a9a2f21111ff2ca308e26975d01ffb"
+    },
+    {
+      "id": "proverb-c63de776d12f",
+      "revision": 95411333,
+      "quote_present": true,
+      "page_html_sha256": "1f0b6be5804860bec0abf32c31ef2cffc4f22c68121f789b1f12afc08c88298c"
+    },
+    {
+      "id": "proverb-c32b4622ecc4",
+      "revision": 107526362,
+      "quote_present": true,
+      "page_html_sha256": "2077ed696eeafd0840317b658d763fcfd70c24cdf267c0762121936ff050bc6c"
+    },
+    {
+      "id": "proverb-cc562d8009fa",
+      "revision": 110682824,
+      "quote_present": true,
+      "page_html_sha256": "74c9fee84d8dbd673798c0c9371b5fde2bbaca580a1cb906490ab27f878c94ef"
+    },
+    {
+      "id": "proverb-c7b4b6dcac7b",
+      "revision": 110052978,
+      "quote_present": true,
+      "page_html_sha256": "f25d81c7ef560d2c4ccaaf85c0bdd44c8a0466d8fff225df889ae5bd95d67384"
+    },
+    {
+      "id": "proverb-981a33c12250",
+      "revision": 106045832,
+      "quote_present": true,
+      "page_html_sha256": "d477cafd5223e3befd18c0024c92709822d52d97c7e3d9fe1babed004ee77660"
+    },
+    {
+      "id": "proverb-6cffa215aa23",
+      "revision": 106253226,
+      "quote_present": true,
+      "page_html_sha256": "b149a41b9ac3b0dde02369565e5c77fb11246080bab0202f3fe715654441ca9f"
+    },
+    {
+      "id": "proverb-430f4d399a0d",
+      "revision": 107222723,
+      "quote_present": true,
+      "page_html_sha256": "a11fd29472d53762788b2bfc0cfd3789f2c1438349127b0fb0a921ec0e71847f"
+    },
+    {
+      "id": "proverb-5374813cc1d5",
+      "revision": 109727029,
+      "quote_present": true,
+      "page_html_sha256": "bd9f129e333337c700a2dcab652b03fe7b1fad759a2d6979f4cafb1d7e7ce58d"
+    },
+    {
+      "id": "proverb-592b52e80afa",
+      "revision": 109579586,
+      "quote_present": true,
+      "page_html_sha256": "0e4202eb21056fd3b71526baa003132a505ab7c2679f205cce94e146a9616ea3"
+    },
+    {
+      "id": "proverb-4cc44d4f5f9b",
+      "revision": 105407311,
+      "quote_present": true,
+      "page_html_sha256": "dd79dd875a79c661a451c3c58ac3ad2c51ee57994eedec46e4c5f7f8a18015a8"
+    },
+    {
+      "id": "proverb-69455bd90cdb",
+      "revision": 105264352,
+      "quote_present": true,
+      "page_html_sha256": "e90e0f7e59975e7a64a456e0a7ed2fc0a74a3613e2d3c90d680681761bd0d18e"
+    },
+    {
+      "id": "proverb-bbf51bca8c67",
+      "revision": 108225181,
+      "quote_present": true,
+      "page_html_sha256": "5175444f87011fdb233e4d1cd10f855b65222e87441cd29527ac43e57b419023"
+    },
+    {
+      "id": "proverb-c8ec5db2aeef",
+      "revision": 107584943,
+      "quote_present": true,
+      "page_html_sha256": "9520e292dbc97e73fb9eaf25d19e55204f40b927b99e86008aa4de7cf49d2ecd"
+    },
+    {
+      "id": "proverb-46f16ce80199",
+      "revision": 107512884,
+      "quote_present": true,
+      "page_html_sha256": "7fe033bd18334a24ee00c99c7c20338bf08a420477d4cf3ee7d96d027d900956"
+    },
+    {
+      "id": "proverb-790630fcc701",
+      "revision": 108529851,
+      "quote_present": true,
+      "page_html_sha256": "3b35ff4d022ab949f9b6c9ad87a19a2634181d4df764647595b20b1ded0b6d2a"
+    },
+    {
+      "id": "proverb-90f42ba98340",
+      "revision": 108829617,
+      "quote_present": true,
+      "page_html_sha256": "baf2019de92c1a6cc4456a64a7e68988a554a6090dd0a1c9ec9122bc0b557ffe"
+    },
+    {
+      "id": "proverb-29a2ce76e00c",
+      "revision": 109281164,
+      "quote_present": true,
+      "page_html_sha256": "111475bcab84f80b7c056cfc1904eaec62d9c14c2a96e02f6a77851b7129b489"
+    },
+    {
+      "id": "proverb-5b09b42ce97e",
+      "revision": 109100281,
+      "quote_present": true,
+      "page_html_sha256": "8db15d10736234d8994367d1380f5861abe10930d1c69955a6a1e9d1736e8bfa"
+    },
+    {
+      "id": "proverb-67c0a7e352f5",
+      "revision": 110931510,
+      "quote_present": true,
+      "page_html_sha256": "372224b830b339ba352a3d8ec7d7bda1c98d719b4e980e387ad6309de4d6524b"
+    },
+    {
+      "id": "proverb-436b508a421d",
+      "revision": 110436856,
+      "quote_present": true,
+      "page_html_sha256": "f983423fcf220841e56197687b96a254ef8d927f748307d603ee8a71a47cf63f"
+    },
+    {
+      "id": "proverb-41574b50a6f3",
+      "revision": 110286123,
+      "quote_present": true,
+      "page_html_sha256": "d2643279fac43d6fc001b49989f2dfb650cd8af1279b1e44058efabf436d436b"
+    },
+    {
+      "id": "proverb-fd784b7409c9",
+      "revision": 105518958,
+      "quote_present": true,
+      "page_html_sha256": "4e155bb2b6e6ef4fbed3d454061494362ec823c5b8a20b3b311fd7b86bf07b28"
+    },
+    {
+      "id": "proverb-2654030db652",
+      "revision": 102352489,
+      "quote_present": true,
+      "page_html_sha256": "eff0449b3f92947238ee576d1bbd173e8a9dff2cb1e098e3272aec65a1aa5c3d"
+    },
+    {
+      "id": "proverb-0cc1c0f061a6",
+      "revision": 107882092,
+      "quote_present": true,
+      "page_html_sha256": "99bfd99ac6af16c420d99223b64289953130e16e17666fd631fff92fed943e3d"
+    },
+    {
+      "id": "proverb-a60d5f11e42e",
+      "revision": 108671557,
+      "quote_present": true,
+      "page_html_sha256": "f2face1b8902e4fc474f104b7c08d10a5709475985b62124daa95e4d84a75cf2"
+    },
+    {
+      "id": "proverb-cf80d1b50ff8",
+      "revision": 110402608,
+      "quote_present": true,
+      "page_html_sha256": "fd7828573ad7bcdc174328fa629eb2c6504dbeaf8bcce4da182af9d57e722a33"
+    },
+    {
+      "id": "proverb-ffecac53d977",
+      "revision": 110286123,
+      "quote_present": true,
+      "page_html_sha256": "d2643279fac43d6fc001b49989f2dfb650cd8af1279b1e44058efabf436d436b"
+    },
+    {
+      "id": "proverb-9f043645818a",
+      "revision": 110286123,
+      "quote_present": true,
+      "page_html_sha256": "d2643279fac43d6fc001b49989f2dfb650cd8af1279b1e44058efabf436d436b"
+    },
+    {
+      "id": "proverb-1f8d53941928",
+      "revision": 96491405,
+      "quote_present": true,
+      "page_html_sha256": "a6693c5c293950a45350680f66cdf230daae276444eec8a158261e33049264d0"
+    },
+    {
+      "id": "proverb-390154dc5e7e",
+      "revision": 106168863,
+      "quote_present": true,
+      "page_html_sha256": "6fe4a50e261877f31b2c11a4575f88c8859454dde72656191c676c7a03c1b5a4"
+    },
+    {
+      "id": "proverb-9824e886647c",
+      "revision": 110286123,
+      "quote_present": true,
+      "page_html_sha256": "d2643279fac43d6fc001b49989f2dfb650cd8af1279b1e44058efabf436d436b"
+    },
+    {
+      "id": "proverb-fd5981dd6b59",
+      "revision": 105425455,
+      "quote_present": true,
+      "page_html_sha256": "eeb9cea8f0b8c0e11dd6da3699a901cb6d27ac554b49ad03b1c0dcf80835fbbf"
+    },
+    {
+      "id": "proverb-ab57ded4f6e5",
+      "revision": 110847061,
+      "quote_present": true,
+      "page_html_sha256": "3f9494d547df5ceff627b911bf470fd0c99d8522dfed5ab5797c84034ca20f5a"
+    },
+    {
+      "id": "proverb-4ae0adfaf402",
+      "revision": 110402608,
+      "quote_present": true,
+      "page_html_sha256": "fd7828573ad7bcdc174328fa629eb2c6504dbeaf8bcce4da182af9d57e722a33"
+    },
+    {
+      "id": "animate-rei-protect",
+      "revision": 107369086,
+      "quote_present": true,
+      "page_html_sha256": "40defd75f31c8a2f34a8ec9859096ff5d948daa7bf5a3d7778a0dd25bed6a3fc"
+    },
+    {
+      "id": "animate-allmight-hero",
+      "revision": 110750823,
+      "quote_present": true,
+      "page_html_sha256": "7634ca2266d523105649386af44a32c8c98637eb94fd46ba4fbd7c246988aecd"
+    },
+    {
+      "id": "animate-quattro-sponsor",
+      "revision": 109004045,
+      "quote_present": true,
+      "page_html_sha256": "f9beae5b2c50236576eef46b2238af9da236804b951aceedef3e127f69b38349"
+    },
+    {
+      "id": "animate-light-god",
+      "revision": 110016468,
+      "quote_present": true,
+      "page_html_sha256": "c3b5fb794c4a605901cdac358da43bf90fd881189beb81992239802d9c394506"
+    },
+    {
+      "id": "animate-raoh-life",
+      "revision": 109244673,
+      "quote_present": true,
+      "page_html_sha256": "c0dcbc77ab392d366c829012c350cf40a7f95730362b7c69c08a9bc9b869f962"
+    },
+    {
+      "id": "animate-lockon-aim",
+      "revision": 109918868,
+      "quote_present": true,
+      "page_html_sha256": "45aeedaa2d52896768b71152d2118639b1f5dc4bae8f06b8cac5ff139c973ff0"
+    },
+    {
+      "id": "animate-sisters-dream",
+      "revision": 110930844,
+      "quote_present": true,
+      "page_html_sha256": "914f31e674436645eb378b3ddc4c1c3b2e22d940f511d70d49b14c95d0123d8a"
+    },
+    {
+      "id": "animate-conan-truth",
+      "revision": 110939584,
+      "quote_present": true,
+      "page_html_sha256": "d0fa73928ec92bf3ae411309a2f306bd96bf2e103da848492e98d55da95fcee2"
+    },
+    {
+      "id": "tomo8-confucius",
+      "revision": 109221142,
+      "quote_present": true,
+      "page_html_sha256": "8dc3af11310e0201dd2a446bc5e68abbd35b81ec7247f7cf57bdce87e0073675"
+    },
+    {
+      "id": "tomo8-nietzsche",
+      "revision": 110707428,
+      "quote_present": true,
+      "page_html_sha256": "1e0e181d614d3e9caeac6c08007d64e7c8b35d3aaf6af946eb9bf20c051b52f2"
+    },
+    {
+      "id": "tomo8-pythagoras",
+      "revision": 110579720,
+      "quote_present": true,
+      "page_html_sha256": "121a249b78f182e2bb758cf23db8f16013c02e7f2ced1a43ad8664e3fe1fd56d"
+    },
+    {
+      "id": "tomo8-hippocrates",
+      "revision": 110396157,
+      "quote_present": true,
+      "page_html_sha256": "1ca0bf6354fa47be91c9e2281a1e5c7b880d40fcb412044fdcec1c75c10524a4"
+    },
+    {
+      "id": "tomo8-martin-luther",
+      "revision": 107866553,
+      "quote_present": true,
+      "page_html_sha256": "437fe3ad898cead402be13c8b35d05853351d5d76e542689ef97fbca9e74c8d1"
+    },
+    {
+      "id": "tomo8-lincoln",
+      "revision": 109960955,
+      "quote_present": true,
+      "page_html_sha256": "e7b2a3cbb16b91e984c4b957c85b391f5ff96d0ad0b66ae4e82139b6ea0e7491"
+    },
+    {
+      "id": "tomo8-louis-pasteur",
+      "revision": 107944450,
+      "quote_present": true,
+      "page_html_sha256": "1ea6f2d938f370729f12d8ad1aa57f1bdd4afa0d4785dbf96e743ebd7a966011"
+    },
+    {
+      "id": "keiziban-43940",
+      "revision": 110289897,
+      "quote_present": true,
+      "page_html_sha256": "4d48fb948235ff05bbf673bc775070cc1c3ef5a4f97596d228b443773a5d4ff7"
+    },
+    {
+      "id": "keiziban-68327",
+      "revision": 109283126,
+      "quote_present": true,
+      "page_html_sha256": "7ceb857edc943cc4ab1b95b5dcac42317c8105b0b0c4e31cfba0afeb0fd4177d"
+    },
+    {
+      "id": "keiziban-89407",
+      "revision": 107817888,
+      "quote_present": true,
+      "page_html_sha256": "792afd689d0359f0e4d5f79ff60871f501fdead80d00af54007e1b5312b12817"
+    },
+    {
+      "id": "keiziban-3101",
+      "revision": 110227840,
+      "quote_present": true,
+      "page_html_sha256": "6f08ea86a1e7d5b3d4b3fd424baf6ee2681db2b557ad6cd636af34ad9af15dfa"
+    },
+    {
+      "id": "keiziban-96946",
+      "revision": 101672366,
+      "quote_present": true,
+      "page_html_sha256": "af9efd761ab7cd63037d350aac2d46e7c585692a2f2785e68f92e473648469d8"
+    },
+    {
+      "id": "keiziban-2535",
+      "revision": 110795852,
+      "quote_present": true,
+      "page_html_sha256": "36658f320004f005fc0a158c0d5d4896962169f90d90e599d032a4ccd70ef672"
+    },
+    {
+      "id": "keiziban-114908",
+      "revision": 110143758,
+      "quote_present": true,
+      "page_html_sha256": "ad994702d9e35214541dee4b3c650f20a0243a5817f49c81ee6aa6332907435b"
+    },
+    {
+      "id": "keiziban-44739",
+      "revision": 110438182,
+      "quote_present": true,
+      "page_html_sha256": "0e3419c148f051c95f583a508adcfe1a1f094123c320ef4ef5bd93e846d73d7a"
+    },
+    {
+      "id": "keiziban-144952",
+      "revision": 110509869,
+      "quote_present": true,
+      "page_html_sha256": "d42ecc2b394885c5582a0582fadc0fe89e093043d8c68c25f16bbb14f903f2cf"
+    },
+    {
+      "id": "keiziban-2542",
+      "revision": 110356399,
+      "quote_present": true,
+      "page_html_sha256": "bf55e1fee5d7123071c39c9f46a4285ec413358c0af0dce6803b888982334f17"
+    },
+    {
+      "id": "keiziban-98693",
+      "revision": 110546080,
+      "quote_present": true,
+      "page_html_sha256": "74becf6d6e5331fb32c379169fa5358a6319be98f839a4e058fd67288190daa6"
+    },
+    {
+      "id": "entame-18305432-07",
+      "revision": 110593494,
+      "quote_present": true,
+      "page_html_sha256": "b4cc111c56f9055d8e45519b9ac0c69e8b0fcdf4a2936d0fec9b453c8d4bb05a"
+    },
+    {
+      "id": "entame-18517656-01",
+      "revision": 110360330,
+      "quote_present": true,
+      "page_html_sha256": "16ec0db27c5f6fa4ece3fd3fd1580cc367ad592fbbbe373f71d9aff4353acb0e"
+    },
+    {
+      "id": "entame-18517656-02",
+      "revision": 110816166,
+      "quote_present": true,
+      "page_html_sha256": "b6543ecd811ce8e92975257d09f3dfc777c8dcb9b9fd3bc7a451e7681f9c1bb9"
+    },
+    {
+      "id": "entame-18963855-13",
+      "revision": 110659760,
+      "quote_present": true,
+      "page_html_sha256": "b966abc5357cbcdfef9844d0b1e3a5e75f6379cc03cabfb5bca6812d39a72da6"
+    },
+    {
+      "id": "entame-19460221-13",
+      "revision": 110786087,
+      "quote_present": true,
+      "page_html_sha256": "6f626ea9acc8e7d80d8171df67d6f480cc25922f3697ba72189cc40186d2086b"
+    },
+    {
+      "id": "wiki-1ffd2f14355b",
+      "revision": 109335274,
+      "quote_present": true,
+      "page_html_sha256": "538fae16965e809f7ee3519d684b25e015064226c34e4b1b5ff57439d6af5f7d"
+    },
+    {
+      "id": "wiki-0c3feb733bf7",
+      "revision": 110511059,
+      "quote_present": true,
+      "page_html_sha256": "a1cbf74e9d772a8b625f47def7601f42e16cda57e63f6bcaabd92a5aa4df498b"
+    },
+    {
+      "id": "wiki-7244f7a0014b",
+      "revision": 110511059,
+      "quote_present": true,
+      "page_html_sha256": "a1cbf74e9d772a8b625f47def7601f42e16cda57e63f6bcaabd92a5aa4df498b"
+    },
+    {
+      "id": "wiki-aa0a601d0961",
+      "revision": 109758565,
+      "quote_present": true,
+      "page_html_sha256": "4cfccdbe0f608ef172d7743c6637d7951f656172b62c7fb4dff9615fb6a4944d"
+    },
+    {
+      "id": "wiki-682267907687",
+      "revision": 108825287,
+      "quote_present": true,
+      "page_html_sha256": "6c89b14fa264465e5b92bb989ea1db704309522a1a97123ddcce3beee8617ce3"
+    },
+    {
+      "id": "wiki-4cc5a5758a11",
+      "revision": 110882374,
+      "quote_present": true,
+      "page_html_sha256": "017872c14a1be5897d30203ee58515d4865fb64b783360896c610d240b4ed21d"
+    },
+    {
+      "id": "wiki-8ecca9d84dcb",
+      "revision": 109552308,
+      "quote_present": true,
+      "page_html_sha256": "3f226f4ea53efe288828865b143b4a9315ded0f1b603da6d617e81a494e558b9"
+    },
+    {
+      "id": "wiki-a0289b721cac",
+      "revision": 109552308,
+      "quote_present": true,
+      "page_html_sha256": "3f226f4ea53efe288828865b143b4a9315ded0f1b603da6d617e81a494e558b9"
+    },
+    {
+      "id": "wiki-5bcdcec4af31",
+      "revision": 110468914,
+      "quote_present": true,
+      "page_html_sha256": "a673d3c0cdb5f504891acba1baa5923355ff974d4ef7bc3a78e2eddeb32a9b14"
+    },
+    {
+      "id": "wiki-eb879fd2cec5",
+      "revision": 109114690,
+      "quote_present": true,
+      "page_html_sha256": "9747a0649c84df12306253812b024559c7dd9fd45279e909848b975f37d7a48a"
+    },
+    {
+      "id": "wiki-c938c770ac0d",
+      "revision": 109114690,
+      "quote_present": true,
+      "page_html_sha256": "9747a0649c84df12306253812b024559c7dd9fd45279e909848b975f37d7a48a"
+    },
+    {
+      "id": "wiki-d4c50a10c63c",
+      "revision": 109114690,
+      "quote_present": true,
+      "page_html_sha256": "9747a0649c84df12306253812b024559c7dd9fd45279e909848b975f37d7a48a"
+    },
+    {
+      "id": "wiki-f5dfdc88efac",
+      "revision": 105496178,
+      "quote_present": true,
+      "page_html_sha256": "4a839552492b72e7569c411a9575a4a12783ecf493056eb8862a7f83b60741ba"
+    },
+    {
+      "id": "wiki-94133c747f8f",
+      "revision": 105496178,
+      "quote_present": true,
+      "page_html_sha256": "4a839552492b72e7569c411a9575a4a12783ecf493056eb8862a7f83b60741ba"
+    },
+    {
+      "id": "wiki-ea295044dc46",
+      "revision": 105496178,
+      "quote_present": true,
+      "page_html_sha256": "4a839552492b72e7569c411a9575a4a12783ecf493056eb8862a7f83b60741ba"
+    },
+    {
+      "id": "wiki-dad63bc87db2",
+      "revision": 105496178,
+      "quote_present": true,
+      "page_html_sha256": "4a839552492b72e7569c411a9575a4a12783ecf493056eb8862a7f83b60741ba"
+    },
+    {
+      "id": "wiki-f37c4c0bb19b",
+      "revision": 110375041,
+      "quote_present": true,
+      "page_html_sha256": "a9ad88f94c43ea09f638ba6abe199580ce1f274d0b5de3dcabedb61d7632402b"
+    },
+    {
+      "id": "wiki-1d1a722df867",
+      "revision": 110375041,
+      "quote_present": true,
+      "page_html_sha256": "a9ad88f94c43ea09f638ba6abe199580ce1f274d0b5de3dcabedb61d7632402b"
+    },
+    {
+      "id": "wiki-640355c10642",
+      "revision": 110375041,
+      "quote_present": true,
+      "page_html_sha256": "a9ad88f94c43ea09f638ba6abe199580ce1f274d0b5de3dcabedb61d7632402b"
+    },
+    {
+      "id": "wiki-f19f90ea7fdf",
+      "revision": 110587672,
+      "quote_present": true,
+      "page_html_sha256": "c1489205d59fc65c89d0fec20dade5df790cfc23848e1fa726042f652e9d49b5"
+    },
+    {
+      "id": "wiki-888d807e1901",
+      "revision": 110587672,
+      "quote_present": true,
+      "page_html_sha256": "c1489205d59fc65c89d0fec20dade5df790cfc23848e1fa726042f652e9d49b5"
+    },
+    {
+      "id": "wiki-301d40c95c3e",
+      "revision": 110926076,
+      "quote_present": true,
+      "page_html_sha256": "b751f6540250c90d9141f39b2a95be04f911474af25cabbc411d79d58b1f6906"
+    },
+    {
+      "id": "wiki-d20970892e5b",
+      "revision": 110926076,
+      "quote_present": true,
+      "page_html_sha256": "b751f6540250c90d9141f39b2a95be04f911474af25cabbc411d79d58b1f6906"
+    },
+    {
+      "id": "wiki-44c05e1ede3c",
+      "revision": 110939161,
+      "quote_present": true,
+      "page_html_sha256": "cb8bb99ddf9d42cea57c6f05d421639b9865b1803f4bb3e6c247d235e7425ab7"
+    },
+    {
+      "id": "wiki-186dac0a6949",
+      "revision": 110939161,
+      "quote_present": true,
+      "page_html_sha256": "cb8bb99ddf9d42cea57c6f05d421639b9865b1803f4bb3e6c247d235e7425ab7"
+    },
+    {
+      "id": "wiki-283090703015",
+      "revision": 110795852,
+      "quote_present": true,
+      "page_html_sha256": "36658f320004f005fc0a158c0d5d4896962169f90d90e599d032a4ccd70ef672"
+    },
+    {
+      "id": "wiki-513083fc31df",
+      "revision": 110795852,
+      "quote_present": true,
+      "page_html_sha256": "36658f320004f005fc0a158c0d5d4896962169f90d90e599d032a4ccd70ef672"
+    },
+    {
+      "id": "wiki-65c0390e54ff",
+      "revision": 110795852,
+      "quote_present": true,
+      "page_html_sha256": "36658f320004f005fc0a158c0d5d4896962169f90d90e599d032a4ccd70ef672"
+    },
+    {
+      "id": "wiki-07f15d52af37",
+      "revision": 110891025,
+      "quote_present": true,
+      "page_html_sha256": "a3a54d21f51ca3fe94a6ba599b691cd9787177c5fe36b3bf0db15b8d0daef682"
+    },
+    {
+      "id": "wiki-e575be54a020",
+      "revision": 110891025,
+      "quote_present": true,
+      "page_html_sha256": "a3a54d21f51ca3fe94a6ba599b691cd9787177c5fe36b3bf0db15b8d0daef682"
+    },
+    {
+      "id": "wiki-be2bf6ebc5cb",
+      "revision": 110948708,
+      "quote_present": true,
+      "page_html_sha256": "05bd3f7c88e0a7a1bfbd9156d56a393d6160e2908a090fdea52db4e40fcca9ea"
+    },
+    {
+      "id": "wiki-843e6b4de048",
+      "revision": 110546080,
+      "quote_present": true,
+      "page_html_sha256": "74becf6d6e5331fb32c379169fa5358a6319be98f839a4e058fd67288190daa6"
+    },
+    {
+      "id": "wiki-48f5a8d294cb",
+      "revision": 110360330,
+      "quote_present": true,
+      "page_html_sha256": "16ec0db27c5f6fa4ece3fd3fd1580cc367ad592fbbbe373f71d9aff4353acb0e"
+    },
+    {
+      "id": "wiki-5a32cc34edc3",
+      "revision": 110360330,
+      "quote_present": true,
+      "page_html_sha256": "16ec0db27c5f6fa4ece3fd3fd1580cc367ad592fbbbe373f71d9aff4353acb0e"
+    },
+    {
+      "id": "wiki-d19b52639d3f",
+      "revision": 110245341,
+      "quote_present": true,
+      "page_html_sha256": "12d7d7805f5d365ba6bcd6b048387cdf69af951a896ab02588bb2a16b2845e75"
+    },
+    {
+      "id": "wiki-4f2bd9654ff0",
+      "revision": 110245341,
+      "quote_present": true,
+      "page_html_sha256": "12d7d7805f5d365ba6bcd6b048387cdf69af951a896ab02588bb2a16b2845e75"
+    },
+    {
+      "id": "wiki-e45c6b16feb2",
+      "revision": 110694772,
+      "quote_present": true,
+      "page_html_sha256": "3209cf2dd5b122d4109d4bc1833c0b32bc8ddb05b33db0d26f92a473aa1316be"
+    },
+    {
+      "id": "wiki-18d0c439e31d",
+      "revision": 110694772,
+      "quote_present": true,
+      "page_html_sha256": "3209cf2dd5b122d4109d4bc1833c0b32bc8ddb05b33db0d26f92a473aa1316be"
+    },
+    {
+      "id": "wiki-205a1e18696a",
+      "revision": 110786176,
+      "quote_present": true,
+      "page_html_sha256": "01f8c8c9918d865c62338537fd869f721f47a38c0dd2bb4cfc3fc58a8e2cd964"
+    },
+    {
+      "id": "wiki-fbf5f3364979",
+      "revision": 110786176,
+      "quote_present": true,
+      "page_html_sha256": "01f8c8c9918d865c62338537fd869f721f47a38c0dd2bb4cfc3fc58a8e2cd964"
+    },
+    {
+      "id": "wiki-e41f59cea608",
+      "revision": 110786176,
+      "quote_present": true,
+      "page_html_sha256": "01f8c8c9918d865c62338537fd869f721f47a38c0dd2bb4cfc3fc58a8e2cd964"
+    },
+    {
+      "id": "wiki-0480b4887bbb",
+      "revision": 109760458,
+      "quote_present": true,
+      "page_html_sha256": "1f5f4235b668b4220cd290150e27c0b7620dcc24c723854196e27004f5e1f468"
+    },
+    {
+      "id": "wiki-46016c42870c",
+      "revision": 110405187,
+      "quote_present": true,
+      "page_html_sha256": "8ccc729830cdb2cac76734a6f1fb36a8b7b441ba283402bc44fabb412ebbfbc2"
+    },
+    {
+      "id": "wiki-cf64ef74cb30",
+      "revision": 110852222,
+      "quote_present": true,
+      "page_html_sha256": "43e54152a0d26ad1b186d8ec070464ecb2c3f51b1ba98f2b5335fc27453ebe31"
+    },
+    {
+      "id": "wiki-bd048ad70688",
+      "revision": 110700451,
+      "quote_present": true,
+      "page_html_sha256": "5295a5446d16af06962e92aae68b7af36e93d84b90fde2d2ca30c756866da83c"
+    },
+    {
+      "id": "wiki-8824bb5e0904",
+      "revision": 110593494,
+      "quote_present": true,
+      "page_html_sha256": "b4cc111c56f9055d8e45519b9ac0c69e8b0fcdf4a2936d0fec9b453c8d4bb05a"
+    },
+    {
+      "id": "wiki-f80ff46c3b44",
+      "revision": 110874802,
+      "quote_present": true,
+      "page_html_sha256": "d8537a21b80c5c7713786ea4121cdf1a6221e9f9d02f49b9d24190ff6a52dcb8"
+    },
+    {
+      "id": "wiki-ad0d63ebb914",
+      "revision": 110939584,
+      "quote_present": true,
+      "page_html_sha256": "d0fa73928ec92bf3ae411309a2f306bd96bf2e103da848492e98d55da95fcee2"
+    },
+    {
+      "id": "wiki-c0806a36990e",
+      "revision": 110915718,
+      "quote_present": true,
+      "page_html_sha256": "9baff3d6c4276988c8c9948cca65aa65eaa4522ee1274e0854259cff738b275d"
+    },
+    {
+      "id": "wiki-ddb215d50342",
+      "revision": 110934869,
+      "quote_present": true,
+      "page_html_sha256": "8440def80bd1c557bb279c3c03f01850fa666116355f63742b7e051b7b822e82"
+    },
+    {
+      "id": "wiki-2eceda7b306a",
+      "revision": 110939330,
+      "quote_present": true,
+      "page_html_sha256": "169dfe0b09e08f2ad3b06be4f46d0b6c607903c7c774b3b48ed3a4cf02ac01dd"
+    },
+    {
+      "id": "wiki-f7c8eac94e58",
+      "revision": 110807695,
+      "quote_present": true,
+      "page_html_sha256": "01592aef15fdad799c92f924f19b66da151122c956be9037cff4152c4efa36ef"
+    },
+    {
+      "id": "wiki-880122c65f2c",
+      "revision": 110747570,
+      "quote_present": true,
+      "page_html_sha256": "290bd9a766bff2985bbcf52395470c34658dee2ec8c2cd002c198d8c9416a5cd"
+    },
+    {
+      "id": "wiki-25824ee74beb",
+      "revision": 110860929,
+      "quote_present": true,
+      "page_html_sha256": "9c5342c4c9311064ee508e983ff21ed196df62e13d52a5b6c11a6f72ff51ca03"
+    },
+    {
+      "id": "wiki-42fc8933f3b0",
+      "revision": 109934203,
+      "quote_present": true,
+      "page_html_sha256": "025a74f8294f44042e969646620d09981e0ee9f9e231c042594e5258ad2b4c15"
+    },
+    {
+      "id": "wiki-623729715789",
+      "revision": 110688818,
+      "quote_present": true,
+      "page_html_sha256": "96707f1bfe03b3b83eb7d077bc11668a359663aff6b3c2590cb2715a200b010a"
+    }
+  ]
+}

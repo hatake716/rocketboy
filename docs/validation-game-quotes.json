@@ -1,0 +1,98 @@
+{
+  "date": "2026-09-09",
+  "status": "game_category_and_site_selection_implemented_total_catalog_incomplete",
+  "catalog": {
+    "requested_total": 3000,
+    "included_total": 346,
+    "remaining": 2654,
+    "complete": false,
+    "categories": {
+      "history": 95,
+      "business": 29,
+      "fiction": 58,
+      "game": 10,
+      "proverb": 54,
+      "hyakunin": 100
+    },
+    "hyakunin_count": 100
+  },
+  "keiziban_selection": {
+    "added": 64,
+    "source_articles": 64,
+    "history": 28,
+    "business": 19,
+    "fiction": 8,
+    "game": 9,
+    "partial_excerpts": 17,
+    "new_authors": 61,
+    "existing_authors_reused": [
+      "matsushita",
+      "honda",
+      "shibusawa"
+    ],
+    "all_excerpts_matched_attributed_reviews": true,
+    "all_provenance_hashes_matched": true,
+    "original_sources_verified": false
+  },
+  "moved_existing_quote": {
+    "id": "animate-sogo-music",
+    "old_category": "fiction",
+    "new_category": "game",
+    "text_reading_author_and_id_preserved": true
+  },
+  "unit_tests": {
+    "tests": 27,
+    "failures": 0,
+    "errors": 0,
+    "skipped": 0
+  },
+  "ui_tests_full": {
+    "tests": 22,
+    "failures": 0,
+    "errors": 0,
+    "skipped": 0
+  },
+  "ui_tests_compact": {
+    "tests": 2,
+    "failures": 0,
+    "errors": 0,
+    "skipped": 0
+  },
+  "initial_ui_run": {
+    "tests": 22,
+    "failures": 1,
+    "reason": "New test clicked the collection button before the recreated menu was displayed; synchronized on focus, layout and the destination button before rerunning the full suite."
+  },
+  "emulator": {
+    "serial": "emulator-5554",
+    "api": 35,
+    "full": "1080x2400 / 420dpi",
+    "compact": "720x1280 / 320dpi",
+    "original_display_restored": true
+  },
+  "debug_lint": {
+    "errors": 0,
+    "warnings": 24
+  },
+  "debug_build": true,
+  "packaged_catalog_matches_source": true,
+  "packaged_tsv_records": 338,
+  "legacy_code_records": 8,
+  "physical_device_tested": false,
+  "apk": {
+    "path": "artifacts/game-quotes-preview/ROCKETBOY-game-quotes-preview.apk",
+    "bytes": 5778088,
+    "sha256": "1c844ecd1b60c59e74c369e9a96a91b5b6e8bba070d85cfc1d46a5bc9a78e218",
+    "signature": "Android debug / APK Signature Scheme v2",
+    "installed_apk_sha256_matches": true,
+    "versionName": "1.1.0",
+    "versionCode": 2
+  },
+  "target_count_check": {
+    "command": "python3 tools/quotes/build_catalog.py --require-target",
+    "exit_code": 1,
+    "reason": "346 entries included; 2654 missing"
+  },
+  "screenshots": "docs/screenshots/game-quotes-preview/",
+  "screenshots_use_prepared_collection_and_meteor_states": true
+}
